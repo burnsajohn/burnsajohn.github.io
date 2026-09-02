@@ -1,0 +1,31 @@
+---
+title: "Acantharian biomineralization"
+description: "How acantharians concentrate strontium from seawater to form celestite, and what the resulting forms are for."
+image: ../images/acantharian.jpg
+order: 3
+---
+
+::: {.lead}
+How acantharians concentrate strontium from seawater to form celestite, and what the resulting forms are for.
+:::
+
+<!-- TODO: replace everything below. Three or four paragraphs and at least one
+     figure. This is the page a prospective student or collaborator reads. -->
+
+TODO: what the question is and why it is hard.
+
+TODO: what the lab is doing about it. Approach, organisms, methods.
+
+TODO: where it stands and what is next.
+
+::: {.eyebrow}
+People
+:::
+
+TODO: lab members and collaborators with affiliations.
+
+::: {.eyebrow}
+Related publications
+:::
+
+TODO: two or three key papers.

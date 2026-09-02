@@ -1,0 +1,94 @@
+---
+title: "Publications"
+listing:
+  - id: featured-pubs
+    contents: publications.yml
+    include:
+      featured: true
+    type: grid
+    grid-columns: 3
+    image-height: 240px
+    sort: "year desc"
+    fields: [image, title, description]
+    categories: false
+    feed: false
+    filter-ui: false
+    sort-ui: false
+    page-size: 60
+  - id: current-pubs
+    contents: publications.yml
+    include:
+      era: current
+    exclude:
+      featured: true
+    type: table
+    table-striped: false
+    table-hover: true
+    sort: "year desc"
+    fields: [year, title, description]
+    field-display-names:
+      year: ""
+      title: ""
+      description: ""
+    categories: false
+    feed: false
+    filter-ui: true
+    sort-ui: false
+    page-size: 100
+  - id: prior-pubs
+    contents: publications.yml
+    include:
+      era: prior
+    type: table
+    table-striped: false
+    table-hover: true
+    sort: "year desc"
+    fields: [year, title, description]
+    field-display-names:
+      year: ""
+      title: ""
+      description: ""
+    categories: false
+    feed: false
+    filter-ui: false
+    sort-ui: false
+    page-size: 100
+---
+
+::: {.lead}
+Also on [Google Scholar](https://scholar.google.com/citations?user=DHoJBCAAAAAJ&hl=en)
+and [ORCID](https://orcid.org/0000-0002-2348-8438).
+:::
+
+## Selected
+
+::: {#featured-pubs}
+:::
+
+## Recent work
+
+::: {#current-pubs}
+:::
+
+## Earlier work
+
+Molecular biology of transcription and DNA damage, from graduate and
+postdoctoral work.
+
+::: {#prior-pubs}
+:::
+
+<!--
+This page is generated. Do not edit the list by hand.
+
+  python3 scripts/update_pubs.py
+
+Two fields control where an entry lands, and the script sets both:
+
+  featured: true   an entry with an `image:` set, shown in the grid
+  era: current     2015 onward; era: prior is anything earlier
+
+Change ERA_CUTOFF at the top of the script to move the boundary. Image
+assignments are preserved across runs, so adding a cover figure is a one-time
+job per paper and promotes it into the grid.
+-->

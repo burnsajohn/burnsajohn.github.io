@@ -1,0 +1,1337 @@
+/*-- scss:defaults --*/
+
+// ---------------------------------------------------------------
+// Palette. Drawn from transmitted-light microscopy: the pale cold
+// field of a slide, ink-dark cytoplasm, chlorophyll, and the
+// blue-grey of celestite.
+// ---------------------------------------------------------------
+$field:      #FFFFFF;   // page background
+$field-deep: #E2E7E2;   // recessed panels
+$ink:        #16211F;   // primary text
+$ink-soft:   #4C5B57;   // secondary text
+$rule:       #C2CBC5;   // hairlines, page frame
+$chloro:     #35674C;   // chlorophyll: links, emphasis
+$celestite:  #3E6B84;   // strontium blue: secondary accent
+$lilac:      #8578B5;   // section headings
+$amber:      #A8703A;   // press: deep-sea work
+$ice: #4E7A8C;   // press: polar work
+
+$body-bg:    $field;
+$body-color: $ink;
+$link-color: $chloro;
+
+// ---------------------------------------------------------------
+// Type. Archivo carries the loud moments: the hero, section
+// headings, press numbers. Newsreader sets headings and lead text.
+// Source Sans 3 sets body copy. IBM Plex Mono handles labels, the
+// way annotations are set on a micrograph.
+// ---------------------------------------------------------------
+$web-font-path: "https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..125,600;75..125,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap";
+
+$font-family-hero:       "Archivo", "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$font-family-monospace:  "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+$headings-font-family:   "Newsreader", Georgia, serif;
+
+$font-size-root:       17px;
+$line-height-base:     1.5;
+$headings-font-weight: 400;
+
+$navbar-bg: $field;
+$navbar-fg: $ink;
+$footer-bg: $field;
+
+/*-- scss:rules --*/
+
+// ===============================================================
+// BASE TYPOGRAPHY
+// ===============================================================
+body {
+  -webkit-font-smoothing: antialiased;
+  padding: 14px;              // keeps text off the page frame
+}
+
+// The page frame: a hairline inset from the viewport, fixed so the
+// content scrolls beneath it and full-bleed heroes crop against it.
+body::after {
+  content: "";
+  position: fixed;
+  inset: 14px;
+  border: 1px solid $rule;
+  pointer-events: none;
+  z-index: 1000;
+}
+
+h1, .h1 {
+  font-size: 2.6rem;
+  line-height: 1.12;
+  letter-spacing: -0.012em;
+  margin-bottom: 1rem;
+}
+
+h2, .h2 {
+  font-size: 1.65rem;
+  line-height: 1.2;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+  clear: both;              // stops floated figures spilling into the next section
+}
+
+h3, .h3 {
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  clear: both;
+}
+
+// Small mono label, one level below h3.
+h4, .h4 {
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: $ink-soft;
+  margin-top: 1.75rem;
+  margin-bottom: 0.6rem;
+}
+
+p, li {
+  color: $ink;
+}
+
+.lead {
+  font-family: $headings-font-family;
+  font-size: 1.24rem;
+  line-height: 1.42;
+  max-width: 40em;
+  color: $ink-soft;
+}
+
+// Genus and species names, italicised without hand-tagging each one.
+.taxon {
+  font-style: italic;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: $rule;
+  opacity: 1;
+  margin: 1.75rem 0;
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(53, 103, 76, 0.35);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+a:hover {
+  color: $celestite;
+  border-bottom-color: $celestite;
+}
+
+figure figcaption {
+  font-family: $font-family-monospace;
+  font-size: 0.76rem;
+  line-height: 1.5;
+  color: $ink-soft;
+  padding-top: 0.6rem;
+}
+
+// ===============================================================
+// SECTION HEADINGS (.eyebrow)
+// Large centred lilac caps marking top-level divisions.
+// ===============================================================
+.eyebrow,
+.eyebrow p {
+  font-family: $font-family-hero;
+  font-size: clamp(2rem, 4.5vw, 2.9rem);
+  font-weight: 600;
+  font-stretch: 108%;
+  letter-spacing: 0.03em;
+  line-height: 1.05;
+  text-transform: uppercase;
+  color: $lilac;
+  text-align: center;
+}
+
+// Margins on the container only. Putting them on the inner
+// paragraph too doubles every gap.
+.eyebrow {
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+  clear: both;
+}
+
+.eyebrow p {
+  margin: 0;
+}
+
+// First eyebrow on the home page sits directly under the hero.
+.body-wrap > .eyebrow:first-child,
+.body-wrap > .eyebrow:first-of-type {
+  margin-top: 0;
+}
+
+// A rule already signals a new section, so the heading after one
+// does not need to re-announce it with a large gap.
+hr + .eyebrow {
+  margin-top: 1.25rem;
+}
+
+.eyebrow + h3,
+.eyebrow + .h3 {
+  margin-top: 1.25rem;
+}
+
+// ===============================================================
+// NAVBAR: a hairline, not a bar
+// ===============================================================
+.navbar {
+  border-bottom: 1px solid $rule;
+  padding: 1.1rem 1.5rem;
+}
+
+.navbar .navbar-brand {
+  font-family: $headings-font-family;
+  font-size: 1.22rem;
+  letter-spacing: -0.01em;
+  border-bottom: 0;
+}
+
+.navbar .nav-link {
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-bottom: 0;
+}
+
+.navbar .nav-link.active {
+  color: $chloro !important;
+}
+
+.nav-footer {
+  border-top: 1px solid $rule;
+  font-size: 0.82rem;
+  color: $ink-soft;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+}
+
+// ===============================================================
+// HOME PAGE HERO
+// Full-bleed image with the lab name staggered across it. The one
+// loud moment in the design; everything below the fold stays quiet.
+// ===============================================================
+.hero {
+  position: relative;
+  width: 100%;
+  min-height: min(52vh, 440px);
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  // Fallback so the page is never broken while the image is missing.
+  background: radial-gradient(circle at 62% 38%, #2A4A44 0%, #101A19 72%);
+  margin-bottom: 1.25rem;
+}
+
+.hero__media {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+}
+
+.hero__media img,
+.hero__media p img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 42%;
+  display: block;
+  margin: 0;
+}
+
+.hero__media figure,
+.hero__media p {
+  margin: 0;
+  height: 100%;
+}
+
+// Darkens the lower left so white type stays legible over whatever
+// the image happens to be doing there.
+.hero__scrim {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    rgba(10, 20, 19, 0.74) 0%,
+    rgba(10, 20, 19, 0.42) 46%,
+    rgba(10, 20, 19, 0.12) 100%
+  );
+}
+
+.hero__type {
+  position: relative;
+  z-index: 2;
+  padding: clamp(2rem, 5vw, 3.5rem) clamp(1.5rem, 6vw, 6rem);
+  width: 100%;
+}
+
+.hero__word {
+  display: block;
+  font-family: $font-family-hero;
+  font-weight: 700;
+  font-stretch: 112%;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: clamp(2.4rem, 10.5vw, 8rem);
+  line-height: 0.9;
+  letter-spacing: -0.022em;
+  text-shadow: 0 2px 26px rgba(8, 16, 15, 0.4);
+}
+
+// The stagger. Percentages rather than fixed offsets so the
+// diagonal holds its angle at every width.
+.hero__word--2 { margin-left: 9%; }
+.hero__word--3 { margin-left: 18%; }
+
+// Page-load reveal, one word after the next.
+@media (prefers-reduced-motion: no-preference) {
+  .hero__word {
+    animation: hero-rise 0.85s cubic-bezier(0.16, 0.84, 0.44, 1) backwards;
+  }
+  .hero__word:nth-child(1) { animation-delay: 0.05s; }
+  .hero__word:nth-child(2) { animation-delay: 0.17s; }
+  .hero__word:nth-child(3) { animation-delay: 0.29s; }
+}
+
+@keyframes hero-rise {
+  from { opacity: 0; transform: translateY(0.5em); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+// ===============================================================
+// PAGE HEADER IMAGE (project and interior pages)
+// Height is set per page with an inline style; this is the default.
+// ===============================================================
+.page-hero {
+  position: relative;
+  width: 100%;
+  height: min(32vh, 300px);
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.page-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 0;
+}
+
+.page-hero figure,
+.page-hero p {
+  margin: 0;
+  height: 100%;
+}
+
+// Heroes wrapped in a link to the full-size image.
+.page-hero a {
+  border-bottom: 0;
+  display: block;
+  height: 100%;
+}
+
+.page-hero__title {
+  position: absolute;
+  z-index: 2;
+  bottom: 1.75rem;
+  left: clamp(1.5rem, 5vw, 4rem);
+  font-family: $font-family-hero;
+  font-weight: 700;
+  font-stretch: 112%;
+  text-transform: uppercase;
+  color: #fff;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+  line-height: 1;
+  letter-spacing: -0.015em;
+  text-shadow: 0 2px 24px rgba(8, 16, 15, 0.45);
+}
+
+.page-hero__title p {
+  margin: 0;
+  color: inherit;
+  font: inherit;
+}
+
+// Parallax: the image is taller than its window and slides within
+// it as the page scrolls. Driven by parallax.html.
+.page-hero.parallax img {
+  height: 140%;
+  will-change: transform;
+}
+
+.hero-credit {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  color: $ink-soft;
+  margin-top: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+// A banner image at its natural proportions, cropped evenly top and
+// bottom by a shorter parent rather than squeezed by object-fit. For
+// wide illustrations that should not be distorted.
+.hero-plain {
+  margin-bottom: 1.5rem;
+  max-height: 260px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.hero-plain img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  flex: 0 0 auto;
+}
+
+.hero-plain a {
+  border-bottom: 0;
+  display: block;
+  width: 100%;
+}
+
+// ===============================================================
+// HALF-WIDTH FIGURES (.fig-half)
+// Quarto emits two different structures depending on whether the
+// image has a caption, so both are handled here.
+//
+//   with caption:  div.quarto-figure > figure > p > img.fig-half
+//   no caption:    p > img.fig-half
+//
+// Add .fig-left to flip a figure to the other side.
+// ===============================================================
+
+// Captioned: the outer div floats, everything inside fills it.
+.quarto-figure:has(img.fig-half) {
+  display: block;
+  float: right;
+  width: 40%;
+  margin: 0.3rem 0 1rem 1.75rem;
+}
+
+.quarto-figure:has(img.fig-half) a {
+  border-bottom: 0;
+  display: block;
+  width: 100%;
+}
+
+.quarto-figure:has(img.fig-half) figure,
+.quarto-figure:has(img.fig-half) p {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+.quarto-figure:has(img.fig-half) img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+}
+
+.quarto-figure:has(img.fig-half) figcaption {
+  display: block;
+  width: 100%;
+  caption-side: bottom;
+  text-align: left;
+  font-family: $font-family-monospace;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: $ink-soft;
+  padding-top: 0.4rem;
+}
+
+// Uncaptioned: the image floats on its own.
+p > img.fig-half {
+  float: right;
+  width: 40%;
+  height: auto;
+  display: block;
+  margin: 0.3rem 0 1rem 1.75rem;
+}
+
+// Flip to the left. Covers both structures.
+.quarto-figure:has(img.fig-left),
+p > img.fig-left {
+  float: left;
+  margin: 0.3rem 1.75rem 1rem 0;
+}
+
+// ===============================================================
+// FIGURE ROWS (.figure-row)
+// Image beside text, the two vertically centred against each
+// other. Unlike the floats above, text does not wrap under the
+// image, so use this when there is one figure per section.
+//
+//   ::: {.figure-row}
+//   ![](path.png){.figure-col fig-alt="..."}
+//
+//   ::: {.figure-text}
+//   Paragraph beside the image.
+//   :::
+//   :::
+//
+// Add .figure-row-flip to put the image on the right.
+// ===============================================================
+.figure-row {
+  display: flex;
+  align-items: stretch;
+  gap: 1.75rem;
+  margin: 1.25rem 0 2rem;
+  clear: both;
+}
+
+// Both children centre against whichever is taller, so short text
+// beside a tall figure centres and vice versa, with no per-figure
+// decision.
+.figure-row > * {
+  align-self: center;
+}
+
+// Add .figure-row-flip to put the image on the right. Automatic
+// alternation is not possible: Quarto wraps each heading in its
+// own <section>, so every row is first-of-type in its parent.
+.figure-row.figure-row-flip {
+  flex-direction: row-reverse;
+}
+
+// The image column. Quarto wraps an uncaptioned image in a bare
+// <p>, and a captioned one in div.quarto-figure > figure > p, so
+// the flex child is never the <img> itself. Width goes on the
+// wrapper; the image just fills it.
+//
+// Width defaults to 42% and can be overridden per figure without a
+// new class:  ::: {.figure-row style="--fig-width: 32%;"}
+//
+// The :has() selectors also allow a link between the wrapper and
+// the image, so a click-to-full-size figure still gets its column.
+.figure-row > p:has(> img.figure-col),
+.figure-row > p:has(a > img.figure-col),
+.figure-row > .quarto-figure,
+.figure-row > figure.figure-col {
+  flex: 0 0 var(--fig-width, 42%);
+  max-width: var(--fig-width, 42%);
+  margin: 0;
+}
+
+// Figures wrapped in a link to the full-size file. overflow: hidden
+// keeps the hover zoom below from spilling out of the column.
+.figure-row a:has(img) {
+  border-bottom: 0;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+}
+
+// Intermediate elements are shrink-to-fit, so they need an
+// explicit width or the image has nothing to expand into.
+.figure-row .quarto-figure figure,
+.figure-row .quarto-figure p,
+.figure-row figure.figure-col p {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+// No max-width on the image. Capping it as well as its column
+// makes it a fraction of a fraction, which is why the figures
+// came out small.
+.figure-row img.figure-col,
+.figure-row .figure-col img,
+.figure-row a > img.figure-col,
+.figure-row .quarto-figure img {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  display: block;
+  margin: 0;
+}
+
+.figure-row figcaption {
+  font-family: $font-family-monospace;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: $ink-soft;
+  padding-top: 0.4rem;
+}
+
+// A small lift on hover, so a clickable figure says so before it is
+// clicked. Only on linked figures: an image that does nothing should
+// not invite a click. The scale is deliberately slight, since a plot
+// that jumps is distracting rather than inviting.
+.figure-row a:has(img) img {
+  transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.figure-row a:has(img):hover img,
+.figure-row a:has(img):focus-visible img {
+  transform: scale(1.04);
+}
+
+// Two or more images stacked in the figure column, for cases where a
+// single paragraph is illustrated by a pair.
+//
+//   ::: {.figure-row}
+//   ::: {.figure-stack}
+//   ![One.](a.gif){fig-alt="..."}
+//
+//   ![Two.](b.gif){fig-alt="..."}
+//   :::
+//
+//   ::: {.figure-text}
+//   Paragraph beside them.
+//   :::
+//   :::
+.figure-row > .figure-stack {
+  flex: 0 0 var(--fig-width, 42%);
+  max-width: var(--fig-width, 42%);
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin: 0;
+}
+
+// Add .figure-stack-side to sit them beside each other instead. Worth a
+// wider column when you do:  ::: {.figure-row style="--fig-width: 55%;"}
+.figure-row > .figure-stack.figure-stack-side {
+  flex-direction: row;
+  align-items: center;
+}
+
+.figure-stack-side > p,
+.figure-stack-side > figure,
+.figure-stack-side > .quarto-figure {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.figure-stack > p,
+.figure-stack > figure,
+.figure-stack > .quarto-figure {
+  width: 100%;
+  margin: 0;
+}
+
+.figure-stack img {
+  width: 100%;
+  max-width: none;
+  height: auto;
+  display: block;
+  margin: 0;
+}
+
+.figure-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.figure-text p:first-child { margin-top: 0; }
+.figure-text p:last-child  { margin-bottom: 0; }
+
+// ===============================================================
+// VIDEO PAIR
+// Two embedded videos side by side, each half the column. Quarto's
+// {{< video >}} shortcode renders a ratio-boxed div, so the wrapper
+// only has to set the width and let the box do the rest.
+//
+//   ::: {.video-pair}
+//   {{< video path/one.mp4 >}}
+//
+//   {{< video path/two.mp4 >}}
+//   :::
+// ===============================================================
+.video-pair {
+  display: flex;
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+  clear: both;
+  align-items: flex-start;
+}
+
+.video-pair > * {
+  flex: 1 1 0;
+  min-width: 0;
+  margin: 0;
+}
+
+// Captions written as a paragraph under each video.
+.video-pair p {
+  margin: 0;
+}
+
+// Raw <video> elements, which is what you get without the shortcode.
+// The shortcode's wrapper classes are covered too, in case it is used.
+.video-pair video,
+.video-pair .quarto-video,
+.video-pair .ratio {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 700px) {
+  .video-pair {
+    flex-direction: column;
+  }
+}
+
+// ===============================================================
+// HOME PAGE
+// page-layout: custom removes Quarto's column wrapper, so the body
+// needs its own measure.
+// ===============================================================
+.body-wrap {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 0 1.5rem 2rem;
+}
+
+.question {
+  padding-top: 1.15rem;
+  margin-top: 1.15rem;
+  border-top: 1px solid $rule;
+}
+
+.question:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.question h3 {
+  font-family: $font-family-hero;
+  font-weight: 600;
+  font-stretch: 108%;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  font-size: 0.95rem;
+  color: $chloro;
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+}
+
+.question p {
+  font-family: $headings-font-family;
+  font-size: 1.22rem;
+  line-height: 1.46;
+  margin-bottom: 0;
+  max-width: 33em;
+}
+
+.more-link {
+  display: inline-block;
+  margin-top: 2rem;
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border-bottom: 0;
+}
+
+// ===============================================================
+// TOPIC BLOCKS
+// Used on project, resources, and outreach pages. Hairline-
+// separated entries, optionally with a thumbnail column.
+// ===============================================================
+.topic {
+  padding-top: 2.2rem;
+  border-top: 1px solid $rule;
+  margin-top: 2.2rem;
+}
+
+.topic:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.topic h3 {
+  margin-top: 0;
+}
+
+// With a thumbnail: heading across the top, image column left,
+// text right. Wrap the text side in ::: {.topic-body}.
+.topic:has(.topic-img) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 1.75rem;
+  row-gap: 0.9rem;
+}
+
+.topic:has(.topic-img) > h3 {
+  flex: 0 0 100%;
+  margin-bottom: 0;
+}
+
+// The thumbnail column. Three selectors because Quarto puts the
+// class on the img, the figure, or a wrapping div depending on
+// whether there is a caption or a link.
+.topic-img,
+figure.topic-img,
+.topic > .quarto-figure,
+.topic > div:has(> .topic-img) {
+  flex: 0 0 200px;
+  width: 200px;
+  max-width: 200px;
+  margin: 0;
+}
+
+img.topic-img,
+.topic-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid $rule;
+}
+
+// Square crop for wide figures that read better boxy.
+img.topic-img.square,
+.topic-img.square img {
+  aspect-ratio: 1;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}
+
+.topic-img figcaption {
+  font-family: $font-family-monospace;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  color: $ink-soft;
+  padding-top: 0.35rem;
+  max-width: 200px;
+  overflow-wrap: break-word;
+}
+
+.topic-body {
+  flex: 1;
+  min-width: 0;   // stops long URLs forcing the column wider
+}
+
+.topic-body h3 {
+  margin-top: 0;
+}
+
+.topic a:has(.topic-img),
+.topic a:has(> img.topic-img) {
+  border-bottom: 0;
+  display: block;
+}
+
+// ===============================================================
+// GALLERY
+// A responsive grid that sizes and crops whatever it is given, so
+// images do not have to share a shape. Each tile links to the
+// full-size file.
+// ===============================================================
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.9rem;
+  margin: 1.5rem 0 2.5rem;
+  clear: both;
+}
+
+// Quarto wraps each image in its own <p>, which becomes the grid
+// item. Captioned images arrive in div.quarto-figure instead.
+.gallery > p,
+.gallery > .quarto-figure,
+.gallery > figure {
+  margin: 0;
+}
+
+.gallery img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  background: $field-deep;
+  transition: filter 0.2s ease;
+}
+
+.gallery a {
+  border-bottom: 0;
+  display: block;
+}
+
+.gallery a:hover img {
+  filter: brightness(1.06);
+}
+
+.gallery figcaption {
+  font-family: $font-family-monospace;
+  font-size: 0.68rem;
+  line-height: 1.35;
+  color: $ink-soft;
+  padding-top: 0.35rem;
+}
+
+// Add .gallery-tall for a portrait grid, or .gallery-square for
+// even tiles.
+.gallery-tall img   { aspect-ratio: 3 / 4; }
+.gallery-square img { aspect-ratio: 1; }
+
+@media (max-width: 600px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.6rem;
+  }
+}
+
+// ===============================================================
+// PEOPLE
+// ===============================================================
+.person {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75rem;
+  margin-top: 2rem;
+}
+
+.person figure,
+.person p {
+  margin: 0;
+}
+
+.person > figure,
+.person > p:first-child {
+  flex: 0 0 auto;
+}
+
+.person img {
+  border-radius: 50%;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+// Names inside person blocks stay in the display serif rather than
+// taking the small mono h4 treatment.
+.person h4 {
+  font-family: $headings-font-family;
+  font-size: 1.15rem;
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+  color: $ink;
+  margin-top: 0;
+}
+
+// Small circular headshots inline in the former-members lists.
+.headshot,
+li .headshot img,
+li img.headshot {
+  border-radius: 50%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 0.6rem;
+  margin-bottom: 0.15rem;
+}
+
+li figure.headshot {
+  display: inline-block;
+  margin: 0;
+}
+
+// A small inline image shown as an artifact rather than a figure.
+.sticker,
+img.sticker {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  margin: 0.75rem 0 1.25rem;
+}
+
+// ===============================================================
+// LOGO BESIDE TEXT
+// Used for funders and community affiliations. Wrap the text in
+// ::: {.logo-text}. Add .logo-right to flip the image over.
+// ===============================================================
+.logo-block {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.logo-block p,
+.logo-block figure {
+  margin: 0;
+}
+
+.logo-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.logo-text p {
+  margin: 0;
+}
+
+.logo-block + .logo-block {
+  margin-top: 1.25rem;
+}
+
+.logo-block a:has(img) {
+  border-bottom: 0;
+}
+
+.logo-right {
+  flex-direction: row-reverse;
+}
+
+// ===============================================================
+// PROJECT GRID (Quarto listing)
+// ===============================================================
+.quarto-grid-item.card {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.quarto-grid-item .card-img-top,
+.quarto-grid-item img.thumbnail-image {
+  border-radius: 0;
+  filter: saturate(0.9);
+  transition: filter 0.25s ease;
+  background: transparent;
+}
+
+.quarto-grid-item:hover .card-img-top,
+.quarto-grid-item:hover img.thumbnail-image {
+  filter: saturate(1.1);
+}
+
+.quarto-grid-item .card-body {
+  padding: 0.85rem 0 0;
+}
+
+.quarto-grid-item .card-title {
+  font-family: $headings-font-family;
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.25;
+  margin-bottom: 0.35rem;
+}
+
+.quarto-grid-item .card-text {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: $ink-soft;
+}
+
+.quarto-grid-item a {
+  border-bottom: 0;
+}
+
+// ===============================================================
+// PUBLICATION GRID
+// Cover figures link straight out to the DOI. Scoped to the
+// listing so project cards are unaffected.
+// ===============================================================
+.quarto-listing .quarto-grid-item .card-title {
+  font-size: 0.98rem;
+  line-height: 1.28;
+}
+
+.quarto-listing .quarto-grid-item .card-text.listing-description {
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+// The bolded author name that update_pubs.py emits.
+.quarto-listing .quarto-grid-item .listing-description strong {
+  color: $ink;
+  font-weight: 600;
+}
+
+// A hairline so pale figures do not float free of the page.
+.quarto-listing .quarto-grid-item .card-img-top {
+  border: 1px solid $rule;
+  object-fit: cover;
+}
+
+.quarto-listing .listing-actions-group {
+  margin-bottom: 1.5rem;
+}
+
+// ===============================================================
+// PUBLICATION TABLE
+// The papers without cover figures, listed below the grid.
+// ===============================================================
+.quarto-listing-table table {
+  font-size: 0.88rem;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.quarto-listing-table thead {
+  display: none;   // the columns are self-evident: year, title, authors
+}
+
+.quarto-listing-table td {
+  border: 0;
+  border-bottom: 1px solid $rule;
+  padding: 0.65rem 0.6rem 0.65rem 0;
+  vertical-align: top;
+}
+
+// Year column: narrow, mono, quiet.
+.quarto-listing-table td:first-child {
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  color: $ink-soft;
+  white-space: nowrap;
+  width: 3.5rem;
+}
+
+.quarto-listing-table td:nth-child(2) {
+  line-height: 1.35;
+}
+
+// Author line.
+.quarto-listing-table td:nth-child(3) {
+  color: $ink-soft;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+.quarto-listing-table td:nth-child(3) strong {
+  color: $ink;
+  font-weight: 600;
+}
+
+.quarto-listing-table tr:hover td {
+  background: rgba(53, 103, 76, 0.04);
+}
+
+// ===============================================================
+// PRESS TOPICS
+// One tinted block per subject, numbered, with the accent drawn
+// from the existing palette rather than a new one.
+// ===============================================================
+.press-topic {
+  --accent: #{$chloro};
+  --wash: #{$field-deep};
+  position: relative;
+  background: var(--wash);
+  border-left: 4px solid var(--accent);
+  padding: 1.6rem 1.75rem 1.4rem;
+  margin-top: 1.5rem;
+  overflow: hidden;
+}
+
+.press-green { --accent: #{$chloro};    --wash: #EEF3F0; }
+.press-blue  { --accent: #{$celestite}; --wash: #ECF1F4; }
+.press-lilac { --accent: #{$lilac};     --wash: #F2F0F8; }
+.press-amber { --accent: #{$amber};     --wash: #F5F0E9; }
+.press-ice { --accent: #{$ice}; --wash: #EDF2F4; }
+
+// The number sits behind the content as a watermark, large enough
+// to organize the page at a glance and pale enough to stay quiet.
+.press-num {
+  position: absolute;
+  top: 0.1em;
+  right: 0.35rem;
+  font-family: $font-family-hero;
+  font-weight: 700;
+  font-size: 5.5rem;
+  line-height: 1;
+  color: var(--accent);
+  opacity: 0.13;
+  pointer-events: none;
+  user-select: none;
+}
+
+.press-topic h3 {
+  font-family: $font-family-hero;
+  font-weight: 600;
+  font-stretch: 108%;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  font-size: 1.05rem;
+  color: var(--accent);
+  margin-top: 0;
+  margin-bottom: 0.85rem;
+}
+
+// The label line above each list of links.
+.press-topic p {
+  font-family: $font-family-monospace;
+  font-size: 0.74rem;
+  letter-spacing: 0.04em;
+  color: $ink-soft;
+  margin: 1.6rem 0 0.5rem;
+}
+
+.press-topic > p:first-of-type {
+  margin-top: 0;
+}
+
+.press-topic ul { margin-bottom: 0; padding-left: 1.1rem; }
+.press-topic li { margin-bottom: 0.4rem; line-height: 1.4; }
+.press-topic li::marker { color: var(--accent); }
+
+.press-topic a { border-bottom-color: rgba(0, 0, 0, 0.18); }
+.press-topic a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+
+.press-outlet {
+  font-family: $font-family-monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $ink-soft;
+  margin-left: 0.4rem;
+  white-space: nowrap;
+}
+
+.press-soon {
+  font-family: $font-family-monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: $ink-soft;
+  opacity: 0.75;
+}
+
+// ===============================================================
+// QUALITY FLOOR
+// ===============================================================
+:focus-visible {
+  outline: 2px solid $celestite;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+  .page-hero.parallax img {
+    height: 100%;
+    transform: none !important;
+  }
+  .figure-row a:has(img):hover img {
+    transform: none;
+  }
+}
+
+// ===============================================================
+// NARROW SCREENS
+// One block per breakpoint, so it is clear what fires when.
+// ===============================================================
+@media (max-width: 700px) {
+  body::after { inset: 8px; }
+
+  .hero {
+    min-height: 58vh;
+    margin-bottom: 2.5rem;
+  }
+  .hero__word--2 { margin-left: 6%; }
+  .hero__word--3 { margin-left: 12%; }
+
+  // Floated figures go full width and stop floating.
+  .quarto-figure:has(img.fig-half),
+  p > img.fig-half,
+  .quarto-figure:has(img.fig-left),
+  p > img.fig-left {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+
+  // Figure rows stack, image first regardless of which side it
+  // would take on a wide screen.
+  .figure-row,
+  .figure-row.figure-row-flip {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .figure-row > p:has(> img.figure-col),
+  .figure-row > p:has(a > img.figure-col),
+  .figure-row > .quarto-figure,
+  .figure-row > figure.figure-col,
+  .figure-row > .figure-stack {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: none;
+  }
+
+  .figure-row > .figure-stack.figure-stack-side {
+    flex-direction: column;
+  }
+
+  // Drop the author column from the publication table.
+  .quarto-listing-table td:nth-child(3) {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  h1, .h1     { font-size: 2rem; }
+  .lead       { font-size: 1.15rem; }
+  .question p { font-size: 1.08rem; }
+
+  .logo-block {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .logo-right {
+    flex-direction: column;
+  }
+
+  .person {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .topic:has(.topic-img) {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .topic-img,
+  figure.topic-img,
+  .topic > .quarto-figure {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: none;
+  }
+
+  .press-topic { padding: 1.3rem 1.2rem 1.1rem; }
+  .press-num   { font-size: 3.75rem; }
+}
+
+// Circular crop for figures where a round frame suits the subject.
+.round,
+img.round,
+.round img {
+  border-radius: 50%;
+  aspect-ratio: 1;
+  object-fit: cover;
+}

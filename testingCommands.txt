@@ -1,0 +1,5 @@
+quarto preview --port 4200 --no-browser
+
+#if it doesn't stop:
+ss -ltnp | grep 4200
+kill -9 <pid>

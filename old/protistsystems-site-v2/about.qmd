@@ -1,0 +1,37 @@
+---
+title: "About"
+---
+
+::: {.eyebrow}
+The lab
+:::
+
+::: {.lead}
+TODO: two or three sentences on what the lab is and how it works.
+:::
+
+TODO: longer description. Approach, philosophy, what a new person would be
+walking into.
+
+---
+
+::: {.eyebrow}
+People
+:::
+
+### John A. Burns
+
+Senior Research Scientist, Bigelow Laboratory for Ocean Sciences. Research
+Faculty, Colby College. Research Associate, American Museum of Natural History.
+
+TODO: short bio. [CV](files/burns-cv.pdf)
+
+### TODO: lab members
+
+---
+
+::: {.eyebrow}
+Support
+:::
+
+TODO: current funding, agencies and award numbers.

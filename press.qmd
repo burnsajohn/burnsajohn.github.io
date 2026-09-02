@@ -1,0 +1,100 @@
+---
+title: "Press"
+---
+
+::: {.lead}
+Coverage of work from the lab.
+:::
+
+::: {.press-topic .press-green}
+[01]{.press-num}
+
+### Vertebrate-alga symbiosis
+
+- [Algal symbiosis could shed light on dark ocean](https://www.bigelow.org/news/articles/2020-08-05.html) <span class="press-outlet">Bigelow Laboratory, 2020</span>
+- [Gasping for air](https://elifesciences.org/content/6/e27004) <span class="press-outlet">eLife</span>
+- [Algae aren't happy](https://blogs.scientificamerican.com/artful-amoeba/algae-living-inside-salamanders-arent-happy-about-the-situation/) <span class="press-outlet">Scientific American</span>
+- [Algae inside salamander](https://www.poconorecord.com/news/20170529/algae-lives-inside-salamander) <span class="press-outlet">Pocono Record</span>
+- [New symbiosis](https://gizmodo.com/scientists-just-found-a-completely-new-kind-of-symbioti-1794811939) <span class="press-outlet">Gizmodo</span>
+- [Weird new details](https://www.sciencealert.com/researchers-dig-into-the-genes-of-a-one-of-a-kind-of-symbiotic-relationship) <span class="press-outlet">ScienceAlert</span>
+- [New understanding](https://futurism.com/we-have-a-new-understanding-of-the-rarest-symbiotic-relationship-in-nature/) <span class="press-outlet">Futurism</span>
+- [Algae inside baby salamanders](https://mentalfloss.com/article/500575/these-algae-live-inside-growing-baby-salamanders) <span class="press-outlet">Mental Floss</span>
+:::
+
+::: {.press-topic .press-amber}
+[02]{.press-num}
+
+### Deep-sea discovery
+
+31 species new to science, from two weeks in the South Atlantic midwater, 2026.
+
+- [31 alien-like marine species discovered off the coast of Brazil](https://www.popsci.com/environment/31-new-marine-species-discovered-brazil/) <span class="press-outlet">Popular Science</span>
+- [31 new species found off Brazil reveal a fragile world in the ocean's midwater](https://www.discovermagazine.com/31-new-species-found-off-brazil-reveal-a-fragile-world-in-the-ocean-s-midwater-49301) <span class="press-outlet">Discover</span>
+- [Scientists identify 31 new marine species during South Atlantic expedition](https://divemagazine.com/scuba-diving-news/scientists-identify-31-new-marine-species-during-south-atlantic-expedition) <span class="press-outlet">DIVE Magazine</span>
+- [31 new species discovered in two weeks of deep-sea exploration](https://www.bigelow.org/news/articles/2026-06-08.html) <span class="press-outlet">Bigelow Laboratory</span>
+- [Café Sci reveals new deep-sea organisms](https://www.boothbayregister.com/article/cafe-sci-reveals-new-deep-sea-organisms/273151) <span class="press-outlet">Boothbay Register</span>
+
+Digital synthesis, 2024.
+
+- [New undersea robot digitally captures the sea's most delicate life](https://www.science.org/content/article/new-undersea-robot-digitally-captures-sea-s-most-delicate-life) <span class="press-outlet">Science</span>
+:::
+
+::: {.press-topic .press-blue}
+[03]{.press-num}
+
+### Rhizarian biology
+
+::: {.press-soon}
+Coming soon
+:::
+:::
+
+::: {.press-topic .press-lilac}
+[04]{.press-num}
+
+### Functional predictions
+
+- [New model predicts cell eating](https://www.upi.com/New-phagocytosis-model-predicts-which-cells-can-eat-other-cells/1571519154785/) <span class="press-outlet">UPI</span>
+:::
+
+::: {.press-topic .press-ice}
+[05]{.press-num}
+
+### Antifreeze in a Greenland snailfish
+
+The highest expression of antifreeze protein transcripts reported in any fish, 2022.
+
+- [This Arctic snailfish is loaded with antifreeze proteins](https://www.smithsonianmag.com/smart-news/this-snailfish-has-highest-antifreeze-protein-expression-ever-observed-in-the-arctic-180980597/) <span class="press-outlet">Smithsonian</span>
+- [Beneath a Greenland iceberg, a glowing snailfish with antifreeze in its veins](https://www.livescience.com/antifreeze-protein-snailfish-greenland) <span class="press-outlet">Live Science</span>
+- [Fish chock-full of antifreeze protein found in iceberg habitats off Greenland](https://www.nsf.gov/news/fish-chock-full-antifreeze-protein-found-iceberg-habitats) <span class="press-outlet">National Science Foundation</span>
+- [Glowing snailfish full of antifreeze proteins found off Greenland](https://www.rcinet.ca/eye-on-the-arctic/2022/08/22/glowing-snailfish-full-of-antifreeze-proteins-found-off-coast-of-greenland/) <span class="press-outlet">Eye on the Arctic</span>
+:::
+
+::: {.press-topic .press-amber}
+[06]{.press-num}
+
+### The chicken or the egg
+
+Animal-like embryonic development in a unicellular relative that diverged a billion years ago, 2024.
+
+- [The chicken or the egg? An ancient microbe says egg](https://www.bigelow.org/news/articles/2024-11-08.html) <span class="press-outlet">Bigelow Laboratory</span>
+- [Ancient unicellular organism indicates embryonic development might have existed prior to animals' evolution](https://phys.org/news/2024-11-ancient-unicellular-embryonic-prior-animals.html) <span class="press-outlet">Phys.org</span>
+- [What came first, the chicken or the egg?](https://www.technologynetworks.com/cell-science/news/what-came-first-the-chicken-or-the-egg-an-ancient-unicellular-indicates-it-was-the-egg-392986) <span class="press-outlet">Technology Networks</span>
+:::
+
+::: {.press-topic .press-green}
+[07]{.press-num}
+
+### Green algae that eat bacteria
+
+The *Cymbomonas* genome, 2015.
+
+- [What you eat: bacterivorous green algae raises questions about the evolution of eating and photosynthesis](https://doi.org/10.1093/gbe/evv208) <span class="press-outlet">Genome Biology and Evolution</span>
+
+Follow-up work showing the behavior is widespread, 2021.
+
+- [Yes, these flesh-eating algae are real, and they like their prey alive](https://lamont.columbia.edu/news/yes-these-flesh-eating-algae-are-real-and-they-their-prey-alive) <span class="press-outlet">Lamont-Doherty Earth Observatory</span>
+- [Green algae consuming bacteria](https://www.amnh.org/explore/news-blogs/green-algae-eat-bacteria) <span class="press-outlet">American Museum of Natural History</span>
+- [Hungry green algae like to eat bacteria alive](https://www.technologynetworks.com/immunology/news/hungry-green-algae-like-to-eat-bacteria-alive-346221) <span class="press-outlet">Technology Networks</span>
+- [Littlest shop of horrors](https://scitechdaily.com/littlest-shop-of-horrors-hungry-green-algae-prefer-to-eat-bacteria-alive/) <span class="press-outlet">SciTechDaily</span>
+:::

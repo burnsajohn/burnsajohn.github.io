@@ -1,0 +1,34 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/projects/oceanshot2.html",
+      "/projects/plagiacantha-genome.html",
+      "/projects/symbiosis.html",
+      "/projects/prediction.html",
+      "/projects/sediment.html",
+      "/projects/radiolaria.html",
+      "/projects/signaling.html",
+      "/projects/viruses.html",
+      "/projects/placozoa.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/oceanshot2.html",
+      "/projects/plagiacantha-genome.html",
+      "/projects/viruses.html",
+      "/projects/symbiosis.html",
+      "/projects/prediction.html",
+      "/projects/sediment.html",
+      "/projects/radiolaria.html",
+      "/projects/signaling.html",
+      "/projects/placozoa.html"
+    ]
+  }
+]

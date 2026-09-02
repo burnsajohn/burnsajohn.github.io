@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+    - files/
+
+website:
+  title: "Protist Systems Biology"
+  description: "Evolutionary cell biology and genomics of microbial eukaryotes. Burns Lab, Bigelow Laboratory for Ocean Sciences."
+  site-url: https://www.protistsystems.org
+  favicon: images/favicon.png
+  navbar:
+    title: "Protist Systems"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: tools.qmd
+        text: Tools
+      - href: publications.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      - href: press.qmd
+        text: Press
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "Burns Lab, Bigelow Laboratory for Ocean Sciences, East Boothbay, Maine"
+    right: "Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme:
+      - theme.scss
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
+    grid:
+      body-width: 820px
+      sidebar-width: 0px
+      margin-width: 180px
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/council-of-science-editors-author-date

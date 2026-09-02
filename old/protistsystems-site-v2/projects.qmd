@@ -1,0 +1,18 @@
+---
+title: "Projects"
+listing:
+  contents: projects
+  type: grid
+  grid-columns: 3
+  image-height: 220px
+  sort: "order"
+  fields: [image, title, description]
+  categories: false
+  feed: false
+  filter-ui: false
+  sort-ui: false
+---
+
+::: {.lead}
+Each project starts from an organism rather than a technique.
+:::

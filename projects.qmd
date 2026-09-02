@@ -1,0 +1,52 @@
+---
+title: "Projects"
+listing:
+  - id: funded-grid
+    contents: projects
+    include:
+      funding: "funded"
+    type: grid
+    grid-columns: 3
+    image-height: 220px
+    sort: "order"
+    fields: [image, title, description]
+    categories: false
+    feed: false
+    filter-ui: false
+    sort-ui: false
+  - id: seeking-grid
+    contents: projects
+    include:
+      funding: "seeking"
+    type: grid
+    grid-columns: 3
+    image-height: 220px
+    sort: "order"
+    fields: [image, title, description]
+    categories: false
+    feed: false
+    filter-ui: false
+    sort-ui: false
+---
+
+::: {.lead}
+Work in the lab, and work the lab contributes to.
+:::
+
+## Currently funded
+
+::: {#funded-grid}
+:::
+
+## Ongoing work
+
+::: {#seeking-grid}
+:::
+
+## Also involved in
+
+Work led by others where the lab contributes analysis or sequencing.
+
+- **Multicellular development in a close animal relative**, with Omaya Dudin. [Paper](https://doi.org/10.1038/s41586-024-08115-3).
+- **Chemical ecology of temperate reefs**, with Doug Rasher and colleagues. [Paper](https://doi.org/10.1126/science.adt6788).
+- **Species discovery in *Paulinella***, with Julia Van Etten. [Paper](https://par.nsf.gov/biblio/10703730).

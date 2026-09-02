@@ -1,0 +1,82 @@
+---
+pagetitle: "Protist Systems Biology | Burns Lab"
+page-layout: custom
+listing:
+  - id: project-preview
+    contents: projects
+    type: grid
+    grid-columns: 3
+    image-height: 200px
+    max-items: 3
+    sort: "order"
+    fields: [image, title, description]
+    categories: false
+    feed: false
+    filter-ui: false
+    sort-ui: false
+---
+
+::: {.hero}
+::: {.hero__media}
+![](images/Radiolaria_1_10x-0003.2.png){fig-alt="Phaeodarian from the Trinidad Head Line in California"}
+:::
+::: {.hero__scrim}
+:::
+::: {.hero__type}
+[Protist]{.hero__word}
+[Systems]{.hero__word .hero__word--2}
+[Biology]{.hero__word .hero__word--3}
+:::
+:::
+
+::: {.body-wrap}
+
+::: {.eyebrow}
+Protists
+:::
+
+::: {.lead}
+The word "protist" is a catch-all for incredibly diverse single-celled
+eukaryotes. There are protists related to plants, protists related to fungi,
+protists related to animals, and protists that form their own distinct lineages.
+:::
+
+---
+
+::: {.eyebrow}
+What we study
+:::
+
+::: {.question}
+### Symbiosis
+
+How do cells from different branches of life interact? What molecules are
+exchanged? What mediates their interactions?
+:::
+
+::: {.question}
+### Biomineralization
+
+How does life concentrate elements to seed and control mineral formation? What
+is the function of the complex forms created?
+:::
+
+::: {.question}
+### Evolution
+
+How can studying diversity inform us of the link between information (DNA
+sequence) and form and function (phenotype)?
+:::
+
+---
+
+::: {.eyebrow}
+Projects
+:::
+
+::: {#project-preview}
+:::
+
+[All projects &rarr;](projects.qmd){.more-link}
+
+:::

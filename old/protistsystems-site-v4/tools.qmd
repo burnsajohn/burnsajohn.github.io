@@ -1,0 +1,26 @@
+---
+title: "Tools"
+---
+
+::: {.lead}
+Software, data, and protocols from the lab.
+:::
+
+<!-- TODO: one block per tool. Link to the repo, say what it does in one
+     sentence, and note the paper if there is one. -->
+
+::: {.topic}
+### TODO: tool name
+
+One sentence on what it does and who it is for.
+
+[GitHub](https://github.com/burnsajohn) · [Paper](#)
+:::
+
+::: {.topic}
+### TODO: dataset or protocol
+
+One sentence.
+
+[Repository](#)
+:::

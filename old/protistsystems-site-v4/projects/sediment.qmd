@@ -1,0 +1,31 @@
+---
+title: "Novel lineages from marine sediment"
+description: "Single-cell genomics on eukaryotes with no cultured representatives."
+image: ../images/sediment.jpg
+order: 5
+---
+
+::: {.lead}
+Single-cell genomics on eukaryotes with no cultured representatives.
+:::
+
+<!-- TODO: replace everything below. Three or four paragraphs and at least one
+     figure. This is the page a prospective student or collaborator reads. -->
+
+TODO: what the question is and why it is hard.
+
+TODO: what the lab is doing about it. Approach, organisms, methods.
+
+TODO: where it stands and what is next.
+
+::: {.eyebrow}
+People
+:::
+
+TODO: lab members and collaborators with affiliations.
+
+::: {.eyebrow}
+Related publications
+:::
+
+TODO: two or three key papers.

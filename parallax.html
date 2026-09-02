@@ -1,0 +1,24 @@
+<script>
+(function () {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const img = document.querySelector('.page-hero.parallax img');
+  if (!img) return;
+  const box = img.closest('.page-hero');
+  let ticking = false;
+
+  function update() {
+    const rect = box.getBoundingClientRect();
+    if (rect.bottom > 0 && rect.top < window.innerHeight) {
+      const range = img.offsetHeight - box.offsetHeight;
+      const progress = Math.min(Math.max(-rect.top / box.offsetHeight, 0), 1);
+      img.style.transform = `translateY(${-progress * range}px)`;
+    }
+    ticking = false;
+  }
+
+  window.addEventListener('scroll', () => {
+    if (!ticking) { requestAnimationFrame(update); ticking = true; }
+  }, { passive: true });
+  update();
+})();
+</script>

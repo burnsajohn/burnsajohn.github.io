@@ -1,0 +1,31 @@
+---
+title: "Symbiosis in the salamander egg"
+description: "The green alga Oophila amblystomatis grows inside the egg capsules of the spotted salamander, and in some cells, inside the embryo itself."
+image: ../images/oophila.jpg
+order: 1
+---
+
+::: {.lead}
+The green alga Oophila amblystomatis grows inside the egg capsules of the spotted salamander, and in some cells, inside the embryo itself.
+:::
+
+<!-- TODO: replace everything below. Three or four paragraphs and at least one
+     figure. This is the page a prospective student or collaborator reads. -->
+
+TODO: what the question is and why it is hard.
+
+TODO: what the lab is doing about it. Approach, organisms, methods.
+
+TODO: where it stands and what is next.
+
+::: {.eyebrow}
+People
+:::
+
+TODO: lab members and collaborators with affiliations.
+
+::: {.eyebrow}
+Related publications
+:::
+
+TODO: two or three key papers.

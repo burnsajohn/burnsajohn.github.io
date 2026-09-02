@@ -1,0 +1,91 @@
+---
+title: "Novel lineages from marine sediment"
+description: "Single-cell genomics on eukaryotes with no cultured representatives."
+image: ../images/sediment/euglena.gif
+funding: seeking
+order: 5
+---
+
+::: {.page-hero .parallax .column-screen style="height: 320px;"}
+[![](../images/sediment/EdgecombEddy.jpg){fig-alt="The Edgecomb Eddy mudflat in Maine at sunrise"}](../images/sediment/EdgecombEddy.jpg)
+:::
+
+::: {.lead}
+Single-cell genomics on eukaryotes with no cultured representatives.
+:::
+
+## The problem
+
+Environmental surveys keep turning up eukaryotic lineages that sit outside of
+known groups at every taxonomic level. That novelty is relevant to questions about where eukaryotes came from and what
+their last common ancestor looked like, and these organisms may carry new
+biochemistry and cell structures. Few of them will be amenable to culture in the laboratory.
+
+Unlike classic methods for new lineage discovery, single-cell genomics does not require culture. A partial genome can be
+recovered from one cell, along with whatever organelles and symbionts came with
+it, which brings these lineages within reach.
+
+## The approach
+
+We sort individual live cells out of sediment by flow cytometry, amplify and
+sequence each one, and place the resulting genomes on the eukaryotic tree.
+
+## What we found
+
+Breviates are a group of microaerophilic flagellates with hydrogen-producing
+organelles and, unusually, no mitochondrial DNA at all.
+
+::: {.figure-row}
+![From [Cho et al. 2026](https://doi.org/10.1016/j.cub.2026.02.024).](../images/sediment/breviate_phylogenome.jpg){.figure-col fig-alt="Phylogenomic tree placing the new lineage as sister to the breviates"}
+
+::: {.figure-text}
+We sorted cells from an intertidal mudflat and found a new lineage related to
+the breviates. It has mitochondrial genomes, which was not expected, and they
+encode most of the electron transport chain along with genes that nearly every
+other eukaryote has either lost or moved to the nucleus. Their nuclear genomes
+also carry the machinery for anaerobic respiration and hydrogen production, so
+these cells may be able to work either way depending on the oxygen available.
+:::
+:::
+
+The same sorting turned up gene-rich mitochondrial genomes in apusomonads, and a
+good deal of other novel diversity still being worked through. We are also pursuing images and cultures of these novel cells and lineages.
+
+## People
+::: {.person}
+![](../images/sediment/AnnaCho.jpg){width=160 height=160 fig-alt="Anna Cho" style="object-fit: cover; object-position: 75% center;"}
+
+::: {.person-body}
+**Anna Cho**, postdoctoral researcher in the [Wideman lab](https://wideman-lab.com/),
+Arizona State University, leads this work. She came from the Keeling lab at the
+University of British Columbia, and works on mitochondrial genome evolution in
+microaerophilic protists, long-read genomics of ploeotids, and flow-sorting
+environmental single cells.
+:::
+:::
+
+### Collaborators
+
+- [**Ramunas Stepanauskas**](https://vbn.aau.dk/en/persons/rste), now at Aalborg University. Single-cell genomics.
+- **Nicole Poulton**, Bigelow Laboratory Single Cell Genomics Center. Cell sorting and single-cell genomics.
+- **Tanja Woyke**, DOE Joint Genome Institute. Sequencing.
+- **Jeremy Wideman**, Arizona State University. Mitochondrial genome evolution.
+- [**Xyrus Maurer-Alcalá**](https://www.wm.edu/as/biology/people/faculty/maurer-alcala_x.php), William & Mary. Protist genome biology.
+
+## Support
+
+Currently seeking support for this work!
+
+<!-- TODO: funder, or delete this section. Follow the Ocean Shot pattern if
+     there is a logo:
+
+::: {.logo-block}
+![](../images/funder-logo.png){width=120 fig-alt="TODO"}
+
+This work is supported by [TODO](https://example.org).
+:::
+-->
+
+## Related publications
+
+- Cho A, **Burns JA**, Woyke T, Stepanauskas R, Poulton N, Wideman JG (2026). [Aerobic sister lineage of breviates has gene-rich mitochondrial genomes](https://doi.org/10.1016/j.cub.2026.02.024). *Current Biology*.

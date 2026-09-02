@@ -1,0 +1,35 @@
+---
+title: "Publications"
+listing:
+  contents: publications.yml
+  type: grid
+  grid-columns: 3
+  image-height: 240px
+  image-placeholder: images/pubs/placeholder.svg
+  sort: "year desc"
+  fields: [image, title, description]
+  categories: false
+  feed: false
+  filter-ui: true
+  sort-ui: false
+  page-size: 60
+---
+
+::: {.lead}
+Also on [Google Scholar](https://scholar.google.com/citations?user=DHoJBCAAAAAJ&hl=en)
+and [ORCID](https://orcid.org/0000-0002-2348-8438).
+:::
+
+<!--
+This page is generated. Do not edit the list by hand.
+
+  python3 scripts/update_pubs.py
+
+pulls your works from ORCID, fills in full metadata from Crossref, and rewrites
+publications.yml. Any `image:` you have already assigned is preserved across
+runs, matched on DOI.
+
+To add a cover image: save the figure as images/pubs/<slug>.jpg, then set the
+image field for that entry in publications.yml. The slug is already filled in
+as a comment on each entry.
+-->

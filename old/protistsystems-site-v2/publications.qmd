@@ -1,0 +1,35 @@
+---
+title: "Publications"
+nocite: |
+  @*
+---
+
+::: {.eyebrow}
+Peer-reviewed
+:::
+
+::: {.lead}
+Full list also on [Google Scholar](https://scholar.google.com/) and
+[ORCID](https://orcid.org/).
+:::
+
+<!--
+HOW THIS PAGE WORKS
+
+You do not edit this page. You edit `references.bib`, and every entry in that
+file is rendered here automatically, formatted by the CSL style set in
+`_quarto.yml`.
+
+To add a paper: export the BibTeX entry from Zotero, Google Scholar, or the
+publisher, paste it into `references.bib`, and re-render. Nothing else.
+
+To change citation style: swap the `csl:` URL in `_quarto.yml` for any style at
+https://www.zotero.org/styles
+
+If you keep your library in Zotero, install Better BibTeX and set
+`references.bib` as an auto-updating export target. Then adding a paper to
+Zotero is the only step, and `git commit` is the publish action.
+-->
+
+::: {#refs}
+:::
