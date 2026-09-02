@@ -12,62 +12,246 @@ Images from the lab, the field, and the microscope.
 
 ::: {.gallery}
 
-[![](images/gallery/20230828_Acanth_color.jpg){fig-alt="TODO: describe this image"}](images/gallery/20230828_Acanth_color.jpg)
+![](images/gallery/20220712_multiStain_fact_atub_amoeba2.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/20230828_RADeatCiliateSortOf-1-1.jpg){fig-alt="TODO: describe this image"}](images/gallery/20230828_RADeatCiliateSortOf-1-1.jpg)
+![](images/gallery/20220712_multiStain_fact_atub_Series006_z075.jpg){fig-alt="TODO: describe this image"}
 
-[![Images from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/4Animals.jpg){fig-alt="TODO: describe this image"}](images/gallery/4Animals.jpg)
+![](images/gallery/20220712_multiStain_fact_atub_Series008_z077-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/AcanthConstellation_invert.jpg){fig-alt="TODO: describe this image"}](images/gallery/AcanthConstellation_invert.jpg)
+![](images/gallery/20220712_multiStain_fact_atub_Series015_z039.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/AcanthNuclei.gif){fig-alt="TODO: describe this image"}](images/gallery/AcanthNuclei.gif)
+![](images/gallery/20220712_multiStain_fact_atub_Series015_z039DIC.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/CrawlSwarm-01.png){fig-alt="TODO: describe this image"}](images/gallery/CrawlSwarm-01.png)
+![](images/gallery/20230501_095435~2.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/InvasionColor.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionColor.jpg)
+![](images/gallery/20230828_Acanth_color.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/InvasionEdge.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionEdge.jpg)
+![](images/gallery/20230828_RADeatCiliateSortOf-1-1.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/InvasionSide.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionSide.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image002 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/InvasionStreak.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionStreak.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image004 (RGB)-1.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/InvasionZoomOUT.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionZoomOUT.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image006 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/P1010251.JPG){fig-alt="TODO: describe this image"}](images/gallery/P1010251.JPG)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image008 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210722_092218167.2.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210722_092218167.2.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image011 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210722_094043660.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210722_094043660.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image012 (RGB)-1.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210722_103310410_2.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210722_103310410_2.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image013 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210812_032227741.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210812_032227741.jpg)
+![](images/gallery/20240506_PSB_Ciliates.lif - Image015 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210815_003627136.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210815_003627136.jpg)
+![](images/gallery/20241001_090328~2.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/PXL_20210815_222016912.jpg){fig-alt="TODO: describe this image"}](images/gallery/PXL_20210815_222016912.jpg)
+![](images/gallery/20241208_160035.jpg){fig-alt="TODO: describe this image"}
 
-[![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/S0458_tomopteris.jpg){fig-alt="TODO: describe this image"}](images/gallery/S0458_tomopteris.jpg)
+![](images/gallery/20250510_091736.jpg){fig-alt="TODO: describe this image"}
 
-[![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/S0460_Errena.jpg){fig-alt="TODO: describe this image"}](images/gallery/S0460_Errena.jpg)
+![](images/gallery/20250510_094256.jpg){fig-alt="TODO: describe this image"}
 
-[![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/S0460_Marrus.jpg){fig-alt="TODO: describe this image"}](images/gallery/S0460_Marrus.jpg)
+![](images/gallery/20250511_132858~2.jpg){fig-alt="TODO: describe this image"}
 
-<div>
+![](images/gallery/20250512_075134.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250512_181259.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250514_151727~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250623_190733 (1).jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250723_122128~2 (1).jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250723_122128~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250812_151526~2 (2).jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250812_151526~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250812_151613~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250911_170254.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250911_170355~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250911_170546.jpg){fig-alt="TODO: describe this image"}
+
+<figure>
+<a href="images/gallery/20250911_171446~3 (1).mp4">
+<video src="images/gallery/20250911_171446~3 (1).mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+![](images/gallery/20250924_152403~2 (2).jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250924_152403~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20250924_152806~2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/20251112_145653~2.jpg){fig-alt="TODO: describe this image"}
+
+<figure>
+<a href="images/gallery/20260310_111725~2.mp4">
+<video src="images/gallery/20260310_111725~2.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+![](images/gallery/20260319_141957.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/4Animals.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Acanth_Fall2023.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/AcanthBall.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/AcanthConstellation_invert.jpg){fig-alt="TODO: describe this image"}
+
+<figure>
+<a href="images/gallery/AcanthNuclei.mp4">
+<video src="images/gallery/AcanthNuclei.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+<figure>
+<a href="images/gallery/AcanthSwarmers-1.mp4">
+<video src="images/gallery/AcanthSwarmers-1.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+![](images/gallery/Acetone_Amoeba.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Acetone_Amoeba_DIC.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Amoebozoan.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/ArrangeRads-01.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/bermudaImages-01.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/ciliate_montage2.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Clathrocanium_SolomonIslands2016.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/ColorSwarm_TC-01.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Cparadoxa.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/CrawlSwarm-01.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Cyanophora_expand.lif - Image007-1 (RGB).png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/diatom_1.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/diatom_2.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/dinoflagellate_1.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/dynamicSeries.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Euglyphid.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/InvasionColor.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/InvasionEdge.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/InvasionSide.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/InvasionStreak.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/InvasionZoomOUT.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/LittleHat.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/longAcanth.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/MaineRads_3yrs.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/MaineRads_3yrs.small.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/memglo-ciliate.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/memglo-ciliateDIC.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Oophila_Expand.lif - Image002-1.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Oophila_Expand.lif - Image003-1.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Oophila_Expand.lif - Image004-1.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/original_efe95706-ff49-4faf-beed-59373b5f0e4a_20250511_170458~3 (2).jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/P1010251.JPG){fig-alt="TODO: describe this image"}
+
+<figure>
+<a href="images/gallery/plagiacanthaRhodomonasSpit_small.mp4">
+<video src="images/gallery/plagiacanthaRhodomonasSpit_small.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+![](images/gallery/PuretoRicoRADS1-01.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210722_092218167.2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210722_094043660.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210722_103310410_2.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210812_032227741.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210815_003627136.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/PXL_20210815_222016912.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Rhizarian_montage.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/S0458_tomopteris.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/S0460_Errena.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/S0460_Marrus.jpg){fig-alt="TODO: describe this image"}
+
+<figure>
 <a href="images/gallery/Stage34_algaeHighlighted.mp4">
-<video src="images/gallery/Stage34_algaeHighlighted.mp4" autoplay loop muted playsinline></video>
+<video src="images/gallery/Stage34_algaeHighlighted.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
 </a>
-</div>
+</figure>
 
-<div>
+<figure>
 <a href="images/gallery/Stage38_algaeHighlighted.mp4">
-<video src="images/gallery/Stage38_algaeHighlighted.mp4" autoplay loop muted playsinline></video>
+<video src="images/gallery/Stage38_algaeHighlighted.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
 </a>
-</div>
+</figure>
 
-[![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg){fig-alt="TODO: describe this image"}](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg)
+![](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg){fig-alt="TODO: describe this image"}
 
-[![](images/gallery/TrophicPlayers.png){fig-alt="TODO: describe this image"}](images/gallery/TrophicPlayers.png)
+![](images/gallery/Transmission_Fluor_SEM.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/Transmission_Fluor_SEM_labeled_scaled.jpg){fig-alt="TODO: describe this image"}
+
+![](images/gallery/TritonX100_Amoeba_montage.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/TrophicPlayers.png){fig-alt="TODO: describe this image"}
+
+![](images/gallery/unknownEUK_EdgecombMud-01.png){fig-alt="TODO: describe this image"}
+
+<figure>
+<a href="images/gallery/VID_20250929_134025~2 (1).mp4">
+<video src="images/gallery/VID_20250929_134025~2 (1).mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+<figure>
+<a href="images/gallery/VID_20260128_170804~2.mp4">
+<video src="images/gallery/VID_20260128_170804~2.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
+
+<figure>
+<a href="images/gallery/VID_20260206_165748~2.mp4">
+<video src="images/gallery/VID_20260206_165748~2.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
+</a>
+</figure>
 
 :::

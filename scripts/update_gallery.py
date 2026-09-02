@@ -26,10 +26,26 @@ directory. After it is the alt text. An optional caption follows a pipe.
 Files with no entry get a placeholder alt and are listed when the script
 runs, so nothing is silently inaccessible.
 
+Video files are handled too, and take their alt and caption from the same
+file. They are emitted differently from images:
+
+  Images are written as plain markdown with no surrounding link. Quarto's
+  lightbox (lightbox: auto in _quarto.yml) only sees images that are
+  block-level, and an image wrapped in a markdown link is inline, so
+  hand-wrapping one both defeats the lightbox and drops its caption into
+  the alt slot.
+
+  Videos get a hand-written anchor, because the lightbox filter does not
+  handle video at all. They are wrapped in <figure> so they carry a
+  caption the same way an image does.
+
+Both need `images/gallery/**` under `resources:` in _quarto.yml, and the
+theme needs `.gallery video` alongside `.gallery img` so videos are sized
+and cropped to the grid.
+
 Standard library only.
 """
 
-import re
 import sys
 from pathlib import Path
 
@@ -38,7 +54,9 @@ GALLERY_DIR = ROOT / "images" / "gallery"
 CAPTIONS = GALLERY_DIR / "captions.txt"
 OUTPUT = ROOT / "gallery.qmd"
 
-EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif"}
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif"}
+VIDEO_EXTS = {".mp4", ".webm", ".mov"}
+MEDIA_EXTS = IMAGE_EXTS | VIDEO_EXTS
 
 # Sections appear in this order if present; anything else follows
 # alphabetically. Names are directory names, lower case.
@@ -80,10 +98,10 @@ def heading_for(dirname):
     return " ".join([words[0].capitalize()] + [w.lower() for w in words[1:]])
 
 
-def images_in(directory):
+def media_in(directory):
     return sorted(
         (p for p in directory.iterdir()
-         if p.is_file() and p.suffix.lower() in EXTS),
+         if p.is_file() and p.suffix.lower() in MEDIA_EXTS),
         key=lambda p: p.name.lower(),
     )
 
@@ -91,6 +109,37 @@ def images_in(directory):
 def esc(text):
     """Markdown link and attribute text needs its brackets and quotes tame."""
     return text.replace('"', "'").replace("[", "(").replace("]", ")")
+
+
+def esc_html(text):
+    """Text going into an HTML attribute or element body."""
+    return (text.replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;"))
+
+
+def image_entry(rel, alt, caption):
+    """Plain markdown. No surrounding link: lightbox adds its own anchor,
+    and a hand-written one would make the image inline and skip it."""
+    cap = esc(caption) if caption else ""
+    return [f'![{cap}]({rel}){{fig-alt="{esc(alt)}"}}']
+
+
+def video_entry(rel, alt, caption):
+    """Hand-written anchor, because the lightbox filter is images only.
+    <figure> so the caption sits where an image's caption would."""
+    lines = [
+        "<figure>",
+        f'<a href="{rel}">',
+        f'<video src="{rel}" autoplay loop muted playsinline '
+        f'aria-label="{esc_html(alt)}"></video>',
+        "</a>",
+    ]
+    if caption:
+        lines.append(f"<figcaption>{esc_html(caption)}</figcaption>")
+    lines.append("</figure>")
+    return lines
 
 
 def block(paths, captions, missing):
@@ -101,9 +150,11 @@ def block(paths, captions, missing):
         if alt is None:
             missing.append(p.name)
             alt = "TODO: describe this image"
-        cap = esc(caption) if caption else ""
         lines.append("")
-        lines.append(f'[![{cap}]({rel}){{fig-alt="{esc(alt)}"}}]({rel})')
+        if p.suffix.lower() in VIDEO_EXTS:
+            lines += video_entry(rel, alt, caption)
+        else:
+            lines += image_entry(rel, alt, caption)
     lines.append("")
     lines.append(":::")
     return lines
@@ -131,7 +182,7 @@ def main():
         "",
     ]
 
-    loose = images_in(GALLERY_DIR)
+    loose = media_in(GALLERY_DIR)
     if loose:
         out += block(loose, captions, missing)
         out.append("")
@@ -144,11 +195,13 @@ def main():
     )
 
     total = len(loose)
+    videos = sum(1 for p in loose if p.suffix.lower() in VIDEO_EXTS)
     for d in subdirs:
-        paths = images_in(d)
+        paths = media_in(d)
         if not paths:
             continue
         total += len(paths)
+        videos += sum(1 for p in paths if p.suffix.lower() in VIDEO_EXTS)
         out.append(f"## {heading_for(d.name)}")
         out.append("")
         out += block(paths, captions, missing)
@@ -156,7 +209,7 @@ def main():
 
     OUTPUT.write_text("\n".join(out).rstrip() + "\n", encoding="utf-8")
 
-    print(f"Wrote {OUTPUT.name}: {total} images"
+    print(f"Wrote {OUTPUT.name}: {total - videos} images, {videos} videos"
           f"{f' in {len(subdirs)} sections' if subdirs else ''}.")
 
     if missing:
@@ -167,7 +220,7 @@ def main():
 
     unused = [k for k in captions if k not in
               {p.name for p in loose} | {p.name for d in subdirs
-                                         for p in images_in(d)}]
+                                         for p in media_in(d)}]
     if unused:
         print(f"\ncaptions.txt entries matching no file:", file=sys.stderr)
         for name in unused:
