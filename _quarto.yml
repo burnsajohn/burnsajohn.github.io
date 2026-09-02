@@ -53,6 +53,10 @@ format:
       sidebar-width: 0px
       margin-width: 180px
     include-after-body: parallax.html
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://burnsajohn.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
     
 bibliography: references.bib
 csl: https://www.zotero.org/styles/council-of-science-editors-author-date
