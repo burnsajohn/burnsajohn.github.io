@@ -38,8 +38,6 @@ Images from the lab, the field, and the microscope.
 
 ![](images/gallery/20240506_PSB_Ciliates.lif - Image011 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
-![](images/gallery/20240506_PSB_Ciliates.lif - Image012 (RGB)-1.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/20240506_PSB_Ciliates.lif - Image013 (RGB)-1.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/20240506_PSB_Ciliates.lif - Image015 (RGB)-1.png){fig-alt="TODO: describe this image"}
@@ -60,13 +58,7 @@ Images from the lab, the field, and the microscope.
 
 ![](images/gallery/20250514_151727~2.jpg){fig-alt="TODO: describe this image"}
 
-![](images/gallery/20250623_190733 (1).jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/20250723_122128~2 (1).jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/20250723_122128~2.jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/20250812_151526~2 (2).jpg){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/20250812_151526~2.jpg){fig-alt="TODO: describe this image"}
 
@@ -84,8 +76,6 @@ Images from the lab, the field, and the microscope.
 </a>
 </figure>
 
-![](images/gallery/20250924_152403~2 (2).jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/20250924_152403~2.jpg){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/20250924_152806~2.jpg){fig-alt="TODO: describe this image"}
@@ -100,8 +90,6 @@ Images from the lab, the field, and the microscope.
 
 ![](images/gallery/20260319_141957.jpg){fig-alt="TODO: describe this image"}
 
-![](images/gallery/4Animals.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/Acanth_Fall2023.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/AcanthBall.jpg){fig-alt="TODO: describe this image"}
@@ -114,33 +102,17 @@ Images from the lab, the field, and the microscope.
 </a>
 </figure>
 
-<figure>
-<a href="images/gallery/AcanthSwarmers-1.mp4">
-<video src="images/gallery/AcanthSwarmers-1.mp4" autoplay loop muted playsinline aria-label="TODO: describe this image"></video>
-</a>
-</figure>
-
 ![](images/gallery/Acetone_Amoeba.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/Acetone_Amoeba_DIC.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/Amoebozoan.png){fig-alt="TODO: describe this image"}
 
-![](images/gallery/ArrangeRads-01.jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/bermudaImages-01.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/ciliate_montage2.png){fig-alt="TODO: describe this image"}
-
-![](images/gallery/Clathrocanium_SolomonIslands2016.jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/ColorSwarm_TC-01.jpg){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/Cparadoxa.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/CrawlSwarm-01.png){fig-alt="TODO: describe this image"}
-
-![](images/gallery/Cyanophora_expand.lif - Image007-1 (RGB).png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/diatom_1.png){fig-alt="TODO: describe this image"}
 
@@ -166,10 +138,6 @@ Images from the lab, the field, and the microscope.
 
 ![](images/gallery/longAcanth.jpg){fig-alt="TODO: describe this image"}
 
-![](images/gallery/MaineRads_3yrs.jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/MaineRads_3yrs.small.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/memglo-ciliate.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/memglo-ciliateDIC.png){fig-alt="TODO: describe this image"}
@@ -190,15 +158,9 @@ Images from the lab, the field, and the microscope.
 </a>
 </figure>
 
-![](images/gallery/PuretoRicoRADS1-01.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/PXL_20210722_092218167.2.jpg){fig-alt="TODO: describe this image"}
 
-![](images/gallery/PXL_20210722_094043660.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/PXL_20210722_103310410_2.jpg){fig-alt="TODO: describe this image"}
-
-![](images/gallery/PXL_20210812_032227741.jpg){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/PXL_20210815_003627136.jpg){fig-alt="TODO: describe this image"}
 
@@ -226,15 +188,11 @@ Images from the lab, the field, and the microscope.
 
 ![](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg){fig-alt="TODO: describe this image"}
 
-![](images/gallery/Transmission_Fluor_SEM.jpg){fig-alt="TODO: describe this image"}
-
 ![](images/gallery/Transmission_Fluor_SEM_labeled_scaled.jpg){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/TritonX100_Amoeba_montage.png){fig-alt="TODO: describe this image"}
 
 ![](images/gallery/TrophicPlayers.png){fig-alt="TODO: describe this image"}
-
-![](images/gallery/unknownEUK_EdgecombMud-01.png){fig-alt="TODO: describe this image"}
 
 <figure>
 <a href="images/gallery/VID_20250929_134025~2 (1).mp4">

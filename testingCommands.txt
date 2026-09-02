@@ -10,5 +10,5 @@ git commit -m "Video figures, lightbox fixes, layout repairs"
 git push
 
 quarto render
-git add . && git commit -m "Edited Gallery"
+git add . && git commit -m "Edited Gallery2"
 git push
