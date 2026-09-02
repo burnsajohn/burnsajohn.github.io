@@ -144,10 +144,10 @@ touch](../about.qmd#contact).
 
 - **Anna Cho**, Arizona State University
 - **Nicole Coots**, University of British Columbia
+- **Miguel Méndez Sandín**, Institut de Biologia Evolutiva, CSIC-UPF
 
 ::: {.content-hidden}
 - **Natalia Llopis Monferrer**, Monterey Bay Aquarium Research Institute
-- **Miguel Méndez Sandín**, Institut de Biologia Evolutiva, CSIC-UPF
 - **Fabrice Not**, Station Biologique de Roscoff
 - **Manu Prakash**, Stanford University
 - **Ian Probert**, Station Biologique de Roscoff
