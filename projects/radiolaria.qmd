@@ -7,7 +7,7 @@ order: 6
 ---
 
 ::: {.page-hero .parallax .column-screen style="height: 250px;"}
-[![](../images/radiolaria/Clathrocanium_SolomonIslands2016.png){fig-alt="..." style="object-position: center 95%;"}](../images/radiolaria/Clathrocanium_SolomonIslands2016.png)
+[![](../images/radiolaria/Clathrocanium_SolomonIslands2016.jpg){fig-alt="..." style="object-position: center 95%;"}](../images/radiolaria/Clathrocanium_SolomonIslands2016.jpg)
 :::
 
 ::: {.lead}
@@ -59,7 +59,7 @@ in numbers, on a schedule.
 ### Bermuda
 
 ::: {.figure-row .figure-row-flip}
-![Mophospecies from one site, spanning nassellarians, spumellarians, collodarians, and one acantharian. Forams are abundant here too, but not pictured.](../images/radiolaria/bermudaImages-01.png){.figure-col fig-alt="Montage of radiolarian morphospecies collected off Bermuda"}
+![Mophospecies from one site, spanning nassellarians, spumellarians, collodarians, and one acantharian. Forams are abundant here too, but not pictured.](../images/radiolaria/bermudaImages-01.jpg){.figure-col fig-alt="Montage of radiolarian morphospecies collected off Bermuda"}
 
 ::: {.figure-text}
 Bermuda sits in the Western North Atlantic, in the Sargasso Sea, surrounded by deep oligotrophic water, and

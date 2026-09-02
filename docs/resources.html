@@ -45,7 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02843366034b1dbc46aba30efa894287.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e7f9e786130a2b501b503873de340e28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="tools">Tools</h2>
 <section id="predict-trophic-mode" class="level3 topic">
 <h3 data-anchor-id="predict-trophic-mode">Predict Trophic Mode</h3>
-<p><img src="images/resources/BockCharvet.png" class="topic-img img-fluid" alt="Mollweide projection of trophic mode predictions"></p>
+<p><a href="images/resources/BockCharvet.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/resources/BockCharvet.png" class="topic-img img-fluid" alt="Mollweide projection of trophic mode predictions"></a></p>
 <div class="topic-body">
 <p>A computational tool to predict eukaryote function from genome or transcriptome data. Given a set of predicted proteins, it estimates whether an organism is phototrophic, phagotrophic, or both, without anyone having to watch the cell feed.</p>
 <p><a href="https://github.com/burnsajohn/predictTrophicMode">GitHub</a> · <a href="https://doi.org/10.1038/s41559-018-0477-7">Paper</a></p>
@@ -179,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="genomepercpredict" class="level3 topic">
 <h3 data-anchor-id="genomepercpredict">GenomePercPredict</h3>
-<p><img src="images/resources/perccompl.jpg" class="topic-img img-fluid" alt="Plots illustrating percent completeness calculations"></p>
+<p><a href="images/resources/perccompl.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/resources/perccompl.jpg" class="topic-img img-fluid" alt="Plots illustrating percent completeness calculations"></a></p>
 <div class="topic-body">
 <p>Relates genome completeness to the reliability of functional predictions.</p>
 <p><a href="https://github.com/burnsajohn/GenomePercPredict">GitHub</a> · <a href="https://doi.org/10.1101/2021.10.01.462806">Preprint</a></p>
@@ -187,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="chromosphaera-perkinsii-transcriptomics" class="level3 topic">
 <h3 data-anchor-id="chromosphaera-perkinsii-transcriptomics">Chromosphaera perkinsii transcriptomics</h3>
-<p><img src="images/resources/TRX.png" class="topic-img square img-fluid" alt="Heatmap of transcripts changing over time"></p>
+<p><a href="images/resources/TRX.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/resources/TRX.png" class="topic-img square img-fluid" alt="Heatmap of transcripts changing over time"></a></p>
 <div class="topic-body">
 <p>Analysis scripts from work on multicellular development in a close animal relative.</p>
 <p><a href="https://github.com/burnsajohn/Chromosphaera-perkinsii_Transcriptomics">GitHub</a> · <a href="https://doi.org/10.1038/s41586-024-08115-3">Paper</a></p>
@@ -198,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="data">Data</h2>
 <section id="deep-sea-genomes-and-transcriptomes" class="level3 topic">
 <h3 data-anchor-id="deep-sea-genomes-and-transcriptomes">Deep-sea genomes and transcriptomes</h3>
-<p><img src="images/resources/4Animals.png" class="topic-img img-fluid" alt="Four deep sea animals"></p>
+<p><a href="images/resources/4Animals.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/resources/4Animals.jpg" class="topic-img img-fluid" alt="Four deep sea animals"></a></p>
 <div class="topic-body">
 <p>Sequence data from the in situ digital synthesis work: a salp genome, plus reference transcriptome assemblies and annotations for siphonophores, ctenophores, larvaceans, jellyfish, tunicates, and a pelagic polychaete, several of them preserved in situ before recovery.</p>
 <ul>
@@ -651,6 +654,38 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

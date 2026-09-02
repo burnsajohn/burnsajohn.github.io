@@ -46,7 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-02843366034b1dbc46aba30efa894287.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e7f9e786130a2b501b503873de340e28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -189,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="functional-mapping-of-genome-scale-data" class="level3">
 <h3 data-anchor-id="functional-mapping-of-genome-scale-data">Functional mapping of genome-scale data</h3>
 <div class="figure-row">
-<p><img src="../images/prediction/heatmap.png" class="figure-col img-fluid" alt="Heatmap of protein cluster abundance across organisms"></p>
+<p><a href="../images/prediction/heatmap.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../images/prediction/heatmap.png" class="figure-col img-fluid" alt="Heatmap of protein cluster abundance across organisms"></a></p>
 <div class="figure-text">
 <p>Each row is a cluster of proteins acting in a similar functional process. Each column is an organism. The colors are a weighted score for how many proteins that organism has in that process. Machine learning inference on patterns like these is what produces a prediction.</p>
 </div>
@@ -198,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="principal-component-analysis-of-functional-maps" class="level3">
 <h3 data-anchor-id="principal-component-analysis-of-functional-maps">Principal component analysis of functional maps</h3>
 <div class="figure-row figure-row-flip">
-<p><img src="../images/prediction/PCAplot.png" class="figure-col img-fluid" alt="Principal component ordination separating organisms by functional capacity"></p>
+<p><a href="../images/prediction/PCAplot.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="../images/prediction/PCAplot.png" class="figure-col img-fluid" alt="Principal component ordination separating organisms by functional capacity"></a></p>
 <div class="figure-text">
 <p>The same data reduced to principal components separates organisms into clusters by functional capacity, which is easier to read than the full matrix and shows the same structure.</p>
 </div>
@@ -210,7 +213,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="multiple-origins-of-the-genes-predictive-of-phagocytosis" class="level3">
 <h3 data-anchor-id="multiple-origins-of-the-genes-predictive-of-phagocytosis">Multiple origins of the genes predictive of phagocytosis</h3>
 <div class="figure-row">
-<p><img src="../images/prediction/PhagOrigins.png" class="figure-col img-fluid" alt="Evolutionary origins of phagocytosis-predictive gene families"></p>
+<p><a href="../images/prediction/PhagOrigins.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="../images/prediction/PhagOrigins.png" class="figure-col img-fluid" alt="Evolutionary origins of phagocytosis-predictive gene families"></a></p>
 <div class="figure-text">
 <p>The genes that predict phagocytosis in eukaryotes do not share a single evolutionary origin. They come from archaea, from bacteria, and from apparent innovation within the eukaryote lineage. Searching across diversity is what linked cell eating to its prokaryotic roots.</p>
 </div>
@@ -675,6 +678,38 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

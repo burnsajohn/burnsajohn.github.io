@@ -7,7 +7,7 @@ order: 1
 ---
 
 ::: {.page-hero style="height: 400px;"}
-![](../images/oceanshot2/SCICAM_20260418_180931848_SOI_HIGHLIGHT.1.jpg){fig-alt="Galaxy siphonophore imaged with the ROV SuBastian aboard the RV Falkor (too)" style="object-position: center 65%;"}
+![](../images/oceanshot2/SCICAM_20260418_180931848_SOI_HIGHLIGHT.1.jpg){.nolightbox fig-alt="Galaxy siphonophore imaged with the ROV SuBastian aboard the RV Falkor (too)" style="object-position: center 65%;"}
 :::
 
 ::: {.lead}
@@ -16,7 +16,7 @@ Much of the gelatinous life in the deep ocean has never been described. Collecti
 
 ## The problem
 
-The ocean's midwater, below the surface and above the seafloor, is the one of the largest contiguous ecosystems on Earth and among the least explored. Much of it is occupied by gelatinous animals: jellyfish, ctenophores, salps, siphonophores, pelagic polychaetes. Estimates suggest that between 35 and 65 percent of gelatinous zooplankton species are poorly described or entirely unknown.
+The ocean's midwater, below the surface and above the seafloor, is one of the largest contiguous ecosystems on Earth and among the least explored. Much of it is occupied by gelatinous animals: jellyfish, ctenophores, salps, siphonophores, pelagic polychaetes. Estimates suggest that between 35 and 65 percent of gelatinous zooplankton species are poorly described or entirely unknown.
 
 They are hard to study because they are hard to keep. Trawl nets can destroy soft tissue on the way up, and what preservation in ethanol or formalin leaves behind can degrade past usefulness within a few years. Genomic data for these groups barely exist.
 
@@ -30,7 +30,7 @@ A digital voucher combines quantitative imaging with plenoptic cameras, 3D optic
 
 ## Where it stands
 
-![John Burns and David Fields in front of the Falkor(too) in Salvador, Brazil](../images/oceanshot2/JohnDavid.jpg){.fig-half fig-alt="John and David"}
+![John Burns and David Fields in front of the Falkor (too) in Salvador, Brazil](../images/oceanshot2/JohnDavid.jpg){.fig-half fig-alt="John and David"}
 
 The strategy was first deployed on [Designing the Future
 2](https://schmidtocean.org/cruise/designing-the-future-2/) in 2021, which
@@ -41,7 +41,7 @@ between Salvador and Fortaleza, Brazil, with chief scientist
 [Karen Osborn](https://naturalhistory.si.edu/staff/karen-osborn) of the
 Smithsonian.
 
-![Juvenile glass squid](../images/oceanshot2/squid.webp){.fig-half .fig-left style="width: 44%;" fig-alt="Juvenile glass squid"}
+![Juvenile glass squid](../images/oceanshot2/squid.webp){.fig-half .fig-left fig-alt="Juvenile glass squid"}
 
 ::: {.clear-right}
 That cruise turned up [31 species new to
@@ -64,22 +64,28 @@ Bigelow in August 2026.
 - [**Brennan Phillips**](https://web.uri.edu/oce/meet/brennan-phillips/),
   Associate Professor of Ocean Engineering, University of Rhode Island.
   Underwater instrumentation and sampling systems.
-- [**David Gruber**](https://www.davidgruber.com/), Distinguished Professor of Biology, Baruch College, City
-  University of New York.
-- [**Dhugal Lindsay**](https://www.jamstec.go.jp/souran/detail.html?systemId=339da5ab7495cc95&lang=en), Senior Research Engineer, Japan Agency for Marine-Earth Science and Technology. Taxonomy, novel camera systems, and species descriptions.
-  
+- [**David Gruber**](https://www.davidgruber.com/), Distinguished Professor of
+  Biology, Baruch College, City University of New York.
+- [**Dhugal Lindsay**](https://www.jamstec.go.jp/souran/detail.html?systemId=339da5ab7495cc95&lang=en),
+  Senior Research Engineer, Japan Agency for Marine-Earth Science and
+  Technology. Taxonomy, novel camera systems, and species descriptions.
+
 ## Support
 
 ::: {.logo-block}
-![](../images/oceanshotlogo2.png){width=120 fig-alt="Ocean Shot"}
+![](../images/oceanshotlogo2.png){width=120 .nolightbox fig-alt="Ocean Shot"}
 
+::: {.logo-text}
 This work is supported by an [Ocean Shot Award](https://www.spf.org/opri/en/projects/oceanshot.html) from the [Ocean Policy Research Institute](https://www.spf.org/opri/en/) arm of the [Sasakawa Peace Foundation](https://www.spf.org/en/).
+:::
 :::
 
 ::: {.logo-block}
-![](../images/SOI-logo.jpg){width=120 fig-alt="Schmidt Ocean Institute"}
+![](../images/SOI-logo.jpg){width=120 .nolightbox fig-alt="Schmidt Ocean Institute"}
 
+::: {.logo-text}
 Ship time aboard the R/V *Falkor (too)* was provided by the [Schmidt Ocean Institute](https://schmidtocean.org/).
+:::
 :::
 
 - [Ocean Shot award propels discovery through innovation](https://www.bigelow.org/news/articles/2025-05-27.html) <span class="press-outlet">Bigelow Laboratory, 2025</span>
@@ -89,4 +95,3 @@ Ship time aboard the R/V *Falkor (too)* was provided by the [Schmidt Ocean Insti
 - **Burns JA**, Becker KP, Casagrande D, Daniels J, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). [An in situ digital synthesis strategy for the discovery and description of ocean life](https://doi.org/10.1126/sciadv.adj4960). *Science Advances*.
 - **Burns JA**, Daniels J, Becker KP, Casagrande D, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). [Transcriptome sequencing of seven deep marine invertebrates](https://doi.org/10.1038/s41597-024-03533-4). *Scientific Data*.
 - Tessler M, Brugler MR, **Burns JA**, Sinatra NR, Vogt DM, Varma A, Xiao M, Wood RJ, et al. (2020). [Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal](https://doi.org/10.1016/j.cub.2020.01.032). *Current Biology*.
-

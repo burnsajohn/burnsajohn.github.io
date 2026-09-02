@@ -12,27 +12,27 @@ Images from the lab, the field, and the microscope.
 
 ::: {.gallery}
 
-[![](images/gallery/20230828_Acanth_color.png){fig-alt="TODO: describe this image"}](images/gallery/20230828_Acanth_color.png)
+[![](images/gallery/20230828_Acanth_color.jpg){fig-alt="TODO: describe this image"}](images/gallery/20230828_Acanth_color.jpg)
 
-[![](images/gallery/20230828_RADeatCiliateSortOf-1-1.png){fig-alt="TODO: describe this image"}](images/gallery/20230828_RADeatCiliateSortOf-1-1.png)
+[![](images/gallery/20230828_RADeatCiliateSortOf-1-1.jpg){fig-alt="TODO: describe this image"}](images/gallery/20230828_RADeatCiliateSortOf-1-1.jpg)
 
-[![Images from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/4Animals.png){fig-alt="TODO: describe this image"}](images/gallery/4Animals.png)
+[![Images from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/4Animals.jpg){fig-alt="TODO: describe this image"}](images/gallery/4Animals.jpg)
 
-[![](images/gallery/AcanthConstellation_invert.png){fig-alt="TODO: describe this image"}](images/gallery/AcanthConstellation_invert.png)
+[![](images/gallery/AcanthConstellation_invert.jpg){fig-alt="TODO: describe this image"}](images/gallery/AcanthConstellation_invert.jpg)
 
 [![](images/gallery/AcanthNuclei.gif){fig-alt="TODO: describe this image"}](images/gallery/AcanthNuclei.gif)
 
 [![](images/gallery/CrawlSwarm-01.png){fig-alt="TODO: describe this image"}](images/gallery/CrawlSwarm-01.png)
 
-[![](images/gallery/InvasionColor.png){fig-alt="TODO: describe this image"}](images/gallery/InvasionColor.png)
+[![](images/gallery/InvasionColor.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionColor.jpg)
 
-[![](images/gallery/InvasionEdge.png){fig-alt="TODO: describe this image"}](images/gallery/InvasionEdge.png)
+[![](images/gallery/InvasionEdge.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionEdge.jpg)
 
-[![](images/gallery/InvasionSide.png){fig-alt="TODO: describe this image"}](images/gallery/InvasionSide.png)
+[![](images/gallery/InvasionSide.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionSide.jpg)
 
-[![](images/gallery/InvasionStreak.png){fig-alt="TODO: describe this image"}](images/gallery/InvasionStreak.png)
+[![](images/gallery/InvasionStreak.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionStreak.jpg)
 
-[![](images/gallery/InvasionZoomOUT.png){fig-alt="TODO: describe this image"}](images/gallery/InvasionZoomOUT.png)
+[![](images/gallery/InvasionZoomOUT.jpg){fig-alt="TODO: describe this image"}](images/gallery/InvasionZoomOUT.jpg)
 
 [![](images/gallery/P1010251.JPG){fig-alt="TODO: describe this image"}](images/gallery/P1010251.JPG)
 
@@ -54,9 +54,15 @@ Images from the lab, the field, and the microscope.
 
 [![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/S0460_Marrus.jpg){fig-alt="TODO: describe this image"}](images/gallery/S0460_Marrus.jpg)
 
-[![](images/gallery/Stage34_algaeHighlighted.gif){fig-alt="TODO: describe this image"}](images/gallery/Stage34_algaeHighlighted.gif)
+<video autoplay loop muted playsinline>
+  <source src="images/gallery/Stage34_algaeHighlighted.mp4" type="video/mp4">
+  TODO: describe this image
+</video>
 
-[![](images/gallery/Stage38_algaeHighlighted.gif){fig-alt="TODO: describe this image"}](images/gallery/Stage38_algaeHighlighted.gif)
+<video autoplay loop muted playsinline>
+  <source src="images/gallery/Stage38_algaeHighlighted.mp4" type="video/mp4">
+  TODO: describe this image
+</video>
 
 [![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg){fig-alt="TODO: describe this image"}](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg)
 

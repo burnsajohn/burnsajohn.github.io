@@ -476,6 +476,11 @@ p > img.fig-left {
   margin: 0.3rem 1.75rem 1rem 0;
 }
 
+// Drop a block below a floated figure instead of wrapping beside it.
+.clear-right { clear: right; }
+.clear-left  { clear: left; }
+.clear-both  { clear: both; }
+
 // ===============================================================
 // FIGURE ROWS (.figure-row)
 // Image beside text, the two vertically centred against each
@@ -495,6 +500,7 @@ p > img.fig-left {
 .figure-row {
   display: flex;
   align-items: stretch;
+  justify-content: center;
   gap: 1.75rem;
   margin: 1.25rem 0 2rem;
   clear: both;
@@ -601,6 +607,11 @@ p > img.fig-left {
 //   Paragraph beside them.
 //   :::
 //   :::
+//
+// A raw <video> can stand in for either image. Pandoc passes raw
+// HTML through untouched, so the element arrives as a direct child
+// with none of the wrappers a markdown image gets. It is named in
+// the child selectors below for that reason.
 .figure-row > .figure-stack {
   flex: 0 0 var(--fig-width, 42%);
   max-width: var(--fig-width, 42%);
@@ -619,6 +630,7 @@ p > img.fig-left {
 
 .figure-stack-side > p,
 .figure-stack-side > figure,
+.figure-stack-side > video,
 .figure-stack-side > .quarto-figure {
   flex: 1 1 0;
   min-width: 0;
@@ -626,12 +638,14 @@ p > img.fig-left {
 
 .figure-stack > p,
 .figure-stack > figure,
+.figure-stack > video,
 .figure-stack > .quarto-figure {
   width: 100%;
   margin: 0;
 }
 
-.figure-stack img {
+.figure-stack img,
+.figure-stack video {
   width: 100%;
   max-width: none;
   height: auto;

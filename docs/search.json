@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "teaching.html#evolutionary-cell-biology",
-    "href": "teaching.html#evolutionary-cell-biology",
-    "title": "Teaching",
-    "section": "Evolutionary Cell Biology",
-    "text": "Evolutionary Cell Biology\nColby College, developed in 2023.\n\n\n\n\nBog sampling in the winter.\n\n\n\nThe cell is the smallest structural and functional unit of life. This course explores the evolution of cells through the lens of eukaryotic diversity, which is mostly microbial. We cover the origin and evolution of eukaryotic cells, endosymbiotic theory, cell organization, eukaryotic genomes, and the ecology of eukaryotes. Students also learn how new microeukaryotes are found and described, using microscopy and molecular methods, along with basic bioinformatics.\n\n\n\n\n\n\nBog sampling in the spring.\n\n\n\nThe course fulfills the field requirement for the biology major. We go out during class time and collect from bogs, lakes, streams, ponds, and soils, then identify what we find by microscopy and sequence it."
-  },
-  {
-    "objectID": "teaching.html#how-i-teach",
-    "href": "teaching.html#how-i-teach",
-    "title": "Teaching",
-    "section": "How I teach",
-    "text": "How I teach\n“Mean people suck.”\n\nThe class was part of a course in eighteenth- and nineteenth-century Russian literature. The professor, an impish woman with a high-pitched voice, had read the phrase on a bumper sticker that week and came in ready to challenge us on what made it effective.\n“Two long vowels followed by a short one that sounds like a shot!”\nWe had all seen the bumper sticker before and most had never given it a first, let alone second or third thought. The class was part of a course in 18th and 19th century Russian literature. In the class, the boorish statement, “mean people suck” morphed into an example of modern poetry and how a variety of meanings can be conveyed in a short seemingly direct sentence. Science teaching can do the same thing.\nTwo ways I try. Every fact has a history, and saying so connects the work to the people who did it. When I teach the salamander-alga symbiosis I start with Henry Orr’s 1888 note that the eggs “seem to present a remarkable case of symbiosis” and the fact that his first question, how the algae get into the eggs, is still open. Primary literature belongs in the classroom, at whatever level the course allows. A 1938 genetics paper carries experimental design, methods, and a negative result, which is more than a textbook chapter can show about how science actually proceeds.\nI also bring my current research in, which keeps me engaged in what I am teaching and keeps students close to work that is still unfinished. In an introductory course that means posing the question and stopping there: we study a green alga that lives inside a salamander, the only case of its kind in a vertebrate. Based on what you know about cells, how would you find out what is going on? In an advanced course it means giving them the methods and having them work out the approach themselves.\nMy students have gone on to PhD programs, medical school, professional work, and to art and business school. Whatever else a course covers, they should leave it better at writing, at reading critically, and at explaining something to a room. Those carry down all of those paths."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Protist Systems Biology",
     "section": "",
-    "text": "Also on Google Scholar and ORCID."
+    "text": "About Us\n\n\n\nWe study how genetic information shapes the functions, behaviors, and roles of cells and organisms across the tree of life. The work ranges in scale from the molecular to the ecological. In practice that has meant building computational tools to predict how a cell feeds when no one has watched it feed, sequencing genomes for lineages that have never had one, asking how microeukaryotes sense and interpret their environment, working out how a green alga lives inside a salamander embryo, and developing methods to get genome-scale information from the small amounts of material that deep-sea animals yield. Different problems, but each one starts from an organism and a question about it, and the microbiology, molecular biology, and bioinformatics follow from there.\n\n\n\nPeople\n\n\nPrincipal investigator\n\n\n\nJohn A. Burns\nSenior Research Scientist, Bigelow Laboratory for Ocean Sciences. Research Faculty, Colby College. Research Associate, American Museum of Natural History.\nI received my BA in Geoscience from Franklin and Marshall College, my PhD in molecular biology from New York University, and completed my postdoctoral training at the American Museum of Natural History.\nCurriculum vitae\n\n\n\n\nJoining the lab\nNew positions depend on funding, but I am always glad to hear from people interested in the work. Get in touch.\n\n\nFormer lab members\n\nPostdocs\n\nBaptiste Genot, 2020–2024. Now a Project Assistant Professor at the University of Tokyo. \n\n\n\nREU students\n\nBrooks Osborn, Colby College, Summer 2024. Now a medical student at the Tufts University School of Medicine. \nTyler Bauersfeld, Southern Maine Community College, Summer 2022. Now a research technician at IDEXX. \nMargaret Grogan, Fordham University, Summer 2022. Now a Master’s student at the Virginia Institute of Marine Science with Nicole Millette. \nMatthew Yost, University of Maine, Summer 2021. Now a PhD student at the University of Massachusetts Dartmouth with Katrina Velle. \nJessica Liu, Vassar College, Summer 2020. \nTre-Andice Williams, Truman State University, Summer 2020. \n\n\n\nColby semester students\n\nValerie Tonigold, Southern Maine Community College, Fall 2024. Now an undergraduate student at Cal State Monterey Bay. \nCaroline Alexander, Colby College, Fall 2022. Now a Research Technician II at the Ragon Institute of MGH, MIT and Harvard. \nCharis Li, Colby College, Fall 2020. Now a Master’s student at Harvard Medical School. \n\n\n\nCurrent support\n\n\n\n\nInnovating In-Situ Digital Synthesis Strategies for Ocean Species Discovery Sasakawa Peace Foundation, Ocean Shot Research Grant Program. 2025 to 2028. Ship time aboard R/V Falkor (too) contributed by Schmidt Ocean Institute.\n\n\n\n\n\nMicroscopic and genetic investigation into the endogenous viral elements in green algae National Research Foundation of Korea. 2025 to 2028.\n\n\n\n\nProfiles\n\n\nNew scientist evolves laboratory’s expertise Bigelow Laboratory, 2019\n\n\n\nContact\n\n\n\n\n\nThe view from the office.\n\n\n\nJohn A. Burns\nBigelow Laboratory for Ocean Sciences\n60 Bigelow Drive, East Boothbay, ME 04544\njburns [at] bigelow.org\n\nGoogle Scholar\nORCID\nGitHub\nBluesky\nBigelow Laboratory profile\nSchmidt Ocean Institute profile"
   },
   {
-    "objectID": "publications.html#selected",
-    "href": "publications.html#selected",
-    "title": "Publications",
-    "section": "Selected",
-    "text": "Selected\n\n\n\n\n\n\n\n\n\n\nAerobic sister lineage of breviates has gene-rich mitochondrial genomes\n\n\nCho A, Burns JA, Woyke T, Stepanauskas R, Poulton N, Wideman JG. Current Biology. 2026.\n\n\n\n\n\n\n\n\n\n\n\n\nA multicellular developmental program in a close animal relative\n\n\nOlivetta M, Bhickta C, Chiaruttini N, Burns J, Dudin O. 2024.\n\n\n\n\n\n\n\n\n\n\n\n\nAn in situ digital synthesis strategy for the discovery and description of ocean life\n\n\nBurns JA, Becker KP, Casagrande D, Daniels J, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al.. Science Advances. 2024.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html#recent-work",
-    "href": "publications.html#recent-work",
-    "title": "Publications",
-    "section": "Recent work",
-    "text": "Recent work\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nyear\n\n\n\ntitle\n\n\n\ndescription\n\n\n\n\n\n\n\n\n2026\n\n\nCrawling under the radar: two novel Paulinella species expand knowledge about the ecology and evolution of a primary plastid-containing amoeba lineage\n\n\nVan_Etten J, Han S, Burns J, Lhee D, Willoughby A, Stephens T, Chille E, Sleith R, et al.. Journal of phycology. 2026.\n\n\n\n\n\n\n2026\n\n\nThe Calcidiscus leptoporus genome reveals vitamin-mediated holobiont interactions\n\n\nChaux F, Vojvoda Zeljko T, Vuković BB, Burns JA, Le Perrun T, Žižek M, Bannerman BP, Mason DTB, et al.. ISME Communications. 2026.\n\n\n\n\n\n\n2025\n\n\nGlobal metagenomics reveals hidden protist diversity\n\n\nRomero MF, Krinos AI, Maurer-Alcala X, Burns JA, Stepanauskas R, Woyke T, Schulz F. Preprint. 2025.\n\n\n\n\n\n\n2025\n\n\nHigh partner specificity in an algal-salamander mutualism at continental scale\n\n\nWallace SE, Burns JA, Hale RE, Kerney RR, Mott CL, Bishop CD. Frontiers in Amphibian and Reptile Science. 2025.\n\n\n\n\n\n\n2025\n\n\nTurf algae redefine the chemical landscape of temperate reefs, limiting kelp forest recovery\n\n\nFarrell SP, Petras D, Stincone P, Yiu DS, Burns JA, Pakkir Shah AK, Hartmann AC, Brady DC, et al.. Science. 2025.\n\n\n\n\n\n\n2024\n\n\nFunctional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa\n\n\nGenot B, Grogan M, Yost M, Iacono G, Archer SD, Burns JA. Journal of Eukaryotic Microbiology. 2024.\n\n\n\n\n\n\n2024\n\n\nTranscriptome sequencing of seven deep marine invertebrates\n\n\nBurns JA, Daniels J, Becker KP, Casagrande D, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al.. Scientific Data. 2024.\n\n\n\n\n\n\n2023\n\n\nLong-Read–Based Genome Assembly Reveals Numerous Endogenous Viral Elements in the Green Algal Bacterivore Cymbomonas tetramitiformis\n\n\nGyaltshen Y, Rozenberg A, Paasch A, Burns JA, Warring S, Larson RT, Maurer-Alcalá XX, Dacks J, et al.. Genome Biology and Evolution. 2023.\n\n\n\n\n\n\n2022\n\n\nInjection of algae intoAmbystomid (salamander) embryo v1\n\n\nBurns J. 2022.\n\n\n\n\n\n\n2022\n\n\nOrganismal and cellular interactions in vertebrate–alga symbioses\n\n\nYang H, Genot B, Duhamel S, Kerney R, Burns JA. Biochemical Society Transactions. 2022.\n\n\n\n\n\n\n2022\n\n\nPhagocytosis underpins the biotrophic lifestyle of intracellular parasites in the class Phytomyxea (Rhizaria)\n\n\nGarvetto A, Murúa P, Kirchmair M, Salvenmoser W, Hittorf M, Ciaghi S, Harikrishnan SL, Gachon CMM, et al.. 2022.\n\n\n\n\n\n\n2022\n\n\nPhylogenomics and the first higher taxonomy of Placozoa, an ancient and enigmatic animal phylum\n\n\nTessler M, Neumann JS, Kamm K, Osigus HJ, Eshel G, Narechania A, Burns JA, DeSalle R, et al.. Frontiers in Ecology and Evolution. 2022.\n\n\n\n\n\n\n2022\n\n\nTranscriptomics of a Greenlandic Snailfish Reveals Exceptionally High Expression of Antifreeze Protein Transcripts\n\n\nBurns JA, Gruber DF, Gaffney JP, Sparks JS, Brugler MR. Evolutionary Bioinformatics. 2022.\n\n\n\n\n\n\n2022\n\n\nTransformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies\n\n\nGenot B, Burns JA. Symbiosis. 2022.\n\n\n\n\n\n\n2021\n\n\nExperimental identification and in silico prediction of bacterivory in green algae\n\n\nBock NA, Charvet S, Burns J, Gyaltshen Y, Rozenberg A, Duhamel S, Kim E. The ISME Journal. 2021.\n\n\n\n\n\n\n2021\n\n\nNo evidence of Phago‐mixotropy in Micromonas polaris (Mamiellophyceae), the Dominant Picophytoplankton Species in the Arctic\n\n\nJimenez V, Burns JA, Le Gall F, Not F, Vaulot D. Journal of Phycology. 2021.\n\n\n\n\n\n\n2021\n\n\nRelating genome completeness to functional predictions\n\n\nLiu J, Williams T, Burns JA. 2021.\n\n\n\n\n\n\n2021\n\n\nThe Bacterial Diversity Lurking in Protist Cell Cultures\n\n\nAponte A, Gyaltshen Y, Burns JA, Heiss AA, Kim E, Warring SD. American Museum Novitates. 2021.\n\n\n\n\n\n\n2020\n\n\nHeterotrophic Carbon Fixation in a Salamander-Alga Symbiosis\n\n\nBurns JA, Kerney R, Duhamel S. 2020.\n\n\n\n\n\n\n2020\n\n\nUltra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal\n\n\nTessler M, Brugler MR, Burns JA, Sinatra NR, Vogt DM, Varma A, Xiao M, Wood RJ, et al.. Current Biology. 2020.\n\n\n\n\n\n\n2019\n\n\nCo-cultures of Oophila amblystomatis between Ambystoma maculatum and Ambystoma gracile hosts show host-symbiont fidelity\n\n\nKerney R, Leavitt J, Hill E, Zhang H, Kim E, Burns J. Symbiosis. 2019.\n\n\n\n\n\n\n2019\n\n\nCollect of Collodarian (Rhizaria, Radiolaria) nuclei for genomic analyses v1\n\n\nBigeard E, Pillet L, Burns J, Not F. 2019.\n\n\n\n\n\n\n2019\n\n\nFrom intent to implementation: Factors affecting public involvement in life science research\n\n\nBurns JA, Korzec K, Dorris ER. 2019.\n\n\n\n\n\n\n2018\n\n\nAlgae Living in Salamanders, Friend or foe?\n\n\nBurns JA, Kerney R. TheScienceBreaker. 2018.\n\n\n\n\n\n\n2018\n\n\nGene-based predictive models of trophic modes suggest Asgard archaea are not phagocytotic\n\n\nBurns JA, Pittis AA, Kim E. Nature Ecology & Evolution. 2018.\n\n\n\n\n\n\n2018\n\n\nGlobal transcriptome analysis of the aphelid Paraphelidium tribonemae supports the phagotrophic origin of fungi\n\n\nTorruella G, Grau-Bové X, Moreira D, Karpov SA, Burns JA, Sebé-Pedrós A, Völcker E, López-García P. Communications Biology. 2018.\n\n\n\n\n\n\n2018\n\n\nO 6-methylguanine–induced transcriptional mutagenesis reduces p53 tumor-suppressor function\n\n\nEzerskyte M, Paredes JA, Malvezzi S, Burns JA, Margison GP, Olsson M, Scicchitano DA, Dreij K. Proceedings of the National Academy of Sciences. 2018.\n\n\n\n\n\n\n2018\n\n\nThe Chytrid Fungus, Batrachochytrium dendrobatidis, is Widespread Among Cuban Amphibians\n\n\nCádiz A, Reytor ML, Díaz LM, Chestnut T, Burns JA, Amato G. EcoHealth. 2018.\n\n\n\n\n\n\n2017\n\n\nComplete mitochondrial genomes of prasinophyte algae Pyramimonas parkeae and Cymbomonas tetramitiformis\n\n\nSatjarak A, Burns JA, Kim E, Graham LE. Journal of phycology. 2017.\n\n\n\n\n\n\n2017\n\n\nTranscriptome analysis illuminates the nature of the intracellular interaction in a vertebrate-algal symbiosis\n\n\nBurns JA, Zhang H, Hill E, Kim E, Kerney R. eLife. 2017.\n\n\n\n\n\n\n2016\n\n\nInvestigating Mechanisms of Algal Entry into Salamander Cells\n\n\nKERNEY R, BURNS J, KIM E. Algal and Cyanobacteria Symbioses. 2016.\n\n\n\n\n\n\n2016\n\n\nNucleotide Excision Repair and Transcription-coupled DNA Repair Abrogate the Impact of DNA Damage on Transcription\n\n\nNadkarni A, Burns JA, Gandolfi A, Chowdhury MA, Cartularo L, Berens C, Geacintov NE, Scicchitano DA. Journal of Biological Chemistry. 2016.\n\n\n\n\n\n\n2016\n\n\nRetention of bacterivory in the dominantly photoautotrophic green alga Cymbomonas tetramitiformis is influenced by phosphate limitation\n\n\nPaasch A, Burns J, Kim E. Protistology. 2016.\n\n\n\n\n\n\n2016\n\n\nThe green alga and the salamander: a suffocating love story\n\n\nBurns J, Zhang H, Hill E, Kerney R, Kim E. Protistology. 2016.\n\n\n\n\n\n\n2015\n\n\nComparative Genomics of a Bacterivorous Green Alga Reveals Evolutionary Causalities and Consequences of Phago-Mixotrophic Mode of Nutrition\n\n\nBurns JA, Paasch A, Narechania A, Kim E. Genome Biology and Evolution. 2015.\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html#earlier-work",
-    "href": "publications.html#earlier-work",
-    "title": "Publications",
-    "section": "Earlier work",
-    "text": "Earlier work\nMolecular biology of transcription and DNA damage, from graduate and postdoctoral work.\n\n\n\n\n\n\nyear\n\n\n\ntitle\n\n\n\ndescription\n\n\n\n\n\n\n\n\n2018\n\n\nGenetic instability associated with loop or stem–loop structures within transcription units can be independent of nucleotide excision repair\n\n\nBurns JA, Chowdhury MA, Cartularo L, Berens C, Scicchitano DA. Nucleic Acids Research. 2018.\n\n\n\n\n\n\n2013\n\n\nAre We Listening to Genomic Noise?\n\n\nBurns JA. DNA and Cell Biology. 2013.\n\n\n\n\n\n\n2012\n\n\nRNA Polymerase II Transcription: Effects of DNA Damage and DNA Secondary Structure on Elongation and Fidelity\n\n\nBurns JA. 2012.\n\n\n\n\n\n\n2010\n\n\nDNA Damage and Transcription Elongation: Consequences and RNA Integrity\n\n\nDreij K, Burns JA, Dimitri A, Nirenstein L, Noujnykh T, Scicchitano DA. The Chemical Biology of DNA Damage. 2010.\n\n\n\n\n\n\n2010\n\n\nO 6-Methylguanine induces altered proteins at the level of transcription in human cells\n\n\nBurns JA, Dreij K, Cartularo L, Scicchitano DA. Nucleic Acids Research. 2010.\n\n\n\n\n\n\n2008\n\n\nTranscription elongation past O 6-methylguanine by human RNA polymerase II and bacteriophage T7 RNA polymerase\n\n\nDimitri A, Burns JA, Broyde S, Scicchitano DA. Nucleic acids research. 2008.\n\n\n\n\n\n\nNo matching items"
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Images from the lab, the field, and the microscope.\n\n\n\n\n\n\n\nImages from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\nTODO: describe this image \n\n\nTODO: describe this image \n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n:::"
   },
   {
     "objectID": "projects/viruses.html#the-problem",
@@ -77,221 +49,46 @@
     "text": "Related publications\n\nGyaltshen Y, Rozenberg A, Paasch A, Burns JA, Warring S, Larson RT, Maurer-Alcalá XX, Dacks J, Narechania A, Kim E (2023). Long-read-based genome assembly reveals numerous endogenous viral elements in the green algal bacterivore Cymbomonas tetramitiformis. Genome Biology and Evolution 15:evad194.\nBurns JA, Paasch A, Narechania A, Kim E (2015). Comparative genomics of a bacterivorous green alga reveals evolutionary causalities and consequences of phago-mixotrophic mode of nutrition. Genome Biology and Evolution 7:3047–3061."
   },
   {
-    "objectID": "projects/signaling.html#the-problem",
-    "href": "projects/signaling.html#the-problem",
-    "title": "Protist Cell Signaling",
+    "objectID": "projects/sediment.html#the-problem",
+    "href": "projects/sediment.html#the-problem",
+    "title": "Novel lineages from marine sediment",
     "section": "The problem",
-    "text": "The problem\n\n\n\nDrought stress in crops, and osmotic stress in Cyanophora shown by redox fluorescence. The same problem at two scales.\n\n\nMicroalgae are the main primary producers in aquatic systems, and like plants they have to cope with changing temperature, light, nutrients, toxins, and competition. Plants handle this with a chemical vocabulary: ethylene, abscisic acid, jasmonic acid, and salicylic acid coordinate stress responses within a plant, and volatile compounds and root exudates carry the information to neighbors.\nWhether microalgae do anything comparable is almost entirely unstudied. Being unicellular, they also have options plants do not, working at the population level through stochastic switching and rapid mutation. Which of these a glaucophyte uses is unknown."
+    "text": "The problem\nEnvironmental surveys keep turning up eukaryotic lineages that sit outside of known groups at every taxonomic level. That novelty is relevant to questions about where eukaryotes came from and what their last common ancestor looked like, and these organisms may carry new biochemistry and cell structures. Few of them will be amenable to culture in the laboratory.\nUnlike classic methods for new lineage discovery, single-cell genomics does not require culture. A partial genome can be recovered from one cell, along with whatever organelles and symbionts came with it, which brings these lineages within reach."
   },
   {
-    "objectID": "projects/signaling.html#the-approach",
-    "href": "projects/signaling.html#the-approach",
-    "title": "Protist Cell Signaling",
+    "objectID": "projects/sediment.html#the-approach",
+    "href": "projects/sediment.html#the-approach",
+    "title": "Novel lineages from marine sediment",
     "section": "The approach",
-    "text": "The approach\n\n\n\nGlaucophytes within the Archaeplastida.\n\n\nOur first look at signaling in microeukaryotes was in Cyanophora paradoxa, a glaucophyte, chosen for two reasons that pull in opposite directions. 1) It is unusual: glaucophytes are one of the three Archaeplastida lineages descended from the [presumed] original plastid endosymbiosis. 2) Modern phylogenies also place glaucophytes as the sister lineage to green algae and land plants, which is where nearly everything known about cell signaling in photosynthetic organisms comes from. So it is far enough from the models to be worth asking, and close enough that the answers are interpretable.\nNo glaucophyte has had transgenic tools, so the work so far has been high-throughput rather than mechanistic: measure what the cells do when given a signal, map where the signaling proteins actually sit, and read out phosphorylation and transcription to see how the signal gets from the outside of the cell to the genome."
+    "text": "The approach\nWe sort individual live cells out of sediment by flow cytometry, amplify and sequence each one, and place the resulting genomes on the eukaryotic tree."
   },
   {
-    "objectID": "projects/signaling.html#what-we-found",
-    "href": "projects/signaling.html#what-we-found",
-    "title": "Protist Cell Signaling",
+    "objectID": "projects/sediment.html#what-we-found",
+    "href": "projects/sediment.html#what-we-found",
+    "title": "Novel lineages from marine sediment",
     "section": "What we found",
-    "text": "What we found\n\n\n\n\nA working model of stress signaling in Cyanophora paradoxa.\n\n\n\nCyanophora paradoxa makes ethylene under abiotic stress. It will also make it on demand: supplied with ACC, the precursor land plants use, the cells release ethylene as a gas.\nThe response looks like a signaling pathway rather than an isolated reaction. Reactive oxygen species accumulate after both stress and ACC treatment, consistent with a second messenger carrying the signal inward. Abscisic acid, a second plant hormone, interferes with ethylene synthesis from ACC while promoting ROS accumulation, so the two hormones interact. Cells treated with ACC grow more slowly, and their transcriptomes show upregulation of senescence-associated proteases, which fits what the growth data show."
+    "text": "What we found\nBreviates are a group of microaerophilic flagellates with hydrogen-producing organelles and, unusually, no mitochondrial DNA at all.\n\n\n\n\nFrom Cho et al. 2026.\n\n\n\nWe sorted cells from an intertidal mudflat and found a new lineage related to the breviates. It has mitochondrial genomes, which was not expected, and they encode most of the electron transport chain along with genes that nearly every other eukaryote has either lost or moved to the nucleus. Their nuclear genomes also carry the machinery for anaerobic respiration and hydrogen production, so these cells may be able to work either way depending on the oxygen available.\n\n\nThe same sorting turned up gene-rich mitochondrial genomes in apusomonads, and a good deal of other novel diversity still being worked through. We are also pursuing images and cultures of these novel cells and lineages."
   },
   {
-    "objectID": "projects/signaling.html#where-it-stands",
-    "href": "projects/signaling.html#where-it-stands",
-    "title": "Protist Cell Signaling",
-    "section": "Where it stands",
-    "text": "Where it stands\nThree directions are open. Which signals are used, and what carries them inward once received. Whether signaling between cells coordinates a response across a population, and whether a cell that receives a warning survives a later stress better than a naive one. And how a signal is integrated in cells whose architecture has no close parallel, where inference from homology gives out and the proteins have to be located directly.\nCyanophora is where we started, not where this stops. The same questions apply across microbial eukaryotes, and the answers are unlikely to be the same in each.\nThe work is unfunded at present and continues opportunistically. If you work on signaling in microbial eukaryotes and want to talk, get in touch."
-  },
-  {
-    "objectID": "projects/signaling.html#press",
-    "href": "projects/signaling.html#press",
-    "title": "Protist Cell Signaling",
-    "section": "Press",
-    "text": "Press\n\nStudy illuminates cues algae use to ‘listen’ to their environment Bigelow Laboratory, 2024\nMaine lab explores whether stressed-out algae could help replace plastics Portland Press Herald, 2024\n\n\nCollaborators\n\nBaptiste Genot, University of Tokyo. Led the glaucophyte hormone work.\nStephen Archer, Bigelow Laboratory for Ocean Sciences. Trace gas measurement."
-  },
-  {
-    "objectID": "projects/signaling.html#support",
-    "href": "projects/signaling.html#support",
-    "title": "Protist Cell Signaling",
-    "section": "Support",
-    "text": "Support\nCurrently seeking support for this work."
-  },
-  {
-    "objectID": "projects/signaling.html#related-publications",
-    "href": "projects/signaling.html#related-publications",
-    "title": "Protist Cell Signaling",
-    "section": "Related publications",
-    "text": "Related publications\n\nGenot B, Grogan M, Yost M, Iacono G, Archer SD, Burns JA (2024). Functional stress responses in Glaucophyta: evidence of ethylene and abscisic acid functions in Cyanophora paradoxa. Journal of Eukaryotic Microbiology."
-  },
-  {
-    "objectID": "projects/radiolaria.html#the-problem",
-    "href": "projects/radiolaria.html#the-problem",
-    "title": "Radiolarian biology",
-    "section": "The problem",
-    "text": "The problem\nRadiolarians have existed on Earth for about as long as animals. They are abundant across the open ocean gyres, and they build cytoskeletal and mineral structures unlike anything in the groups we know well.\nThey also cannot be cultured, which means the usual routes into a cell are closed. No cell lines, no mutants, no standing supply of material. What is left is fieldwork and microscopy: find the cells, keep them alive, and watch."
-  },
-  {
-    "objectID": "projects/radiolaria.html#where-we-sample",
-    "href": "projects/radiolaria.html#where-we-sample",
-    "title": "Radiolarian biology",
-    "section": "Where we sample",
-    "text": "Where we sample\nRadiolarians are widespread in the oceans. In deep oligotrophic waters we find a diverse assemblage; in shallow water the species we encounter are more constrained. We collect at the Bigelow dock in Maine during the late summer and early fall bloom, and have sampled in Bermuda, Puerto Rico, Norway, the Mediterranean, and the central Atlantic.\n\nGulf of Maine\n\n\n\n\nTop row: Sticholonche sp., Plagiacantha sp., unknown colony. Bottom row: Acanthometron sp., Lithomelissa sp. 1, Lithomelissa sp. 2.\n\n\n\nIn the nearshore estuaries of the Gulf of Maine we see a small number of species with strong seasonality. Three morphospecies turn up predictably year on year, all in late summer and early fall: Plagiacantha, a nassellarian, Acanthometron, an acantharian, and Sticholonche, a taxopodid. A Lithomelissa species appears occasionally.\nThat narrowness limits what this site can say about radiolarian ecology globally. For a cell biologist it is the opposite of a limitation: one species, in numbers, on a schedule.\n\n\n\n\nBermuda\n\n\n\n\nMophospecies from one site, spanning nassellarians, spumellarians, collodarians, and one acantharian. Forams are abundant here too, but not pictured.\n\n\n\nBermuda sits in the Western North Atlantic, in the Sargasso Sea, surrounded by deep oligotrophic water, and the radiolarian assemblage there is correspondingly broad. A few miles from the Bermuda Institute of Ocean Sciences we can sample below 1000 m and find a multitude of forms.\nIn the waters off of Bermuda, rhizarians are often the most numerically abundant cells at depth, which still means only roughly one cell in tens of litres of seawater. Concentrating from more than 100,000 litres gives us a sample dense enough to pick a couple of hundred cells from a few 10s of millilitres.\nThey feed passively. Prey drifts into the long axopodia of radiolarians, acantharians, and foraminiferans, or into the cytoplasmic nets of phaeodarians, and is caught. The larger individuals and the colonial species take small animals.\n\n\n\n\nPuerto Rico\n\n\n\n\nMorphospecies from the Caribbean, including a tropical Plagiacantha in the second row.\n\n\n\nWe sampled south into the Caribbean from the University of Puerto Rico Mayagüez’s marine campus on Isla Magueyes. The assemblage there is different again, with tropical spumellarians and again a wide range of forms.\nThe second row of the figure includes a Plagiacantha that looks very like the Maine cells. We lost it before we could sequence it, which is the comparison we most wanted.\nFrom Isla Magueyes it is about seven miles due south to water over 500 m deep, and the diversity there is high. On the shallow shelf in between, covered in natural coral reefs, we found a few unhealthy acantharians, but no radiolarians."
-  },
-  {
-    "objectID": "projects/radiolaria.html#approach",
-    "href": "projects/radiolaria.html#approach",
-    "title": "Radiolarian biology",
-    "section": "Approach",
-    "text": "Approach\nEverything here runs on field-collected cells, which shapes the methods. Live imaging while the cells are still behaving, fixation and microscopy for structure, and single-cell sequencing where a genome is what the question needs.\n\n\n\n\n\n\n\n\n\n\n\n\nUltrastructure expansion microscopy of Plagiacantha sp., showing microtubules along the spicules and forming other organized structures in the cell.\n\n\n\nRadiolaria genome sequencing has its own page: the Plagiacantha genome project, a community effort to build the first radiolarian genome and a model system with it.\n\nCollaborators\n\nJeremy Wideman, Arizona State University. Organellar genome organization, sequencing, and assembly.\nJohana Rotterová, University of Puerto Rico Mayagüez. Molecular diversity of protists, with expertise in ciliates and anaerobes, and collection in Puerto Rico.\nLeocadio Blanco-Bercial, Bermuda Institute of Ocean Sciences and Arizona State University. Radiolarian and zooplankton ecology.\nDerk Joester, Northwestern University. Biomineralization and materials characterization.\n\n\n\nThe wider community\n\n\n\nLife of Retaria is a group of early career researchers organizing the global community of people who work on living retarians, sharing data and ideas across labs. Anyone working on these organisms should know about it.\n\n\n\n\nIn the field\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport"
-  },
-  {
-    "objectID": "projects/radiolaria.html#the-wider-community",
-    "href": "projects/radiolaria.html#the-wider-community",
-    "title": "Radiolarian biology",
-    "section": "The wider community",
-    "text": "The wider community\n\n\n\nLife of Retaria is a group of early career researchers organizing the global community of people who work on living retarians, sharing data and ideas across labs. Anyone working on these organisms should know about it."
-  },
-  {
-    "objectID": "projects/radiolaria.html#in-the-field",
-    "href": "projects/radiolaria.html#in-the-field",
-    "title": "Radiolarian biology",
-    "section": "In the field",
-    "text": "In the field"
-  },
-  {
-    "objectID": "projects/radiolaria.html#support",
-    "href": "projects/radiolaria.html#support",
-    "title": "Radiolarian biology",
-    "section": "Support",
-    "text": "Support"
-  },
-  {
-    "objectID": "projects/plagiacantha-genome.html#why-this-species",
-    "href": "projects/plagiacantha-genome.html#why-this-species",
-    "title": "The Plagiacantha Genome Project",
-    "section": "Why this species",
-    "text": "Why this species\nRadiolarian biology has been largely opportunistic. With no culturable model species, most of what is known comes from encounters rather than experiments.\n\n\n\n\n\nFeeding on a dinoflagellate.\n\n\n\n\n\nFeeding on a green alga.\n\n\n\n\nOver the past five years we have worked Plagiacantha sp. into something tractable: its life stages, bloom cycle, and feeding behavior are documented. On the molecular side we have a preliminary transcriptome, a partial single-cell amplified genome, and genome size estimates, and we have developed cell biological methods including microinjection. No other radiolarian has been characterized in this much detail.\n\n\nFour things about the organism make it suitable.\n\nNo photosymbionts. Many radiolarians host dinoflagellate symbionts. Plagiacantha does not, which simplifies both sequencing and cultivation.\nAn open skeleton. Biomineralization is what makes radiolarians useful as fossil indicators, but a solid skeleton hides the cell. This one is open enough to watch the central capsule through the whole life cycle.\nVisible structure. The body plan is relatively simple, but the characteristic radiolarian features are there and observable: long axopodia, and the podoconus, the cone of axopodia that nassellarians form.\n\n\n\n\nFlow cytometry of swarmer cells.\n\n\n\nA manageable genome. Flow cytometry on swarmer cells puts it around 806 million base pairs. Some radiolarians are estimated above 10 billion, which puts a high-quality assembly out of reach. This one is within it."
-  },
-  {
-    "objectID": "projects/plagiacantha-genome.html#tracking-the-bloom",
-    "href": "projects/plagiacantha-genome.html#tracking-the-bloom",
-    "title": "The Plagiacantha Genome Project",
-    "section": "Tracking the bloom",
-    "text": "Tracking the bloom\nThe Plagiacantha sp. life cycle follows a predictable schedule, which is what makes the whole project possible. We sample through the bloom and post the counts as they come in.\n\n\n\n\nThis season against the average of previous years.\n\n\n\nLast sampled August 31, 2026.\nAverage counts cover the period 2022 to 2025. The current season is plotted against it, with last year’s counts carried one sampling date further ahead, so the plot shows not only where the bloom is but what happened next the last time around."
-  },
-  {
-    "objectID": "projects/plagiacantha-genome.html#how-it-works",
-    "href": "projects/plagiacantha-genome.html#how-it-works",
-    "title": "The Plagiacantha Genome Project",
-    "section": "How it works",
-    "text": "How it works\nThe project runs as a community effort. Radiolarian researchers, particularly early career scientists, take part directly in specimen collection, sequencing, and analysis, so the foundational resources are built collectively.\nThree strands run in parallel.\n\n\n\n\nIsolated Plagiacantha cells.\n\n\n\nSequencing. The fall bloom supplies material for single-cell whole genome sequencing. We generate hundreds of single-cell amplified genomes leveraging the life cycle of Plagiacantha. We will pair that with PacBio long reads from thousands of cells gathered in a community collection effort during the bloom, to scaffold the assembly. Co-assembling the two gives the reference genome, with annotation done together with participating researchers.\n\n\nMolecular tools. Protocols for gene expression analysis and functional work, designed to run on field-collected specimens rather than laboratory cultures. That is what makes them portable: methods that do not require a culture can be adapted across radiolarian diversity. Culture attempts continue in parallel, but nothing depends on them succeeding.\nComparative sampling. Sequencing at other field sites, extending the same protocols to additional species, so the work reaches beyond one organism. Those sites and what turns up at them are on the radiolarian biology page.\nData, protocols, and genomic resources are released through established repositories as they are validated by the research community."
-  },
-  {
-    "objectID": "projects/plagiacantha-genome.html#data-and-protocols",
-    "href": "projects/plagiacantha-genome.html#data-and-protocols",
-    "title": "The Plagiacantha Genome Project",
-    "section": "Data and protocols",
-    "text": "Data and protocols\nWorking data are shared among project participants:\nProject data folder Participants only\nIf you are working on the project, or would like to, get in touch."
-  },
-  {
-    "objectID": "projects/plagiacantha-genome.html#people",
-    "href": "projects/plagiacantha-genome.html#people",
-    "title": "The Plagiacantha Genome Project",
+    "objectID": "projects/sediment.html#people",
+    "href": "projects/sediment.html#people",
+    "title": "Novel lineages from marine sediment",
     "section": "People",
-    "text": "People\n\n2026 sampling at Bigelow\n\nAnna Cho, Arizona State University\nNicole Coots, University of British Columbia\n\n\n\nRemote participants\n\nLeocadio Blanco-Bercial, Bermuda Institute of Ocean Sciences and Arizona State University\nJohana Rotterová, University of Puerto Rico Mayagüez\nJulia Van Etten, University of Maryland\nJeremy Wideman, Arizona State University\n\n\n\n\nThe project grew out of a proposal to Life of Retaria, a group of early career researchers organizing the global community of people working on living retarians."
+    "text": "People\n\n\n\nAnna Cho, postdoctoral researcher in the Wideman lab, Arizona State University, leads this work. She came from the Keeling lab at the University of British Columbia, and works on mitochondrial genome evolution in microaerophilic protists, long-read genomics of ploeotids, and flow-sorting environmental single cells.\n\n\n\nCollaborators\n\nRamunas Stepanauskas, now at Aalborg University. Single-cell genomics.\nNicole Poulton, Bigelow Laboratory Single Cell Genomics Center. Cell sorting and single-cell genomics.\nTanja Woyke, DOE Joint Genome Institute. Sequencing.\nJeremy Wideman, Arizona State University. Mitochondrial genome evolution.\nXyrus Maurer-Alcalá, William & Mary. Protist genome biology."
   },
   {
-    "objectID": "projects/plagiacantha-genome.html#support",
-    "href": "projects/plagiacantha-genome.html#support",
-    "title": "The Plagiacantha Genome Project",
+    "objectID": "projects/sediment.html#support",
+    "href": "projects/sediment.html#support",
+    "title": "Novel lineages from marine sediment",
     "section": "Support",
-    "text": "Support\nMore on radiolarian biology."
+    "text": "Support\nCurrently seeking support for this work!"
   },
   {
-    "objectID": "projects/oceanshot2.html#the-problem",
-    "href": "projects/oceanshot2.html#the-problem",
-    "title": "Ocean Exploration, Innovation, and Discovery",
-    "section": "The problem",
-    "text": "The problem\nThe ocean’s midwater, below the surface and above the seafloor, is the one of the largest contiguous ecosystems on Earth and among the least explored. Much of it is occupied by gelatinous animals: jellyfish, ctenophores, salps, siphonophores, pelagic polychaetes. Estimates suggest that between 35 and 65 percent of gelatinous zooplankton species are poorly described or entirely unknown.\nThey are hard to study because they are hard to keep. Trawl nets can destroy soft tissue on the way up, and what preservation in ethanol or formalin leaves behind can degrade past usefulness within a few years. Genomic data for these groups barely exist."
-  },
-  {
-    "objectID": "projects/oceanshot2.html#the-approach",
-    "href": "projects/oceanshot2.html#the-approach",
-    "title": "Ocean Exploration, Innovation, and Discovery",
-    "section": "The approach",
-    "text": "The approach\n\n\n\nIn Situ Digital Synthesis\n\n\nWe use a strategy we call digital synthesis: assembling enough high-resolution digital information from a single in-situ encounter to formally describe a new species without keeping the animal.\nA digital voucher combines quantitative imaging with plenoptic cameras, 3D optical sectioning using laser light-sheet imaging to resolve internal and external structure, and transcriptome and whole-genome sequencing to address function, evolution, and cryptic diversity. Because the voucher is data, it can be shared globally by download rather than by shipping a physical holotype across borders, which is one of the slower steps in describing a new species."
-  },
-  {
-    "objectID": "projects/oceanshot2.html#where-it-stands",
-    "href": "projects/oceanshot2.html#where-it-stands",
-    "title": "Ocean Exploration, Innovation, and Discovery",
-    "section": "Where it stands",
-    "text": "Where it stands\n\n\n\nJohn Burns and David Fields in front of the Falkor(too) in Salvador, Brazil\n\n\nThe strategy was first deployed on Designing the Future 2 in 2021, which produced the method and data papers below. We returned in April and May of 2026 aboard R/V Falkor (too) for Designing the Future 3, working the midwater between Salvador and Fortaleza, Brazil, with chief scientist Karen Osborn of the Smithsonian.\n\n\n\nJuvenile glass squid\n\n\n\nThat cruise turned up 31 species new to science. I gave a public talk on the expedition at Bigelow in August 2026."
-  },
-  {
-    "objectID": "projects/oceanshot2.html#people",
-    "href": "projects/oceanshot2.html#people",
-    "title": "Ocean Exploration, Innovation, and Discovery",
-    "section": "People",
-    "text": "People\nJohn A. Burns, Bigelow Laboratory for Ocean Sciences, leads the project.\n\nKakani Katija, Principal Engineer and lead of the Bioinspiration Lab, Monterey Bay Aquarium Research Institute. In-situ imaging and 3D reconstruction.\nRobert J. Wood, Harry Lewis and Marlyn McGrath Professor of Engineering and Applied Sciences, Harvard Microrobotics Laboratory, Harvard University. Soft robotics for delicate manipulation and biopsy.\nBrennan Phillips, Associate Professor of Ocean Engineering, University of Rhode Island. Underwater instrumentation and sampling systems.\nDavid Gruber, Distinguished Professor of Biology, Baruch College, City University of New York.\nDhugal Lindsay, Senior Research Engineer, Japan Agency for Marine-Earth Science and Technology. Taxonomy, novel camera systems, and species descriptions."
-  },
-  {
-    "objectID": "projects/oceanshot2.html#support",
-    "href": "projects/oceanshot2.html#support",
-    "title": "Ocean Exploration, Innovation, and Discovery",
-    "section": "Support",
-    "text": "Support\n\n\nThis work is supported by an Ocean Shot Award from the Ocean Policy Research Institute arm of the Sasakawa Peace Foundation.\n\n\n\nShip time aboard the R/V Falkor (too) was provided by the Schmidt Ocean Institute.\n\n\nOcean Shot award propels discovery through innovation Bigelow Laboratory, 2025"
-  },
-  {
-    "objectID": "projects/oceanshot2.html#related-publications",
-    "href": "projects/oceanshot2.html#related-publications",
-    "title": "Ocean Exploration, Innovation, and Discovery",
+    "objectID": "projects/sediment.html#related-publications",
+    "href": "projects/sediment.html#related-publications",
+    "title": "Novel lineages from marine sediment",
     "section": "Related publications",
-    "text": "Related publications\n\nBurns JA, Becker KP, Casagrande D, Daniels J, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). An in situ digital synthesis strategy for the discovery and description of ocean life. Science Advances.\nBurns JA, Daniels J, Becker KP, Casagrande D, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). Transcriptome sequencing of seven deep marine invertebrates. Scientific Data.\nTessler M, Brugler MR, Burns JA, Sinatra NR, Vogt DM, Varma A, Xiao M, Wood RJ, et al. (2020). Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal. Current Biology."
-  },
-  {
-    "objectID": "outreach.html#talks-and-interviews",
-    "href": "outreach.html#talks-and-interviews",
-    "title": "Outreach",
-    "section": "Talks and interviews",
-    "text": "Talks and interviews\n\nDiscovering animals in the deep sea\n\n\nCafé Sci at Bigelow Laboratory for Ocean Sciences, August 2026. A talk on the Ocean Shot project: recording gelatinous animals intact in the water, and the tools being built to do it. See the project page for the work itself.\nWatch on YouTube\n\n\n\nNew England Biolabs podcast\n\n\nMay 2026. A conversation ranging across multicellular development in a close animal relative, the Ocean Shot work in the deep sea, and the salamander-alga symbiosis.\nListen\n\n\n\nGreen Grow the Salamanders\n\n\n\nPhoto by Erin Chapman, AMNH.\n\n\n\nAn episode of the American Museum of Natural History’s Shelf Life series on the salamander-alga symbiosis, produced by Erin Chapman and featuring Ryan Kerney and Eunsoo Kim.\nWatch at AMNH\n\n\n\nAlumni Master Class\n\n\nA Master Class for Franklin & Marshall College alumni, September 2021. A circuitous path from nearly failing out of college, through geoscience, NASA, the USGS, and a sailboat, to molecular biology and protists, with thanks along the way to the mentors at F&M who made me believe I could. It ends with the marine science, including the three-week cruise off San Diego that August.\nWatch on Vimeo"
-  },
-  {
-    "objectID": "outreach.html#writing",
-    "href": "outreach.html#writing",
-    "title": "Outreach",
-    "section": "Writing",
-    "text": "Writing\n\nAlgae living in salamanders, friend or foe?\n\nA short piece for TheScienceBreaker, written with Ryan Kerney, on what the transcriptomes showed about the salamander-alga symbiosis and why the answer is not simply one or the other."
-  },
-  {
-    "objectID": "outreach.html#art-and-the-public",
-    "href": "outreach.html#art-and-the-public",
-    "title": "Outreach",
-    "section": "Art and the public",
-    "text": "Art and the public\n\nSymbiotext\n\n\nAn art-science collaboration with audio artist John Roach. I wrote code that turned the salamander and algal genomes into speech and text, and Roach built those outputs into a dynamic sculpture. Shown in New York in February 2018 as part of LIGO: The Art of Science.\n\n\n\nBoothbay Region High School\n\n\n\nFoldscope demo with Boothbay High School AP Bio.\n\n\n\nEvery couple of years I work with the AP biology class at Boothbay Region High School, at the invitation of their teacher, Emily Higgins. The work included classroom visits and field studies of salamander eggs.\n\n\n\nRise and Shine Youth Retreat\nNight hikes with Rise and Shine, a youth retreat program in Maine. In 2021 and 2022, groups came to Bigelow Laboratory to learn about salamanders and their eggs, then hiked local preserves to see the spring migration and breeding. We walked the Pine Tree and Linekin Preserves of the Boothbay Region Land Trust in 2021, and Hidden Valley Nature Center in 2022, and on those hikes we watched salamanders mating and laying eggs.\nThe program ended with the loss of its founder, Nicole Mokeme, in June 2022.\n\n\nChallenge Yourself to Change\n\n\n\nWith Rocky Sayles, founder of Challenge Yourself to Change.\n\n\n\nFor several years we ran field and laboratory activities with Challenge Yourself to Change, a youth program in East Stroudsburg, Pennsylvania. Spring salamander egg hunts and microscopy nights. The program ended when its founder, Rocky Sayles, died.\n\nSalamander egg hunts: one · two\nMicroscopy night"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Gallery",
-    "section": "",
-    "text": "Images from the lab, the field, and the microscope.\n\n\n\n\n\n\n\nImages from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute\n\n\n\n\n\n\n\nImage from the ROV SuBastian, Schmidt Ocean Institute"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Protist Systems Biology",
-    "section": "",
-    "text": "About Us\n\n\n\nWe study how genetic information shapes the functions, behaviors, and roles of cells and organisms across the tree of life. The work ranges in scale from the molecular to the ecological. In practice that has meant building computational tools to predict how a cell feeds when no one has watched it feed, sequencing genomes for lineages that have never had one, asking how microeukaryotes sense and interpret their environment, working out how a green alga lives inside a salamander embryo, and developing methods to get genome-scale information from the small amounts of material that deep-sea animals yield. Different problems, but each one starts from an organism and a question about it, and the microbiology, molecular biology, and bioinformatics follow from there.\n\n\n\nPeople\n\n\nPrincipal investigator\n\n\n\nJohn A. Burns\nSenior Research Scientist, Bigelow Laboratory for Ocean Sciences. Research Faculty, Colby College. Research Associate, American Museum of Natural History.\nI received my BA in Geoscience from Franklin and Marshall College, my PhD in molecular biology from New York University, and completed my postdoctoral training at the American Museum of Natural History.\nCurriculum vitae\n\n\n\n\nJoining the lab\nNew positions depend on funding, but I am always glad to hear from people interested in the work. Get in touch.\n\n\nFormer lab members\n\nPostdocs\n\nBaptiste Genot, 2020–2024. Now a Project Assistant Professor at the University of Tokyo. \n\n\n\nREU students\n\nBrooks Osborn, Colby College, Summer 2024. Now a medical student at the Tufts University School of Medicine. \nTyler Bauersfeld, Southern Maine Community College, Summer 2022. Now a research technician at IDEXX. \nMargaret Grogan, Fordham University, Summer 2022. Now a Master’s student at the Virginia Institute of Marine Science with Nicole Millette. \nMatthew Yost, University of Maine, Summer 2021. Now a PhD student at the University of Massachusetts Dartmouth with Katrina Velle. \nJessica Liu, Vassar College, Summer 2020. \nTre-Andice Williams, Truman State University, Summer 2020. \n\n\n\nColby semester students\n\nValerie Tonigold, Southern Maine Community College, Fall 2024. Now an undergraduate student at Cal State Monterey Bay. \nCaroline Alexander, Colby College, Fall 2022. Now a Research Technician II at the Ragon Institute of MGH, MIT and Harvard. \nCharis Li, Colby College, Fall 2020. Now a Master’s student at Harvard Medical School. \n\n\n\nCurrent support\n\n\n\n\nInnovating In-Situ Digital Synthesis Strategies for Ocean Species Discovery Sasakawa Peace Foundation, Ocean Shot Research Grant Program. 2025 to 2028. Ship time aboard R/V Falkor (too) contributed by Schmidt Ocean Institute.\n\n\n\n\n\nMicroscopic and genetic investigation into the endogenous viral elements in green algae National Research Foundation of Korea. 2025 to 2028.\n\n\n\n\nProfiles\n\n\nNew scientist evolves laboratory’s expertise Bigelow Laboratory, 2019\n\n\n\nContact\n\n\n\n\n\nThe view from the office.\n\n\n\nJohn A. Burns\nBigelow Laboratory for Ocean Sciences\n60 Bigelow Drive, East Boothbay, ME 04544\njburns [at] bigelow.org\n\nGoogle Scholar\nORCID\nGitHub\nBluesky\nBigelow Laboratory profile\nSchmidt Ocean Institute profile"
-  },
-  {
-    "objectID": "press.html",
-    "href": "press.html",
-    "title": "Press",
-    "section": "",
-    "text": "Coverage of work from the lab.\n\n\n01\n\nVertebrate-alga symbiosis\n\nAlgal symbiosis could shed light on dark ocean Bigelow Laboratory, 2020\nGasping for air eLife\nAlgae aren’t happy Scientific American\nAlgae inside salamander Pocono Record\nNew symbiosis Gizmodo\nWeird new details ScienceAlert\nNew understanding Futurism\nAlgae inside baby salamanders Mental Floss\n\n\n\n\n02\n\nDeep-sea discovery\n31 species new to science, from two weeks in the South Atlantic midwater, 2026.\n\n31 alien-like marine species discovered off the coast of Brazil Popular Science\n31 new species found off Brazil reveal a fragile world in the ocean’s midwater Discover\nScientists identify 31 new marine species during South Atlantic expedition DIVE Magazine\n31 new species discovered in two weeks of deep-sea exploration Bigelow Laboratory\nCafé Sci reveals new deep-sea organisms Boothbay Register\n\nDigital synthesis, 2024.\n\nNew undersea robot digitally captures the sea’s most delicate life Science\n\n\n\n\n03\n\nRhizarian biology\n\nComing soon\n\n\n\n\n04\n\nFunctional predictions\n\nNew model predicts cell eating UPI\n\n\n\n\n05\n\nAntifreeze in a Greenland snailfish\nThe highest expression of antifreeze protein transcripts reported in any fish, 2022.\n\nThis Arctic snailfish is loaded with antifreeze proteins Smithsonian\nBeneath a Greenland iceberg, a glowing snailfish with antifreeze in its veins Live Science\nFish chock-full of antifreeze protein found in iceberg habitats off Greenland National Science Foundation\nGlowing snailfish full of antifreeze proteins found off Greenland Eye on the Arctic\n\n\n\n\n06\n\nThe chicken or the egg\nAnimal-like embryonic development in a unicellular relative that diverged a billion years ago, 2024.\n\nThe chicken or the egg? An ancient microbe says egg Bigelow Laboratory\nAncient unicellular organism indicates embryonic development might have existed prior to animals’ evolution Phys.org\nWhat came first, the chicken or the egg? Technology Networks\n\n\n\n\n07\n\nGreen algae that eat bacteria\nThe Cymbomonas genome, 2015.\n\nWhat you eat: bacterivorous green algae raises questions about the evolution of eating and photosynthesis Genome Biology and Evolution\n\nFollow-up work showing the behavior is widespread, 2021.\n\nYes, these flesh-eating algae are real, and they like their prey alive Lamont-Doherty Earth Observatory\nGreen algae consuming bacteria American Museum of Natural History\nHungry green algae like to eat bacteria alive Technology Networks\nLittlest shop of horrors SciTechDaily"
+    "text": "Related publications\n\nCho A, Burns JA, Woyke T, Stepanauskas R, Poulton N, Wideman JG (2026). Aerobic sister lineage of breviates has gene-rich mitochondrial genomes. Current Biology."
   },
   {
     "objectID": "projects/placozoa.html#the-problem",
@@ -343,6 +140,223 @@
     "text": "Related publications\n\nTessler M, Neumann JS, Kamm K, Osigus HJ, Eshel G, Narechania A, Burns JA, DeSalle R, Schierwater B (2022). Phylogenomics and the first higher taxonomy of Placozoa, an ancient and enigmatic animal phylum. Frontiers in Ecology and Evolution 10:1016357.\n\n\nImages from Wikimedia Commons: living placozoan by Michael G. Hadfield, CC BY-SA 4.0; Trichoplax micrograph by Oliver Voigt, CC BY-SA 3.0."
   },
   {
+    "objectID": "projects/radiolaria.html#the-problem",
+    "href": "projects/radiolaria.html#the-problem",
+    "title": "Radiolarian biology",
+    "section": "The problem",
+    "text": "The problem\nRadiolarians have existed on Earth for about as long as animals. They are abundant across the open ocean gyres, and they build cytoskeletal and mineral structures unlike anything in the groups we know well.\nThey also cannot be cultured, which means the usual routes into a cell are closed. No cell lines, no mutants, no standing supply of material. What is left is fieldwork and microscopy: find the cells, keep them alive, and watch."
+  },
+  {
+    "objectID": "projects/radiolaria.html#where-we-sample",
+    "href": "projects/radiolaria.html#where-we-sample",
+    "title": "Radiolarian biology",
+    "section": "Where we sample",
+    "text": "Where we sample\nRadiolarians are widespread in the oceans. In deep oligotrophic waters we find a diverse assemblage; in shallow water the species we encounter are more constrained. We collect at the Bigelow dock in Maine during the late summer and early fall bloom, and have sampled in Bermuda, Puerto Rico, Norway, the Mediterranean, and the central Atlantic.\n\nGulf of Maine\n\n\n\n\nTop row: Sticholonche sp., Plagiacantha sp., unknown colony. Bottom row: Acanthometron sp., Lithomelissa sp. 1, Lithomelissa sp. 2.\n\n\n\nIn the nearshore estuaries of the Gulf of Maine we see a small number of species with strong seasonality. Three morphospecies turn up predictably year on year, all in late summer and early fall: Plagiacantha, a nassellarian, Acanthometron, an acantharian, and Sticholonche, a taxopodid. A Lithomelissa species appears occasionally.\nThat narrowness limits what this site can say about radiolarian ecology globally. For a cell biologist it is the opposite of a limitation: one species, in numbers, on a schedule.\n\n\n\n\nBermuda\n\n\n\n\nMophospecies from one site, spanning nassellarians, spumellarians, collodarians, and one acantharian. Forams are abundant here too, but not pictured.\n\n\n\nBermuda sits in the Western North Atlantic, in the Sargasso Sea, surrounded by deep oligotrophic water, and the radiolarian assemblage there is correspondingly broad. A few miles from the Bermuda Institute of Ocean Sciences we can sample below 1000 m and find a multitude of forms.\nIn the waters off of Bermuda, rhizarians are often the most numerically abundant cells at depth, which still means only roughly one cell in tens of litres of seawater. Concentrating from more than 100,000 litres gives us a sample dense enough to pick a couple of hundred cells from a few 10s of millilitres.\nThey feed passively. Prey drifts into the long axopodia of radiolarians, acantharians, and foraminiferans, or into the cytoplasmic nets of phaeodarians, and is caught. The larger individuals and the colonial species take small animals.\n\n\n\n\nPuerto Rico\n\n\n\n\nMorphospecies from the Caribbean, including a tropical Plagiacantha in the second row.\n\n\n\nWe sampled south into the Caribbean from the University of Puerto Rico Mayagüez’s marine campus on Isla Magueyes. The assemblage there is different again, with tropical spumellarians and again a wide range of forms.\nThe second row of the figure includes a Plagiacantha that looks very like the Maine cells. We lost it before we could sequence it, which is the comparison we most wanted.\nFrom Isla Magueyes it is about seven miles due south to water over 500 m deep, and the diversity there is high. On the shallow shelf in between, covered in natural coral reefs, we found a few unhealthy acantharians, but no radiolarians."
+  },
+  {
+    "objectID": "projects/radiolaria.html#approach",
+    "href": "projects/radiolaria.html#approach",
+    "title": "Radiolarian biology",
+    "section": "Approach",
+    "text": "Approach\nEverything here runs on field-collected cells, which shapes the methods. Live imaging while the cells are still behaving, fixation and microscopy for structure, and single-cell sequencing where a genome is what the question needs.\n\n\n\n\n\n\n\n\n\n\n\n\nUltrastructure expansion microscopy of Plagiacantha sp., showing microtubules along the spicules and forming other organized structures in the cell.\n\n\n\nRadiolaria genome sequencing has its own page: the Plagiacantha genome project, a community effort to build the first radiolarian genome and a model system with it.\n\nCollaborators\n\nJeremy Wideman, Arizona State University. Organellar genome organization, sequencing, and assembly.\nJohana Rotterová, University of Puerto Rico Mayagüez. Molecular diversity of protists, with expertise in ciliates and anaerobes, and collection in Puerto Rico.\nLeocadio Blanco-Bercial, Bermuda Institute of Ocean Sciences and Arizona State University. Radiolarian and zooplankton ecology.\nDerk Joester, Northwestern University. Biomineralization and materials characterization.\n\n\n\nThe wider community\n\n\n\nLife of Retaria is a group of early career researchers organizing the global community of people who work on living retarians, sharing data and ideas across labs. Anyone working on these organisms should know about it.\n\n\n\n\nIn the field\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSupport"
+  },
+  {
+    "objectID": "projects/radiolaria.html#the-wider-community",
+    "href": "projects/radiolaria.html#the-wider-community",
+    "title": "Radiolarian biology",
+    "section": "The wider community",
+    "text": "The wider community\n\n\n\nLife of Retaria is a group of early career researchers organizing the global community of people who work on living retarians, sharing data and ideas across labs. Anyone working on these organisms should know about it."
+  },
+  {
+    "objectID": "projects/radiolaria.html#in-the-field",
+    "href": "projects/radiolaria.html#in-the-field",
+    "title": "Radiolarian biology",
+    "section": "In the field",
+    "text": "In the field"
+  },
+  {
+    "objectID": "projects/radiolaria.html#support",
+    "href": "projects/radiolaria.html#support",
+    "title": "Radiolarian biology",
+    "section": "Support",
+    "text": "Support"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Work in the lab, and work the lab contributes to."
+  },
+  {
+    "objectID": "projects.html#currently-funded",
+    "href": "projects.html#currently-funded",
+    "title": "Projects",
+    "section": "Currently funded",
+    "text": "Currently funded\n\n\n\n\n\n\n\n\n\n\nOcean Exploration, Innovation, and Discovery\n\n\nBuilding tools for the next generation of Ocean Discovery\n\n\n\n\n\n\n\n\n\n\n\n\nThe Plagiacantha Genome Project\n\n\nA community effort to sequence the first radiolarian genome and establish Plagiacantha sp. as a model system.\n\n\n\n\n\n\n\n\n\n\n\n\nEndogenous viral elements in green algae\n\n\nGreen algal genomes carry the remains of viral infections. We are working out what they mean for the alga.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#ongoing-work",
+    "href": "projects.html#ongoing-work",
+    "title": "Projects",
+    "section": "Ongoing work",
+    "text": "Ongoing work\n\n\n\n\n\n\n\n\n\n\nPhotsymbiosis in Spotted Salamander Eggs\n\n\nThe green alga Oophila amblystomatis grows inside the egg capsules of the spotted salamander, and in some cells, inside the embryo itself.\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting cell biology from genomes\n\n\nFor lineages known only from sequence, inferring how the cell lives from what its genome encodes.\n\n\n\n\n\n\n\n\n\n\n\n\nNovel lineages from marine sediment\n\n\nSingle-cell genomics on eukaryotes with no cultured representatives.\n\n\n\n\n\n\n\n\n\n\n\n\nRadiolarian biology\n\n\nThe cell biology of radiolarians, acantharians, and phaeodarians, worked out from living cells collected around the Atlantic.\n\n\n\n\n\n\n\n\n\n\n\n\nProtist Cell Signaling\n\n\nSignaling in microbial eukaryotes: what a cell detects, and what it does about it.\n\n\n\n\n\n\n\n\n\n\n\n\nPlacozoan genomics\n\n\nGenomes for a phylum of animals that lack most features animals have, and the taxonomy that came out of them.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#also-involved-in",
+    "href": "projects.html#also-involved-in",
+    "title": "Projects",
+    "section": "Also involved in",
+    "text": "Also involved in\nWork led by others where the lab contributes analysis or sequencing.\n\nMulticellular development in a close animal relative, with Omaya Dudin. Paper.\nChemical ecology of temperate reefs, with Doug Rasher and colleagues. Paper.\nSpecies discovery in Paulinella, with Julia Van Etten. Paper."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Also on Google Scholar and ORCID."
+  },
+  {
+    "objectID": "publications.html#selected",
+    "href": "publications.html#selected",
+    "title": "Publications",
+    "section": "Selected",
+    "text": "Selected\n\n\n\n\n\n\n\n\n\n\nAerobic sister lineage of breviates has gene-rich mitochondrial genomes\n\n\nCho A, Burns JA, Woyke T, Stepanauskas R, Poulton N, Wideman JG. Current Biology. 2026.\n\n\n\n\n\n\n\n\n\n\n\n\nA multicellular developmental program in a close animal relative\n\n\nOlivetta M, Bhickta C, Chiaruttini N, Burns J, Dudin O. 2024.\n\n\n\n\n\n\n\n\n\n\n\n\nAn in situ digital synthesis strategy for the discovery and description of ocean life\n\n\nBurns JA, Becker KP, Casagrande D, Daniels J, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al.. Science Advances. 2024.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#recent-work",
+    "href": "publications.html#recent-work",
+    "title": "Publications",
+    "section": "Recent work",
+    "text": "Recent work\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nyear\n\n\n\ntitle\n\n\n\ndescription\n\n\n\n\n\n\n\n\n2026\n\n\nCrawling under the radar: two novel Paulinella species expand knowledge about the ecology and evolution of a primary plastid-containing amoeba lineage\n\n\nVan_Etten J, Han S, Burns J, Lhee D, Willoughby A, Stephens T, Chille E, Sleith R, et al.. Journal of phycology. 2026.\n\n\n\n\n\n\n2026\n\n\nThe Calcidiscus leptoporus genome reveals vitamin-mediated holobiont interactions\n\n\nChaux F, Vojvoda Zeljko T, Vuković BB, Burns JA, Le Perrun T, Žižek M, Bannerman BP, Mason DTB, et al.. ISME Communications. 2026.\n\n\n\n\n\n\n2025\n\n\nGlobal metagenomics reveals hidden protist diversity\n\n\nRomero MF, Krinos AI, Maurer-Alcala X, Burns JA, Stepanauskas R, Woyke T, Schulz F. Preprint. 2025.\n\n\n\n\n\n\n2025\n\n\nHigh partner specificity in an algal-salamander mutualism at continental scale\n\n\nWallace SE, Burns JA, Hale RE, Kerney RR, Mott CL, Bishop CD. Frontiers in Amphibian and Reptile Science. 2025.\n\n\n\n\n\n\n2025\n\n\nTurf algae redefine the chemical landscape of temperate reefs, limiting kelp forest recovery\n\n\nFarrell SP, Petras D, Stincone P, Yiu DS, Burns JA, Pakkir Shah AK, Hartmann AC, Brady DC, et al.. Science. 2025.\n\n\n\n\n\n\n2024\n\n\nFunctional stress responses in Glaucophyta: Evidence of ethylene and abscisic acid functions in Cyanophora paradoxa\n\n\nGenot B, Grogan M, Yost M, Iacono G, Archer SD, Burns JA. Journal of Eukaryotic Microbiology. 2024.\n\n\n\n\n\n\n2024\n\n\nTranscriptome sequencing of seven deep marine invertebrates\n\n\nBurns JA, Daniels J, Becker KP, Casagrande D, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al.. Scientific Data. 2024.\n\n\n\n\n\n\n2023\n\n\nLong-Read–Based Genome Assembly Reveals Numerous Endogenous Viral Elements in the Green Algal Bacterivore Cymbomonas tetramitiformis\n\n\nGyaltshen Y, Rozenberg A, Paasch A, Burns JA, Warring S, Larson RT, Maurer-Alcalá XX, Dacks J, et al.. Genome Biology and Evolution. 2023.\n\n\n\n\n\n\n2022\n\n\nInjection of algae intoAmbystomid (salamander) embryo v1\n\n\nBurns J. 2022.\n\n\n\n\n\n\n2022\n\n\nOrganismal and cellular interactions in vertebrate–alga symbioses\n\n\nYang H, Genot B, Duhamel S, Kerney R, Burns JA. Biochemical Society Transactions. 2022.\n\n\n\n\n\n\n2022\n\n\nPhagocytosis underpins the biotrophic lifestyle of intracellular parasites in the class Phytomyxea (Rhizaria)\n\n\nGarvetto A, Murúa P, Kirchmair M, Salvenmoser W, Hittorf M, Ciaghi S, Harikrishnan SL, Gachon CMM, et al.. 2022.\n\n\n\n\n\n\n2022\n\n\nPhylogenomics and the first higher taxonomy of Placozoa, an ancient and enigmatic animal phylum\n\n\nTessler M, Neumann JS, Kamm K, Osigus HJ, Eshel G, Narechania A, Burns JA, DeSalle R, et al.. Frontiers in Ecology and Evolution. 2022.\n\n\n\n\n\n\n2022\n\n\nTranscriptomics of a Greenlandic Snailfish Reveals Exceptionally High Expression of Antifreeze Protein Transcripts\n\n\nBurns JA, Gruber DF, Gaffney JP, Sparks JS, Brugler MR. Evolutionary Bioinformatics. 2022.\n\n\n\n\n\n\n2022\n\n\nTransformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies\n\n\nGenot B, Burns JA. Symbiosis. 2022.\n\n\n\n\n\n\n2021\n\n\nExperimental identification and in silico prediction of bacterivory in green algae\n\n\nBock NA, Charvet S, Burns J, Gyaltshen Y, Rozenberg A, Duhamel S, Kim E. The ISME Journal. 2021.\n\n\n\n\n\n\n2021\n\n\nNo evidence of Phago‐mixotropy in Micromonas polaris (Mamiellophyceae), the Dominant Picophytoplankton Species in the Arctic\n\n\nJimenez V, Burns JA, Le Gall F, Not F, Vaulot D. Journal of Phycology. 2021.\n\n\n\n\n\n\n2021\n\n\nRelating genome completeness to functional predictions\n\n\nLiu J, Williams T, Burns JA. 2021.\n\n\n\n\n\n\n2021\n\n\nThe Bacterial Diversity Lurking in Protist Cell Cultures\n\n\nAponte A, Gyaltshen Y, Burns JA, Heiss AA, Kim E, Warring SD. American Museum Novitates. 2021.\n\n\n\n\n\n\n2020\n\n\nHeterotrophic Carbon Fixation in a Salamander-Alga Symbiosis\n\n\nBurns JA, Kerney R, Duhamel S. 2020.\n\n\n\n\n\n\n2020\n\n\nUltra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal\n\n\nTessler M, Brugler MR, Burns JA, Sinatra NR, Vogt DM, Varma A, Xiao M, Wood RJ, et al.. Current Biology. 2020.\n\n\n\n\n\n\n2019\n\n\nCo-cultures of Oophila amblystomatis between Ambystoma maculatum and Ambystoma gracile hosts show host-symbiont fidelity\n\n\nKerney R, Leavitt J, Hill E, Zhang H, Kim E, Burns J. Symbiosis. 2019.\n\n\n\n\n\n\n2019\n\n\nCollect of Collodarian (Rhizaria, Radiolaria) nuclei for genomic analyses v1\n\n\nBigeard E, Pillet L, Burns J, Not F. 2019.\n\n\n\n\n\n\n2019\n\n\nFrom intent to implementation: Factors affecting public involvement in life science research\n\n\nBurns JA, Korzec K, Dorris ER. 2019.\n\n\n\n\n\n\n2018\n\n\nAlgae Living in Salamanders, Friend or foe?\n\n\nBurns JA, Kerney R. TheScienceBreaker. 2018.\n\n\n\n\n\n\n2018\n\n\nGene-based predictive models of trophic modes suggest Asgard archaea are not phagocytotic\n\n\nBurns JA, Pittis AA, Kim E. Nature Ecology & Evolution. 2018.\n\n\n\n\n\n\n2018\n\n\nGlobal transcriptome analysis of the aphelid Paraphelidium tribonemae supports the phagotrophic origin of fungi\n\n\nTorruella G, Grau-Bové X, Moreira D, Karpov SA, Burns JA, Sebé-Pedrós A, Völcker E, López-García P. Communications Biology. 2018.\n\n\n\n\n\n\n2018\n\n\nO 6-methylguanine–induced transcriptional mutagenesis reduces p53 tumor-suppressor function\n\n\nEzerskyte M, Paredes JA, Malvezzi S, Burns JA, Margison GP, Olsson M, Scicchitano DA, Dreij K. Proceedings of the National Academy of Sciences. 2018.\n\n\n\n\n\n\n2018\n\n\nThe Chytrid Fungus, Batrachochytrium dendrobatidis, is Widespread Among Cuban Amphibians\n\n\nCádiz A, Reytor ML, Díaz LM, Chestnut T, Burns JA, Amato G. EcoHealth. 2018.\n\n\n\n\n\n\n2017\n\n\nComplete mitochondrial genomes of prasinophyte algae Pyramimonas parkeae and Cymbomonas tetramitiformis\n\n\nSatjarak A, Burns JA, Kim E, Graham LE. Journal of phycology. 2017.\n\n\n\n\n\n\n2017\n\n\nTranscriptome analysis illuminates the nature of the intracellular interaction in a vertebrate-algal symbiosis\n\n\nBurns JA, Zhang H, Hill E, Kim E, Kerney R. eLife. 2017.\n\n\n\n\n\n\n2016\n\n\nInvestigating Mechanisms of Algal Entry into Salamander Cells\n\n\nKERNEY R, BURNS J, KIM E. Algal and Cyanobacteria Symbioses. 2016.\n\n\n\n\n\n\n2016\n\n\nNucleotide Excision Repair and Transcription-coupled DNA Repair Abrogate the Impact of DNA Damage on Transcription\n\n\nNadkarni A, Burns JA, Gandolfi A, Chowdhury MA, Cartularo L, Berens C, Geacintov NE, Scicchitano DA. Journal of Biological Chemistry. 2016.\n\n\n\n\n\n\n2016\n\n\nRetention of bacterivory in the dominantly photoautotrophic green alga Cymbomonas tetramitiformis is influenced by phosphate limitation\n\n\nPaasch A, Burns J, Kim E. Protistology. 2016.\n\n\n\n\n\n\n2016\n\n\nThe green alga and the salamander: a suffocating love story\n\n\nBurns J, Zhang H, Hill E, Kerney R, Kim E. Protistology. 2016.\n\n\n\n\n\n\n2015\n\n\nComparative Genomics of a Bacterivorous Green Alga Reveals Evolutionary Causalities and Consequences of Phago-Mixotrophic Mode of Nutrition\n\n\nBurns JA, Paasch A, Narechania A, Kim E. Genome Biology and Evolution. 2015.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#earlier-work",
+    "href": "publications.html#earlier-work",
+    "title": "Publications",
+    "section": "Earlier work",
+    "text": "Earlier work\nMolecular biology of transcription and DNA damage, from graduate and postdoctoral work.\n\n\n\n\n\n\nyear\n\n\n\ntitle\n\n\n\ndescription\n\n\n\n\n\n\n\n\n2018\n\n\nGenetic instability associated with loop or stem–loop structures within transcription units can be independent of nucleotide excision repair\n\n\nBurns JA, Chowdhury MA, Cartularo L, Berens C, Scicchitano DA. Nucleic Acids Research. 2018.\n\n\n\n\n\n\n2013\n\n\nAre We Listening to Genomic Noise?\n\n\nBurns JA. DNA and Cell Biology. 2013.\n\n\n\n\n\n\n2012\n\n\nRNA Polymerase II Transcription: Effects of DNA Damage and DNA Secondary Structure on Elongation and Fidelity\n\n\nBurns JA. 2012.\n\n\n\n\n\n\n2010\n\n\nDNA Damage and Transcription Elongation: Consequences and RNA Integrity\n\n\nDreij K, Burns JA, Dimitri A, Nirenstein L, Noujnykh T, Scicchitano DA. The Chemical Biology of DNA Damage. 2010.\n\n\n\n\n\n\n2010\n\n\nO 6-Methylguanine induces altered proteins at the level of transcription in human cells\n\n\nBurns JA, Dreij K, Cartularo L, Scicchitano DA. Nucleic Acids Research. 2010.\n\n\n\n\n\n\n2008\n\n\nTranscription elongation past O 6-methylguanine by human RNA polymerase II and bacteriophage T7 RNA polymerase\n\n\nDimitri A, Burns JA, Broyde S, Scicchitano DA. Nucleic acids research. 2008.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "outreach.html#talks-and-interviews",
+    "href": "outreach.html#talks-and-interviews",
+    "title": "Outreach",
+    "section": "Talks and interviews",
+    "text": "Talks and interviews\n\nDiscovering animals in the deep sea\n\n\nCafé Sci at Bigelow Laboratory for Ocean Sciences, August 2026. A talk on the Ocean Shot project: recording gelatinous animals intact in the water, and the tools being built to do it. See the project page for the work itself.\nWatch on YouTube\n\n\n\nNew England Biolabs podcast\n\n\nMay 2026. A conversation ranging across multicellular development in a close animal relative, the Ocean Shot work in the deep sea, and the salamander-alga symbiosis.\nListen\n\n\n\nGreen Grow the Salamanders\n\n\n\nPhoto by Erin Chapman, AMNH.\n\n\n\nAn episode of the American Museum of Natural History’s Shelf Life series on the salamander-alga symbiosis, produced by Erin Chapman and featuring Ryan Kerney and Eunsoo Kim.\nWatch at AMNH\n\n\n\nAlumni Master Class\n\n\nA Master Class for Franklin & Marshall College alumni, September 2021. A circuitous path from nearly failing out of college, through geoscience, NASA, the USGS, and a sailboat, to molecular biology and protists, with thanks along the way to the mentors at F&M who made me believe I could. It ends with the marine science, including the three-week cruise off San Diego that August.\nWatch on Vimeo"
+  },
+  {
+    "objectID": "outreach.html#writing",
+    "href": "outreach.html#writing",
+    "title": "Outreach",
+    "section": "Writing",
+    "text": "Writing\n\nAlgae living in salamanders, friend or foe?\n\nA short piece for TheScienceBreaker, written with Ryan Kerney, on what the transcriptomes showed about the salamander-alga symbiosis and why the answer is not simply one or the other."
+  },
+  {
+    "objectID": "outreach.html#art-and-the-public",
+    "href": "outreach.html#art-and-the-public",
+    "title": "Outreach",
+    "section": "Art and the public",
+    "text": "Art and the public\n\nSymbiotext\n\n\nAn art-science collaboration with audio artist John Roach. I wrote code that turned the salamander and algal genomes into speech and text, and Roach built those outputs into a dynamic sculpture. Shown in New York in February 2018 as part of LIGO: The Art of Science.\n\n\n\nBoothbay Region High School\n\n\n\nFoldscope demo with Boothbay High School AP Bio.\n\n\n\nEvery couple of years I work with the AP biology class at Boothbay Region High School, at the invitation of their teacher, Emily Higgins. The work included classroom visits and field studies of salamander eggs.\n\n\n\nRise and Shine Youth Retreat\nNight hikes with Rise and Shine, a youth retreat program in Maine. In 2021 and 2022, groups came to Bigelow Laboratory to learn about salamanders and their eggs, then hiked local preserves to see the spring migration and breeding. We walked the Pine Tree and Linekin Preserves of the Boothbay Region Land Trust in 2021, and Hidden Valley Nature Center in 2022, and on those hikes we watched salamanders mating and laying eggs.\nThe program ended with the loss of its founder, Nicole Mokeme, in June 2022.\n\n\nChallenge Yourself to Change\n\n\n\nWith Rocky Sayles, founder of Challenge Yourself to Change.\n\n\n\nFor several years we ran field and laboratory activities with Challenge Yourself to Change, a youth program in East Stroudsburg, Pennsylvania. Spring salamander egg hunts and microscopy nights. The program ended when its founder, Rocky Sayles, died.\n\nSalamander egg hunts: one · two\nMicroscopy night"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "A computational tool to predict eukaryote function from genome or transcriptome data. Given a set of predicted proteins, it estimates whether an organism is phototrophic, phagotrophic, or both, without anyone having to watch the cell feed.\nGitHub · Paper\n\n\n\n\n\n\nRelates genome completeness to the reliability of functional predictions.\nGitHub · Preprint\n\n\n\n\n\n\nAnalysis scripts from work on multicellular development in a close animal relative.\nGitHub · Paper"
+  },
+  {
+    "objectID": "resources.html#tools",
+    "href": "resources.html#tools",
+    "title": "Resources",
+    "section": "",
+    "text": "A computational tool to predict eukaryote function from genome or transcriptome data. Given a set of predicted proteins, it estimates whether an organism is phototrophic, phagotrophic, or both, without anyone having to watch the cell feed.\nGitHub · Paper\n\n\n\n\n\n\nRelates genome completeness to the reliability of functional predictions.\nGitHub · Preprint\n\n\n\n\n\n\nAnalysis scripts from work on multicellular development in a close animal relative.\nGitHub · Paper"
+  },
+  {
+    "objectID": "resources.html#data",
+    "href": "resources.html#data",
+    "title": "Resources",
+    "section": "Data",
+    "text": "Data\n\nDeep-sea genomes and transcriptomes\n\n\nSequence data from the in situ digital synthesis work: a salp genome, plus reference transcriptome assemblies and annotations for siphonophores, ctenophores, larvaceans, jellyfish, tunicates, and a pelagic polychaete, several of them preserved in situ before recovery.\n\nGenome of Pegea sp., GenBank accession JAQGEQ000000000\nReads and transcriptomes, NCBI BioProject PRJNA919492\nAssemblies and annotations on Zenodo: Pegea · Tomopteris · Marrus claudanielis · Erenna\n\nPer-specimen accessions, imaging data, and library details are tabulated in the data paper.\nMethod paper"
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#why-this-species",
+    "href": "projects/plagiacantha-genome.html#why-this-species",
+    "title": "The Plagiacantha Genome Project",
+    "section": "Why this species",
+    "text": "Why this species\nRadiolarian biology has been largely opportunistic. With no culturable model species, most of what is known comes from encounters rather than experiments.\n\n\n\n\n\nFeeding on a dinoflagellate.\n\n\n\n\n\nFeeding on a green alga.\n\n\n\n\nOver the past five years we have worked Plagiacantha sp. into something tractable: its life stages, bloom cycle, and feeding behavior are documented. On the molecular side we have a preliminary transcriptome, a partial single-cell amplified genome, and genome size estimates, and we have developed cell biological methods including microinjection. No other radiolarian has been characterized in this much detail.\n\n\nFour things about the organism make it suitable.\n\nNo photosymbionts. Many radiolarians host dinoflagellate symbionts. Plagiacantha does not, which simplifies both sequencing and cultivation.\nAn open skeleton. Biomineralization is what makes radiolarians useful as fossil indicators, but a solid skeleton hides the cell. This one is open enough to watch the central capsule through the whole life cycle.\nVisible structure. The body plan is relatively simple, but the characteristic radiolarian features are there and observable: long axopodia, and the podoconus, the cone of axopodia that nassellarians form.\n\n\n\n\nFlow cytometry of swarmer cells.\n\n\n\nA manageable genome. Flow cytometry on swarmer cells puts it around 806 million base pairs. Some radiolarians are estimated above 10 billion, which puts a high-quality assembly out of reach. This one is within it."
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#tracking-the-bloom",
+    "href": "projects/plagiacantha-genome.html#tracking-the-bloom",
+    "title": "The Plagiacantha Genome Project",
+    "section": "Tracking the bloom",
+    "text": "Tracking the bloom\nThe Plagiacantha sp. life cycle follows a predictable schedule, which is what makes the whole project possible. We sample through the bloom and post the counts as they come in.\n\n\n\n\nThis season against the average of previous years.\n\n\n\nLast sampled August 31, 2026.\nAverage counts cover the period 2022 to 2025. The current season is plotted against it, with last year’s counts carried one sampling date further ahead, so the plot shows not only where the bloom is but what happened next the last time around."
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#how-it-works",
+    "href": "projects/plagiacantha-genome.html#how-it-works",
+    "title": "The Plagiacantha Genome Project",
+    "section": "How it works",
+    "text": "How it works\nThe project runs as a community effort. Radiolarian researchers, particularly early career scientists, take part directly in specimen collection, sequencing, and analysis, so the foundational resources are built collectively.\nThree strands run in parallel.\n\n\n\n\nIsolated Plagiacantha cells.\n\n\n\nSequencing. The fall bloom supplies material for single-cell whole genome sequencing. We generate hundreds of single-cell amplified genomes leveraging the life cycle of Plagiacantha. We will pair that with PacBio long reads from thousands of cells gathered in a community collection effort during the bloom, to scaffold the assembly. Co-assembling the two gives the reference genome, with annotation done together with participating researchers.\n\n\nMolecular tools. Protocols for gene expression analysis and functional work, designed to run on field-collected specimens rather than laboratory cultures. That is what makes them portable: methods that do not require a culture can be adapted across radiolarian diversity. Culture attempts continue in parallel, but nothing depends on them succeeding.\nComparative sampling. Sequencing at other field sites, extending the same protocols to additional species, so the work reaches beyond one organism. Those sites and what turns up at them are on the radiolarian biology page.\nData, protocols, and genomic resources are released through established repositories as they are validated by the research community."
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#data-and-protocols",
+    "href": "projects/plagiacantha-genome.html#data-and-protocols",
+    "title": "The Plagiacantha Genome Project",
+    "section": "Data and protocols",
+    "text": "Data and protocols\nWorking data are shared among project participants:\nProject data folder Participants only\nIf you are working on the project, or would like to, get in touch."
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#people",
+    "href": "projects/plagiacantha-genome.html#people",
+    "title": "The Plagiacantha Genome Project",
+    "section": "People",
+    "text": "People\n\n2026 sampling at Bigelow\n\nAnna Cho, Arizona State University\nNicole Coots, University of British Columbia\n\n\n\nRemote participants\n\nLeocadio Blanco-Bercial, Bermuda Institute of Ocean Sciences and Arizona State University\nJohana Rotterová, University of Puerto Rico Mayagüez\nJulia Van Etten, University of Maryland\nJeremy Wideman, Arizona State University\n\n\n\n\nThe project grew out of a proposal to Life of Retaria, a group of early career researchers organizing the global community of people working on living retarians."
+  },
+  {
+    "objectID": "projects/plagiacantha-genome.html#support",
+    "href": "projects/plagiacantha-genome.html#support",
+    "title": "The Plagiacantha Genome Project",
+    "section": "Support",
+    "text": "Support\nMore on radiolarian biology."
+  },
+  {
+    "objectID": "projects/symbiosis.html#the-problem",
+    "href": "projects/symbiosis.html#the-problem",
+    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "section": "The problem",
+    "text": "The problem\n\n\n\n\nPhoto by Roger Hangarter.\n\n\n\nThe first observation of green salamander eggs in the scientific literature is from the naturalist Henry Orr in 1888. Orr wrote that the developing eggs of Amblystoma [sic] “seem to present a remarkable case of symbiosis,” and went on: “I have not discovered how the algae enter the membrane, nor what physiological effect they have on the respiration of the embryo, but it seems probable that in this latter respect they may have an important influence.” Nearly 140 years later we understand a good deal about the mechanisms and dynamics of the salamander-alga symbiosis, and Orr’s first question stands: we still do not know how the algae get into the eggs.\n\n\n\n\n\nIn 2011, Ryan Kerney and colleagues found that the egg-colonizing algae also enter embryonic tissues and individual cells. This is the only such case recorded in a vertebrate, and it is the exception that proves the rule: the algae are tolerated in an embryo, before adaptive immunity is established. That constraint holds, because at embryonic stages the host salamander’s immune system is not yet developed."
+  },
+  {
+    "objectID": "projects/symbiosis.html#history",
+    "href": "projects/symbiosis.html#history",
+    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "section": "History",
+    "text": "History\nIn the 1940s, seminal work by Perry Gilbert established the mutualism: embryos developing with algae hatch earlier, larger, and more successfully than those without.\nIn 1958, Hutchison and Hammen measured oxygen utilization in the association, and in 1962 the same pair followed carbon fixation in the egg (Hammen and Hutchison, Life Sciences 1:527–532). The carbon paper concluded that the association was not simply algal fixation followed by transfer to the embryo. They found instead that the embryos fix a considerable amount of inorganic carbon themselves. We reconfirmed and extended this in 2020, controlling for heterotrophic carbon fixation by the embryo and finding competition for carbon dioxide within the egg at early developmental stages.\n\n\n\n\nRedrawn from Bachmann et al. 1986.\n\n\n\nIn 1986, Bachmann, Carlton, Burkholder, and Wetzel put an oxygen electrode inside the eggs themselves. In darkness oxygen was severely depleted, so whatever diffusion delivers through the jelly is not enough. In light it rose fast, past saturation, even when the water around the mass was close to anoxic. The oxygen an embryo has comes from photosynthesis, not from the pond.\n\n\nIn 1994, Pinder and Friet showed why the symbiosis matters so much to salamander embryos. Unlike wood frog egg masses, which host the same alga but are loose enough for water to circulate between eggs, spotted salamander masses are firm with no convective route at all. Diffusion cannot supply oxygen to the embryos in the middle, especially late in development, and the algae make up the difference. They also documented the daily swing: the egg mass goes hyperoxic in the light, and at night both algae and embryo consume oxygen, driving the eggs to a low oxygen state.\nThe 2011 finding by Kerney and colleagues reignited interest in the association.\nIn 2014, Small, Bennett, and Bishop observed ammonia uptake by algae in egg masses. In addition to supplying oxygen, the algae remove waste products that would otherwise build up to toxic levels in the diffusion-limited egg.\nAlso in 2014, Kim and colleagues mapped the phylogenetic relationships of Oophila, showing that the egg-associated algae form a clade across diverse amphibian hosts. Algae from the same group have since been identified in salamanders in Japan and frogs in Europe.\n\n\n\n\nFrom Burns et al. 2017, CC BY.\n\n\n\nIn 2017, we looked at transcriptional regulation during the endosymbiosis and found that the endosymbiotic algae are stressed and fermenting, while the host cells show an altered but muted immune signal and otherwise appear to tolerate them well."
+  },
+  {
+    "objectID": "projects/symbiosis.html#where-it-stands",
+    "href": "projects/symbiosis.html#where-it-stands",
+    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "section": "Where it stands",
+    "text": "Where it stands\nWork continues on population structure and phylogenetics in the alga, and on genetic tools for working with it. We are currently doing metabolomics and transcriptomics on the system in collaboration with others. The system suits both questions of its own and broader ones about symbiosis, immunity, and how a cell finds its way through a crowded fluid.\n\nCollaborators\n\nRyan Kerney, Gettysburg College. Salamander development.\nEunsoo Kim, Ewha Womans University. Protist phylogenetics and cell biology.\nCory Bishop, St. Francis Xavier University. Embryo physiology and the egg capsule environment.\nBaptiste Genot, University of Tokyo. Cell biology of the symbiosis.\nWendy Strangman and Robert Williamson, University of North Carolina Wilmington. Natural products chemistry.\nVera Nikitashina and Georg Pohnert, Friedrich Schiller University Jena. Metabolomics.\nGaëlle Toullec and Johan Decelle, Université Grenoble Alpes. Subcellular imaging, through the AtlaSymbio project."
+  },
+  {
+    "objectID": "projects/symbiosis.html#support",
+    "href": "projects/symbiosis.html#support",
+    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "section": "Support",
+    "text": "Support\nThis work has been supported by the National Science Foundation (award 1428065), the Gordon and Betty Moore Foundation, and the William Procter Scientific Innovation Fund."
+  },
+  {
+    "objectID": "projects/symbiosis.html#related-publications",
+    "href": "projects/symbiosis.html#related-publications",
+    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "section": "Related publications",
+    "text": "Related publications\n\nWallace SE, Burns JA, Hale RE, Kerney RR, Mott CL, Bishop CD (2025). High partner specificity in an algal-salamander mutualism at continental scale. Frontiers in Amphibian and Reptile Science.\nGenot B, Burns JA (2022). Transformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies. Symbiosis.\nYang H, Genot B, Duhamel S, Kerney R, Burns JA (2022). Organismal and cellular interactions in vertebrate-alga symbioses. Biochemical Society Transactions.\nBurns JA, Kerney R, Duhamel S (2020). Heterotrophic carbon fixation in a salamander-alga symbiosis. Frontiers in Microbiology.\nKerney R, Leavitt J, Hill E, Zhang H, Kim E, Burns J (2019). Co-cultures of Oophila amblystomatis between Ambystoma maculatum and Ambystoma gracile hosts show host-symbiont fidelity. Symbiosis.\nBurns JA, Zhang H, Hill E, Kim E, Kerney R (2017). Transcriptome analysis illuminates the nature of the intracellular interaction in a vertebrate-algal symbiosis. eLife.\nKerney R, Burns J, Kim E (2016). Investigating mechanisms of algal entry into salamander cells. In Algal and Cyanobacteria Symbioses."
+  },
+  {
     "objectID": "projects/prediction.html#the-problem",
     "href": "projects/prediction.html#the-problem",
     "title": "Predicting cell biology from genomes",
@@ -385,129 +399,115 @@
     "text": "Related publications\n\nBurns JA, Pittis AA, Kim E (2018). Gene-based predictive models of trophic modes suggest Asgard archaea are not phagocytotic. Nature Ecology & Evolution.\nJimenez V, Burns JA, Le Gall F, Not F, Vaulot D (2021). No evidence of phago-mixotrophy in Micromonas polaris (Mamiellophyceae), the dominant picophytoplankton species in the Arctic. Journal of Phycology.\nBock NA, Charvet S, Burns J, Gyaltshen Y, Rozenberg A, Duhamel S, Kim E (2021). Experimental identification and in silico prediction of bacterivory in green algae. The ISME Journal.\nLiu J, Williams T, Burns JA (2021). Relating genome completeness to functional predictions. Preprint."
   },
   {
-    "objectID": "projects/sediment.html#the-problem",
-    "href": "projects/sediment.html#the-problem",
-    "title": "Novel lineages from marine sediment",
+    "objectID": "projects/signaling.html#the-problem",
+    "href": "projects/signaling.html#the-problem",
+    "title": "Protist Cell Signaling",
     "section": "The problem",
-    "text": "The problem\nEnvironmental surveys keep turning up eukaryotic lineages that sit outside of known groups at every taxonomic level. That novelty is relevant to questions about where eukaryotes came from and what their last common ancestor looked like, and these organisms may carry new biochemistry and cell structures. Few of them will be amenable to culture in the laboratory.\nUnlike classic methods for new lineage discovery, single-cell genomics does not require culture. A partial genome can be recovered from one cell, along with whatever organelles and symbionts came with it, which brings these lineages within reach."
+    "text": "The problem\n\n\n\nDrought stress in crops, and osmotic stress in Cyanophora shown by redox fluorescence. The same problem at two scales.\n\n\nMicroalgae are the main primary producers in aquatic systems, and like plants they have to cope with changing temperature, light, nutrients, toxins, and competition. Plants handle this with a chemical vocabulary: ethylene, abscisic acid, jasmonic acid, and salicylic acid coordinate stress responses within a plant, and volatile compounds and root exudates carry the information to neighbors.\nWhether microalgae do anything comparable is almost entirely unstudied. Being unicellular, they also have options plants do not, working at the population level through stochastic switching and rapid mutation. Which of these a glaucophyte uses is unknown."
   },
   {
-    "objectID": "projects/sediment.html#the-approach",
-    "href": "projects/sediment.html#the-approach",
-    "title": "Novel lineages from marine sediment",
+    "objectID": "projects/signaling.html#the-approach",
+    "href": "projects/signaling.html#the-approach",
+    "title": "Protist Cell Signaling",
     "section": "The approach",
-    "text": "The approach\nWe sort individual live cells out of sediment by flow cytometry, amplify and sequence each one, and place the resulting genomes on the eukaryotic tree."
+    "text": "The approach\n\n\n\nGlaucophytes within the Archaeplastida.\n\n\nOur first look at signaling in microeukaryotes was in Cyanophora paradoxa, a glaucophyte, chosen for two reasons that pull in opposite directions. 1) It is unusual: glaucophytes are one of the three Archaeplastida lineages descended from the [presumed] original plastid endosymbiosis. 2) Modern phylogenies also place glaucophytes as the sister lineage to green algae and land plants, which is where nearly everything known about cell signaling in photosynthetic organisms comes from. So it is far enough from the models to be worth asking, and close enough that the answers are interpretable.\nNo glaucophyte has had transgenic tools, so the work so far has been high-throughput rather than mechanistic: measure what the cells do when given a signal, map where the signaling proteins actually sit, and read out phosphorylation and transcription to see how the signal gets from the outside of the cell to the genome."
   },
   {
-    "objectID": "projects/sediment.html#what-we-found",
-    "href": "projects/sediment.html#what-we-found",
-    "title": "Novel lineages from marine sediment",
+    "objectID": "projects/signaling.html#what-we-found",
+    "href": "projects/signaling.html#what-we-found",
+    "title": "Protist Cell Signaling",
     "section": "What we found",
-    "text": "What we found\nBreviates are a group of microaerophilic flagellates with hydrogen-producing organelles and, unusually, no mitochondrial DNA at all.\n\n\n\n\nFrom Cho et al. 2026.\n\n\n\nWe sorted cells from an intertidal mudflat and found a new lineage related to the breviates. It has mitochondrial genomes, which was not expected, and they encode most of the electron transport chain along with genes that nearly every other eukaryote has either lost or moved to the nucleus. Their nuclear genomes also carry the machinery for anaerobic respiration and hydrogen production, so these cells may be able to work either way depending on the oxygen available.\n\n\nThe same sorting turned up gene-rich mitochondrial genomes in apusomonads, and a good deal of other novel diversity still being worked through. We are also pursuing images and cultures of these novel cells and lineages."
+    "text": "What we found\n\n\n\n\nA working model of stress signaling in Cyanophora paradoxa.\n\n\n\nCyanophora paradoxa makes ethylene under abiotic stress. It will also make it on demand: supplied with ACC, the precursor land plants use, the cells release ethylene as a gas.\nThe response looks like a signaling pathway rather than an isolated reaction. Reactive oxygen species accumulate after both stress and ACC treatment, consistent with a second messenger carrying the signal inward. Abscisic acid, a second plant hormone, interferes with ethylene synthesis from ACC while promoting ROS accumulation, so the two hormones interact. Cells treated with ACC grow more slowly, and their transcriptomes show upregulation of senescence-associated proteases, which fits what the growth data show."
   },
   {
-    "objectID": "projects/sediment.html#people",
-    "href": "projects/sediment.html#people",
-    "title": "Novel lineages from marine sediment",
-    "section": "People",
-    "text": "People\n\n\n\nAnna Cho, postdoctoral researcher in the Wideman lab, Arizona State University, leads this work. She came from the Keeling lab at the University of British Columbia, and works on mitochondrial genome evolution in microaerophilic protists, long-read genomics of ploeotids, and flow-sorting environmental single cells.\n\n\n\nCollaborators\n\nRamunas Stepanauskas, now at Aalborg University. Single-cell genomics.\nNicole Poulton, Bigelow Laboratory Single Cell Genomics Center. Cell sorting and single-cell genomics.\nTanja Woyke, DOE Joint Genome Institute. Sequencing.\nJeremy Wideman, Arizona State University. Mitochondrial genome evolution.\nXyrus Maurer-Alcalá, William & Mary. Protist genome biology."
-  },
-  {
-    "objectID": "projects/sediment.html#support",
-    "href": "projects/sediment.html#support",
-    "title": "Novel lineages from marine sediment",
-    "section": "Support",
-    "text": "Support\nCurrently seeking support for this work!"
-  },
-  {
-    "objectID": "projects/sediment.html#related-publications",
-    "href": "projects/sediment.html#related-publications",
-    "title": "Novel lineages from marine sediment",
-    "section": "Related publications",
-    "text": "Related publications\n\nCho A, Burns JA, Woyke T, Stepanauskas R, Poulton N, Wideman JG (2026). Aerobic sister lineage of breviates has gene-rich mitochondrial genomes. Current Biology."
-  },
-  {
-    "objectID": "projects/symbiosis.html#the-problem",
-    "href": "projects/symbiosis.html#the-problem",
-    "title": "Photsymbiosis in Spotted Salamander Eggs",
-    "section": "The problem",
-    "text": "The problem\n\n\n\n\nPhoto by Roger Hangarter.\n\n\n\nThe first observation of green salamander eggs in the scientific literature is from the naturalist Henry Orr in 1888. Orr wrote that the developing eggs of Amblystoma [sic] “seem to present a remarkable case of symbiosis,” and went on: “I have not discovered how the algae enter the membrane, nor what physiological effect they have on the respiration of the embryo, but it seems probable that in this latter respect they may have an important influence.” Nearly 140 years later we understand a good deal about the mechanisms and dynamics of the salamander-alga symbiosis, and Orr’s first question stands: we still do not know how the algae get into the eggs.\n\n\n\n\n\nIn 2011, Ryan Kerney and colleagues found that the egg-colonizing algae also enter embryonic tissues and individual cells. This is the only such case recorded in a vertebrate, and it is the exception that proves the rule: the algae are tolerated in an embryo, before adaptive immunity is established. That constraint holds, because at embryonic stages the host salamander’s immune system is not yet developed."
-  },
-  {
-    "objectID": "projects/symbiosis.html#history",
-    "href": "projects/symbiosis.html#history",
-    "title": "Photsymbiosis in Spotted Salamander Eggs",
-    "section": "History",
-    "text": "History\nIn the 1940s, seminal work by Perry Gilbert established the mutualism: embryos developing with algae hatch earlier, larger, and more successfully than those without.\nIn 1958, Hutchison and Hammen measured oxygen utilization in the association, and in 1962 the same pair followed carbon fixation in the egg (Hammen and Hutchison, Life Sciences 1:527–532). The carbon paper concluded that the association was not simply algal fixation followed by transfer to the embryo. They found instead that the embryos fix a considerable amount of inorganic carbon themselves. We reconfirmed and extended this in 2020, controlling for heterotrophic carbon fixation by the embryo and finding competition for carbon dioxide within the egg at early developmental stages.\n\n\n\n\nRedrawn from Bachmann et al. 1986.\n\n\n\nIn 1986, Bachmann, Carlton, Burkholder, and Wetzel put an oxygen electrode inside the eggs themselves. In darkness oxygen was severely depleted, so whatever diffusion delivers through the jelly is not enough. In light it rose fast, past saturation, even when the water around the mass was close to anoxic. The oxygen an embryo has comes from photosynthesis, not from the pond.\n\n\nIn 1994, Pinder and Friet showed why the symbiosis matters so much to salamander embryos. Unlike wood frog egg masses, which host the same alga but are loose enough for water to circulate between eggs, spotted salamander masses are firm with no convective route at all. Diffusion cannot supply oxygen to the embryos in the middle, especially late in development, and the algae make up the difference. They also documented the daily swing: the egg mass goes hyperoxic in the light, and at night both algae and embryo consume oxygen, driving the eggs to a low oxygen state.\nThe 2011 finding by Kerney and colleagues reignited interest in the association.\nIn 2014, Small, Bennett, and Bishop observed ammonia uptake by algae in egg masses. In addition to supplying oxygen, the algae remove waste products that would otherwise build up to toxic levels in the diffusion-limited egg.\nAlso in 2014, Kim and colleagues mapped the phylogenetic relationships of Oophila, showing that the egg-associated algae form a clade across diverse amphibian hosts. Algae from the same group have since been identified in salamanders in Japan and frogs in Europe.\n\n\n\n\nFrom Burns et al. 2017, CC BY.\n\n\n\nIn 2017, we looked at transcriptional regulation during the endosymbiosis and found that the endosymbiotic algae are stressed and fermenting, while the host cells show an altered but muted immune signal and otherwise appear to tolerate them well."
-  },
-  {
-    "objectID": "projects/symbiosis.html#where-it-stands",
-    "href": "projects/symbiosis.html#where-it-stands",
-    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "objectID": "projects/signaling.html#where-it-stands",
+    "href": "projects/signaling.html#where-it-stands",
+    "title": "Protist Cell Signaling",
     "section": "Where it stands",
-    "text": "Where it stands\nWork continues on population structure and phylogenetics in the alga, and on genetic tools for working with it. We are currently doing metabolomics and transcriptomics on the system in collaboration with others. The system suits both questions of its own and broader ones about symbiosis, immunity, and how a cell finds its way through a crowded fluid.\n\nCollaborators\n\nRyan Kerney, Gettysburg College. Salamander development.\nEunsoo Kim, Ewha Womans University. Protist phylogenetics and cell biology.\nCory Bishop, St. Francis Xavier University. Embryo physiology and the egg capsule environment.\nBaptiste Genot, University of Tokyo. Cell biology of the symbiosis.\nWendy Strangman and Robert Williamson, University of North Carolina Wilmington. Natural products chemistry.\nVera Nikitashina and Georg Pohnert, Friedrich Schiller University Jena. Metabolomics.\nGaëlle Toullec and Johan Decelle, Université Grenoble Alpes. Subcellular imaging, through the AtlaSymbio project."
+    "text": "Where it stands\nThree directions are open. Which signals are used, and what carries them inward once received. Whether signaling between cells coordinates a response across a population, and whether a cell that receives a warning survives a later stress better than a naive one. And how a signal is integrated in cells whose architecture has no close parallel, where inference from homology gives out and the proteins have to be located directly.\nCyanophora is where we started, not where this stops. The same questions apply across microbial eukaryotes, and the answers are unlikely to be the same in each.\nThe work is unfunded at present and continues opportunistically. If you work on signaling in microbial eukaryotes and want to talk, get in touch."
   },
   {
-    "objectID": "projects/symbiosis.html#support",
-    "href": "projects/symbiosis.html#support",
-    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "objectID": "projects/signaling.html#press",
+    "href": "projects/signaling.html#press",
+    "title": "Protist Cell Signaling",
+    "section": "Press",
+    "text": "Press\n\nStudy illuminates cues algae use to ‘listen’ to their environment Bigelow Laboratory, 2024\nMaine lab explores whether stressed-out algae could help replace plastics Portland Press Herald, 2024\n\n\nCollaborators\n\nBaptiste Genot, University of Tokyo. Led the glaucophyte hormone work.\nStephen Archer, Bigelow Laboratory for Ocean Sciences. Trace gas measurement."
+  },
+  {
+    "objectID": "projects/signaling.html#support",
+    "href": "projects/signaling.html#support",
+    "title": "Protist Cell Signaling",
     "section": "Support",
-    "text": "Support\nThis work has been supported by the National Science Foundation (award 1428065), the Gordon and Betty Moore Foundation, and the William Procter Scientific Innovation Fund."
+    "text": "Support\nCurrently seeking support for this work."
   },
   {
-    "objectID": "projects/symbiosis.html#related-publications",
-    "href": "projects/symbiosis.html#related-publications",
-    "title": "Photsymbiosis in Spotted Salamander Eggs",
+    "objectID": "projects/signaling.html#related-publications",
+    "href": "projects/signaling.html#related-publications",
+    "title": "Protist Cell Signaling",
     "section": "Related publications",
-    "text": "Related publications\n\nWallace SE, Burns JA, Hale RE, Kerney RR, Mott CL, Bishop CD (2025). High partner specificity in an algal-salamander mutualism at continental scale. Frontiers in Amphibian and Reptile Science.\nGenot B, Burns JA (2022). Transformation of the symbiotic alga Oophila amblystomatis: a new tool for animal-algae symbiosis studies. Symbiosis.\nYang H, Genot B, Duhamel S, Kerney R, Burns JA (2022). Organismal and cellular interactions in vertebrate-alga symbioses. Biochemical Society Transactions.\nBurns JA, Kerney R, Duhamel S (2020). Heterotrophic carbon fixation in a salamander-alga symbiosis. Frontiers in Microbiology.\nKerney R, Leavitt J, Hill E, Zhang H, Kim E, Burns J (2019). Co-cultures of Oophila amblystomatis between Ambystoma maculatum and Ambystoma gracile hosts show host-symbiont fidelity. Symbiosis.\nBurns JA, Zhang H, Hill E, Kim E, Kerney R (2017). Transcriptome analysis illuminates the nature of the intracellular interaction in a vertebrate-algal symbiosis. eLife.\nKerney R, Burns J, Kim E (2016). Investigating mechanisms of algal entry into salamander cells. In Algal and Cyanobacteria Symbioses."
+    "text": "Related publications\n\nGenot B, Grogan M, Yost M, Iacono G, Archer SD, Burns JA (2024). Functional stress responses in Glaucophyta: evidence of ethylene and abscisic acid functions in Cyanophora paradoxa. Journal of Eukaryotic Microbiology."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/oceanshot2.html#the-problem",
+    "href": "projects/oceanshot2.html#the-problem",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "The problem",
+    "text": "The problem\nThe ocean’s midwater, below the surface and above the seafloor, is one of the largest contiguous ecosystems on Earth and among the least explored. Much of it is occupied by gelatinous animals: jellyfish, ctenophores, salps, siphonophores, pelagic polychaetes. Estimates suggest that between 35 and 65 percent of gelatinous zooplankton species are poorly described or entirely unknown.\nThey are hard to study because they are hard to keep. Trawl nets can destroy soft tissue on the way up, and what preservation in ethanol or formalin leaves behind can degrade past usefulness within a few years. Genomic data for these groups barely exist."
+  },
+  {
+    "objectID": "projects/oceanshot2.html#the-approach",
+    "href": "projects/oceanshot2.html#the-approach",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "The approach",
+    "text": "The approach\n\n\n\nIn Situ Digital Synthesis\n\n\nWe use a strategy we call digital synthesis: assembling enough high-resolution digital information from a single in-situ encounter to formally describe a new species without keeping the animal.\nA digital voucher combines quantitative imaging with plenoptic cameras, 3D optical sectioning using laser light-sheet imaging to resolve internal and external structure, and transcriptome and whole-genome sequencing to address function, evolution, and cryptic diversity. Because the voucher is data, it can be shared globally by download rather than by shipping a physical holotype across borders, which is one of the slower steps in describing a new species."
+  },
+  {
+    "objectID": "projects/oceanshot2.html#where-it-stands",
+    "href": "projects/oceanshot2.html#where-it-stands",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "Where it stands",
+    "text": "Where it stands\n\n\n\nJohn Burns and David Fields in front of the Falkor (too) in Salvador, Brazil\n\n\nThe strategy was first deployed on Designing the Future 2 in 2021, which produced the method and data papers below. We returned in April and May of 2026 aboard R/V Falkor (too) for Designing the Future 3, working the midwater between Salvador and Fortaleza, Brazil, with chief scientist Karen Osborn of the Smithsonian.\n\n\n\nJuvenile glass squid\n\n\n\nThat cruise turned up 31 species new to science. I gave a public talk on the expedition at Bigelow in August 2026."
+  },
+  {
+    "objectID": "projects/oceanshot2.html#people",
+    "href": "projects/oceanshot2.html#people",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "People",
+    "text": "People\nJohn A. Burns, Bigelow Laboratory for Ocean Sciences, leads the project.\n\nKakani Katija, Principal Engineer and lead of the Bioinspiration Lab, Monterey Bay Aquarium Research Institute. In-situ imaging and 3D reconstruction.\nRobert J. Wood, Harry Lewis and Marlyn McGrath Professor of Engineering and Applied Sciences, Harvard Microrobotics Laboratory, Harvard University. Soft robotics for delicate manipulation and biopsy.\nBrennan Phillips, Associate Professor of Ocean Engineering, University of Rhode Island. Underwater instrumentation and sampling systems.\nDavid Gruber, Distinguished Professor of Biology, Baruch College, City University of New York.\nDhugal Lindsay, Senior Research Engineer, Japan Agency for Marine-Earth Science and Technology. Taxonomy, novel camera systems, and species descriptions."
+  },
+  {
+    "objectID": "projects/oceanshot2.html#support",
+    "href": "projects/oceanshot2.html#support",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "Support",
+    "text": "Support\n\n\n\nThis work is supported by an Ocean Shot Award from the Ocean Policy Research Institute arm of the Sasakawa Peace Foundation.\n\n\n\n\n\nShip time aboard the R/V Falkor (too) was provided by the Schmidt Ocean Institute.\n\n\n\nOcean Shot award propels discovery through innovation Bigelow Laboratory, 2025"
+  },
+  {
+    "objectID": "projects/oceanshot2.html#related-publications",
+    "href": "projects/oceanshot2.html#related-publications",
+    "title": "Ocean Exploration, Innovation, and Discovery",
+    "section": "Related publications",
+    "text": "Related publications\n\nBurns JA, Becker KP, Casagrande D, Daniels J, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). An in situ digital synthesis strategy for the discovery and description of ocean life. Science Advances.\nBurns JA, Daniels J, Becker KP, Casagrande D, Roberts P, Orenstein E, Vogt DM, Teoh ZE, et al. (2024). Transcriptome sequencing of seven deep marine invertebrates. Scientific Data.\nTessler M, Brugler MR, Burns JA, Sinatra NR, Vogt DM, Varma A, Xiao M, Wood RJ, et al. (2020). Ultra-gentle soft robotic fingers induce minimal transcriptomic response in a fragile marine animal. Current Biology."
+  },
+  {
+    "objectID": "teaching.html#evolutionary-cell-biology",
+    "href": "teaching.html#evolutionary-cell-biology",
+    "title": "Teaching",
+    "section": "Evolutionary Cell Biology",
+    "text": "Evolutionary Cell Biology\nColby College, developed in 2023.\n\n\n\n\nBog sampling in the winter.\n\n\n\nThe cell is the smallest structural and functional unit of life. This course explores the evolution of cells through the lens of eukaryotic diversity, which is mostly microbial. We cover the origin and evolution of eukaryotic cells, endosymbiotic theory, cell organization, eukaryotic genomes, and the ecology of eukaryotes. Students also learn how new microeukaryotes are found and described, using microscopy and molecular methods, along with basic bioinformatics.\n\n\n\n\n\n\nBog sampling in the spring.\n\n\n\nThe course fulfills the field requirement for the biology major. We go out during class time and collect from bogs, lakes, streams, ponds, and soils, then identify what we find by microscopy and sequence it."
+  },
+  {
+    "objectID": "teaching.html#how-i-teach",
+    "href": "teaching.html#how-i-teach",
+    "title": "Teaching",
+    "section": "How I teach",
+    "text": "How I teach\n“Mean people suck.”\n\nThe class was part of a course in eighteenth- and nineteenth-century Russian literature. The professor, an impish woman with a high-pitched voice, had read the phrase on a bumper sticker that week and came in ready to challenge us on what made it effective.\n“Two long vowels followed by a short one that sounds like a shot!”\nWe had all seen the bumper sticker before and most had never given it a first, let alone second or third thought. The class was part of a course in 18th and 19th century Russian literature. In the class, the boorish statement, “mean people suck” morphed into an example of modern poetry and how a variety of meanings can be conveyed in a short seemingly direct sentence. Science teaching can do the same thing.\nTwo ways I try. Every fact has a history, and saying so connects the work to the people who did it. When I teach the salamander-alga symbiosis I start with Henry Orr’s 1888 note that the eggs “seem to present a remarkable case of symbiosis” and the fact that his first question, how the algae get into the eggs, is still open. Primary literature belongs in the classroom, at whatever level the course allows. A 1938 genetics paper carries experimental design, methods, and a negative result, which is more than a textbook chapter can show about how science actually proceeds.\nI also bring my current research in, which keeps me engaged in what I am teaching and keeps students close to work that is still unfinished. In an introductory course that means posing the question and stopping there: we study a green alga that lives inside a salamander, the only case of its kind in a vertebrate. Based on what you know about cells, how would you find out what is going on? In an advanced course it means giving them the methods and having them work out the approach themselves.\nMy students have gone on to PhD programs, medical school, professional work, and to art and business school. Whatever else a course covers, they should leave it better at writing, at reading critically, and at explaining something to a room. Those carry down all of those paths."
+  },
+  {
+    "objectID": "press.html",
+    "href": "press.html",
+    "title": "Press",
     "section": "",
-    "text": "Work in the lab, and work the lab contributes to."
-  },
-  {
-    "objectID": "projects.html#currently-funded",
-    "href": "projects.html#currently-funded",
-    "title": "Projects",
-    "section": "Currently funded",
-    "text": "Currently funded\n\n\n\n\n\n\n\n\n\n\nOcean Exploration, Innovation, and Discovery\n\n\nBuilding tools for the next generation of Ocean Discovery\n\n\n\n\n\n\n\n\n\n\n\n\nThe Plagiacantha Genome Project\n\n\nA community effort to sequence the first radiolarian genome and establish Plagiacantha sp. as a model system.\n\n\n\n\n\n\n\n\n\n\n\n\nEndogenous viral elements in green algae\n\n\nGreen algal genomes carry the remains of viral infections. We are working out what they mean for the alga.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html#ongoing-work",
-    "href": "projects.html#ongoing-work",
-    "title": "Projects",
-    "section": "Ongoing work",
-    "text": "Ongoing work\n\n\n\n\n\n\n\n\n\n\nPhotsymbiosis in Spotted Salamander Eggs\n\n\nThe green alga Oophila amblystomatis grows inside the egg capsules of the spotted salamander, and in some cells, inside the embryo itself.\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting cell biology from genomes\n\n\nFor lineages known only from sequence, inferring how the cell lives from what its genome encodes.\n\n\n\n\n\n\n\n\n\n\n\n\nNovel lineages from marine sediment\n\n\nSingle-cell genomics on eukaryotes with no cultured representatives.\n\n\n\n\n\n\n\n\n\n\n\n\nRadiolarian biology\n\n\nThe cell biology of radiolarians, acantharians, and phaeodarians, worked out from living cells collected around the Atlantic.\n\n\n\n\n\n\n\n\n\n\n\n\nProtist Cell Signaling\n\n\nSignaling in microbial eukaryotes: what a cell detects, and what it does about it.\n\n\n\n\n\n\n\n\n\n\n\n\nPlacozoan genomics\n\n\nGenomes for a phylum of animals that lack most features animals have, and the taxonomy that came out of them.\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html#also-involved-in",
-    "href": "projects.html#also-involved-in",
-    "title": "Projects",
-    "section": "Also involved in",
-    "text": "Also involved in\nWork led by others where the lab contributes analysis or sequencing.\n\nMulticellular development in a close animal relative, with Omaya Dudin. Paper.\nChemical ecology of temperate reefs, with Doug Rasher and colleagues. Paper.\nSpecies discovery in Paulinella, with Julia Van Etten. Paper."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "A computational tool to predict eukaryote function from genome or transcriptome data. Given a set of predicted proteins, it estimates whether an organism is phototrophic, phagotrophic, or both, without anyone having to watch the cell feed.\nGitHub · Paper\n\n\n\n\n\n\nRelates genome completeness to the reliability of functional predictions.\nGitHub · Preprint\n\n\n\n\n\n\nAnalysis scripts from work on multicellular development in a close animal relative.\nGitHub · Paper"
-  },
-  {
-    "objectID": "resources.html#tools",
-    "href": "resources.html#tools",
-    "title": "Resources",
-    "section": "",
-    "text": "A computational tool to predict eukaryote function from genome or transcriptome data. Given a set of predicted proteins, it estimates whether an organism is phototrophic, phagotrophic, or both, without anyone having to watch the cell feed.\nGitHub · Paper\n\n\n\n\n\n\nRelates genome completeness to the reliability of functional predictions.\nGitHub · Preprint\n\n\n\n\n\n\nAnalysis scripts from work on multicellular development in a close animal relative.\nGitHub · Paper"
-  },
-  {
-    "objectID": "resources.html#data",
-    "href": "resources.html#data",
-    "title": "Resources",
-    "section": "Data",
-    "text": "Data\n\nDeep-sea genomes and transcriptomes\n\n\nSequence data from the in situ digital synthesis work: a salp genome, plus reference transcriptome assemblies and annotations for siphonophores, ctenophores, larvaceans, jellyfish, tunicates, and a pelagic polychaete, several of them preserved in situ before recovery.\n\nGenome of Pegea sp., GenBank accession JAQGEQ000000000\nReads and transcriptomes, NCBI BioProject PRJNA919492\nAssemblies and annotations on Zenodo: Pegea · Tomopteris · Marrus claudanielis · Erenna\n\nPer-specimen accessions, imaging data, and library details are tabulated in the data paper.\nMethod paper"
+    "text": "Coverage of work from the lab.\n\n\n01\n\nVertebrate-alga symbiosis\n\nAlgal symbiosis could shed light on dark ocean Bigelow Laboratory, 2020\nGasping for air eLife\nAlgae aren’t happy Scientific American\nAlgae inside salamander Pocono Record\nNew symbiosis Gizmodo\nWeird new details ScienceAlert\nNew understanding Futurism\nAlgae inside baby salamanders Mental Floss\n\n\n\n\n02\n\nDeep-sea discovery\n31 species new to science, from two weeks in the South Atlantic midwater, 2026.\n\n31 alien-like marine species discovered off the coast of Brazil Popular Science\n31 new species found off Brazil reveal a fragile world in the ocean’s midwater Discover\nScientists identify 31 new marine species during South Atlantic expedition DIVE Magazine\n31 new species discovered in two weeks of deep-sea exploration Bigelow Laboratory\nCafé Sci reveals new deep-sea organisms Boothbay Register\n\nDigital synthesis, 2024.\n\nNew undersea robot digitally captures the sea’s most delicate life Science\n\n\n\n\n03\n\nRhizarian biology\n\nComing soon\n\n\n\n\n04\n\nFunctional predictions\n\nNew model predicts cell eating UPI\n\n\n\n\n05\n\nAntifreeze in a Greenland snailfish\nThe highest expression of antifreeze protein transcripts reported in any fish, 2022.\n\nThis Arctic snailfish is loaded with antifreeze proteins Smithsonian\nBeneath a Greenland iceberg, a glowing snailfish with antifreeze in its veins Live Science\nFish chock-full of antifreeze protein found in iceberg habitats off Greenland National Science Foundation\nGlowing snailfish full of antifreeze proteins found off Greenland Eye on the Arctic\n\n\n\n\n06\n\nThe chicken or the egg\nAnimal-like embryonic development in a unicellular relative that diverged a billion years ago, 2024.\n\nThe chicken or the egg? An ancient microbe says egg Bigelow Laboratory\nAncient unicellular organism indicates embryonic development might have existed prior to animals’ evolution Phys.org\nWhat came first, the chicken or the egg? Technology Networks\n\n\n\n\n07\n\nGreen algae that eat bacteria\nThe Cymbomonas genome, 2015.\n\nWhat you eat: bacterivorous green algae raises questions about the evolution of eating and photosynthesis Genome Biology and Evolution\n\nFollow-up work showing the behavior is widespread, 2021.\n\nYes, these flesh-eating algae are real, and they like their prey alive Lamont-Doherty Earth Observatory\nGreen algae consuming bacteria American Museum of Natural History\nHungry green algae like to eat bacteria alive Technology Networks\nLittlest shop of horrors SciTechDaily"
   }
 ]

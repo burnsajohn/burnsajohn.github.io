@@ -46,7 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-02843366034b1dbc46aba30efa894287.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e7f9e786130a2b501b503873de340e28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -194,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="figure-row">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/sediment/breviate_phylogenome.jpg" class="figure-col img-fluid figure-img" alt="Phylogenomic tree placing the new lineage as sister to the breviates"></p>
+<p><a href="../images/sediment/breviate_phylogenome.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="From Cho et al.&nbsp;2026."><img src="../images/sediment/breviate_phylogenome.jpg" class="figure-col img-fluid figure-img" alt="Phylogenomic tree placing the new lineage as sister to the breviates"></a></p>
 <figcaption>From <a href="https://doi.org/10.1016/j.cub.2026.02.024">Cho et al.&nbsp;2026</a>.</figcaption>
 </figure>
 </div>
@@ -207,7 +210,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="people" class="level2">
 <h2 data-anchor-id="people">People</h2>
 <div class="person">
-<p><img src="../images/sediment/AnnaCho.jpg" style="object-fit: cover; object-position: 75% center;" alt="Anna Cho" width="160" height="160"></p>
+<p><a href="../images/sediment/AnnaCho.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="../images/sediment/AnnaCho.jpg" style="object-fit: cover; object-position: 75% center;" alt="Anna Cho" width="160" height="160"></a></p>
 <div class="person-body">
 <p><strong>Anna Cho</strong>, postdoctoral researcher in the <a href="https://wideman-lab.com/">Wideman lab</a>, Arizona State University, leads this work. She came from the Keeling lab at the University of British Columbia, and works on mitochondrial genome evolution in microaerophilic protists, long-read genomics of ploeotids, and flow-sorting environmental single cells.</p>
 </div>
@@ -682,6 +685,38 @@ This work is supported by [TODO](https://example.org).
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

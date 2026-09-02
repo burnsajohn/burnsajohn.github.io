@@ -41,6 +41,7 @@ website:
 
 format:
   html:
+    lightbox: auto
     theme:
       - theme.scss
     toc: false

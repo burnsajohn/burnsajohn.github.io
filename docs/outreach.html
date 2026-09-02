@@ -45,7 +45,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02843366034b1dbc46aba30efa894287.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-e7f9e786130a2b501b503873de340e28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -177,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="talks-and-interviews">Talks and interviews</h2>
 <section id="discovering-animals-in-the-deep-sea" class="level3 topic">
 <h3 data-anchor-id="discovering-animals-in-the-deep-sea">Discovering animals in the deep sea</h3>
-<p><a href="https://www.youtube.com/watch?v=bYFDWsiOMVk"><img src="images/outreach/4Animals.png" class="topic-img img-fluid" alt="Four deep-sea animals"></a></p>
+<p><a href="https://www.youtube.com/watch?v=bYFDWsiOMVk"><img src="images/outreach/4Animals.jpg" class="topic-img img-fluid" alt="Four deep-sea animals"></a></p>
 <div class="topic-body">
 <p>Café Sci at Bigelow Laboratory for Ocean Sciences, August 2026. A talk on the Ocean Shot project: recording gelatinous animals intact in the water, and the tools being built to do it. See the <a href="./projects/oceanshot2.html">project page</a> for the work itself.</p>
 <p><a href="https://www.youtube.com/watch?v=bYFDWsiOMVk">Watch on YouTube</a></p>
@@ -195,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-anchor-id="green-grow-the-salamanders">Green Grow the Salamanders</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.amnh.org/explore/videos/shelf-life/green-algae-salamanders"><img src="images/outreach/Image5-Chapman.png" class="topic-img img-fluid figure-img" alt="Green salamander eggs colonized by algae"></a></p>
+<p><img src="images/outreach/Image5-Chapman.png" class="topic-img img-fluid figure-img" alt="Green salamander eggs colonized by algae"></p>
 <figcaption>Photo by Erin Chapman, AMNH.</figcaption>
 </figure>
 </div>
@@ -235,7 +238,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-anchor-id="boothbay-region-high-school">Boothbay Region High School</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/outreach/bbhs_class.jpg" class="topic-img img-fluid figure-img" alt="High school class with foldscopes"></p>
+<p><a href="images/outreach/bbhs_class.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Foldscope demo with Boothbay High School AP Bio."><img src="images/outreach/bbhs_class.jpg" class="topic-img img-fluid figure-img" alt="High school class with foldscopes"></a></p>
 <figcaption>Foldscope demo with Boothbay High School AP Bio.</figcaption>
 </figure>
 </div>
@@ -252,7 +255,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 data-anchor-id="challenge-yourself-to-change">Challenge Yourself to Change</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.facebook.com/CYTCEastStroudsburg/"><img src="images/outreach/rocky.jpg" class="topic-img img-fluid figure-img" alt="John Burns with Rocky Sayles in the field"></a></p>
+<p><img src="images/outreach/rocky.jpg" class="topic-img img-fluid figure-img" alt="John Burns with Rocky Sayles in the field"></p>
 <figcaption>With Rocky Sayles, founder of Challenge Yourself to Change.</figcaption>
 </figure>
 </div>
@@ -705,6 +708,38 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

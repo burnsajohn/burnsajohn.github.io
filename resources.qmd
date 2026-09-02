@@ -52,7 +52,7 @@ relative.
 ::: {.topic}
 ### Deep-sea genomes and transcriptomes
 
-![](images/resources/4Animals.png){.topic-img fig-alt="Four deep sea animals"}
+![](images/resources/4Animals.jpg){.topic-img fig-alt="Four deep sea animals"}
 
 ::: {.topic-body}
 Sequence data from the in situ digital synthesis work: a salp genome, plus

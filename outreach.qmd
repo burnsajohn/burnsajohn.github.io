@@ -15,7 +15,7 @@ Talks, art, and time spent in ponds.
 ::: {.topic}
 ### Discovering animals in the deep sea
 
-[![](images/outreach/4Animals.png){.topic-img fig-alt="Four deep-sea animals"}](https://www.youtube.com/watch?v=bYFDWsiOMVk)
+[![](images/outreach/4Animals.jpg){.topic-img fig-alt="Four deep-sea animals"}](https://www.youtube.com/watch?v=bYFDWsiOMVk)
 
 ::: {.topic-body}
 Café Sci at Bigelow Laboratory for Ocean Sciences, August 2026. A talk on the

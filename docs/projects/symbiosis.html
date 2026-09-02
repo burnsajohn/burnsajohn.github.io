@@ -46,7 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-02843366034b1dbc46aba30efa894287.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e7f9e786130a2b501b503873de340e28.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -174,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="page-hero parallax column-screen" style="height: 300px;">
-<p><img src="../images/salsymbio/Stage34_algaeHighlighted.gif" class="img-fluid" style="object-position: center 50%;" alt="Light sheet reconstruction of a stage 34 embryo with algae highlighted"></p>
+<p><a href="../images/salsymbio/Stage34_algaeHighlighted.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="../images/salsymbio/Stage34_algaeHighlighted.gif" class="img-fluid" style="object-position: center 50%;" alt="Light sheet reconstruction of a stage 34 embryo with algae highlighted"></a></p>
 </div>
 <div class="lead">
 <p>The green alga <span class="taxon"><em>Oophila amblystomatis</em></span> grows inside the egg capsules of the spotted salamander, and in some cells, inside the embryo itself. It is the only known case of a photosynthetic cell living inside the tissues of a vertebrate.</p>
@@ -184,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="figure-row">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/salsymbio/eggmasses_Hangarter.png" class="figure-col img-fluid figure-img" alt="Spotted salamander egg masses, green with algae"></p>
+<p><a href="../images/salsymbio/eggmasses_Hangarter.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Photo by Roger Hangarter."><img src="../images/salsymbio/eggmasses_Hangarter.png" class="figure-col img-fluid figure-img" alt="Spotted salamander egg masses, green with algae"></a></p>
 <figcaption>Photo by <a href="https://www.rogerhangarter.net/">Roger Hangarter</a>.</figcaption>
 </figure>
 </div>
@@ -193,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="figure-row figure-row-flip">
-<p><img src="../images/salsymbio/SalAlgDiss-Burns.png" class="figure-col img-fluid" alt="Single salamander cell with three algae inside"></p>
+<p><a href="../images/salsymbio/SalAlgDiss-Burns.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="../images/salsymbio/SalAlgDiss-Burns.png" class="figure-col img-fluid" alt="Single salamander cell with three algae inside"></a></p>
 <div class="figure-text">
 <p>In 2011, <a href="https://doi.org/10.1073/pnas.1018259108">Ryan Kerney and colleagues</a> found that the egg-colonizing algae also enter embryonic tissues and individual cells. This is the only such case recorded in a vertebrate, and it is the exception that proves the rule: the algae are tolerated in an embryo, before adaptive immunity is established. That constraint holds, because at embryonic stages the host salamander’s immune system is not yet developed.</p>
 </div>
@@ -206,7 +209,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="figure-row">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/salsymbio/oxygenCartoon2.png" class="figure-col img-fluid figure-img" alt="Oxygen concentration inside salamander eggs in light and dark"></p>
+<p><a href="../images/salsymbio/oxygenCartoon2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Redrawn from Bachmann et al.&nbsp;1986."><img src="../images/salsymbio/oxygenCartoon2.png" class="figure-col img-fluid figure-img" alt="Oxygen concentration inside salamander eggs in light and dark"></a></p>
 <figcaption>Redrawn from <a href="https://doi.org/10.1139/z86-239">Bachmann et al.&nbsp;1986</a>.</figcaption>
 </figure>
 </div>
@@ -221,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="figure-row figure-row-flip">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../images/salsymbio/ExpressionCartoon.jpg" class="figure-col img-fluid figure-img" alt="Diagram of transcriptional changes in host and algal cells during the endosymbiosis"></p>
+<p><a href="../images/salsymbio/ExpressionCartoon.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="From Burns et al.&nbsp;2017, CC BY."><img src="../images/salsymbio/ExpressionCartoon.jpg" class="figure-col img-fluid figure-img" alt="Diagram of transcriptional changes in host and algal cells during the endosymbiosis"></a></p>
 <figcaption>From <a href="https://doi.org/10.7554/eLife.22054">Burns et al.&nbsp;2017</a>, CC BY.</figcaption>
 </figure>
 </div>
@@ -702,6 +705,38 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

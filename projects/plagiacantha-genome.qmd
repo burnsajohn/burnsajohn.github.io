@@ -40,7 +40,7 @@ characterized in this much detail.
 
 Four things about the organism make it suitable.
 
-[![](../images/plagiacantha/RadMorpho2-01.png){fig-alt="TODO: describe what the figure labels" style="width: 60%; display: block; margin: 0 auto;"}](../images/plagiacantha/RadMorpho2-01.png)
+![](../images/plagiacantha/RadMorpho2-01.png){fig-alt="TODO: describe what the figure labels" style="width: 60%; display: block; margin: 0 auto;"}
 
 **No photosymbionts.** Many radiolarians host dinoflagellate symbionts.
 [*Plagiacantha*]{.taxon} does not, which simplifies both sequencing and
@@ -71,7 +71,7 @@ which is what makes the whole project possible. We sample through the bloom and
 post the counts as they come in.
 
 ::: {.figure-row}
-[![This season against the average of previous years.](../images/plagiacantha/bloom-current.png){.figure-col fig-alt="Cell abundance by sampling date for the current season, plotted against the average of previous seasons"}](../images/plagiacantha/bloom-current.png)
+![This season against the average of previous years.](../images/plagiacantha/bloom-current.png){.figure-col fig-alt="Cell abundance by sampling date for the current season, plotted against the average of previous seasons"}
 
 ::: {.figure-text}
 **Last sampled August 31, 2026.**
@@ -92,7 +92,7 @@ and analysis, so the foundational resources are built collectively.
 Three strands run in parallel.
 
 ::: {.figure-row style="--fig-width: 32%;"}
-[![Isolated [*Plagiacantha*]{.taxon} cells.](../images/plagiacantha/IsolatedPlagiacantha.jpg){.figure-col .round fig-alt="Isolated Plagiacantha cells under the microscope"}](../images/plagiacantha/IsolatedPlagiacantha.jpg)
+![Isolated [*Plagiacantha*]{.taxon} cells.](../images/plagiacantha/IsolatedPlagiacantha.jpg){.figure-col .round fig-alt="Isolated Plagiacantha cells under the microscope"}
 
 ::: {.figure-text}
 **Sequencing.** The fall bloom supplies material for single-cell whole genome
@@ -173,7 +173,7 @@ retarians.
 
 ::: {.content-hidden}
 ::: {.logo-block .logo-left}
-![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
+![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 .nolightbox style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
 
 ::: {.logo-text}
 This work is supported by [The Hypothesis Fund](https://hypothesisfund.org/).
