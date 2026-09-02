@@ -3,3 +3,9 @@ quarto preview --port 4200 --no-browser
 #if it doesn't stop:
 ss -ltnp | grep 4200
 kill -9 <pid>
+
+quarto render
+git add . -v
+git commit -m "Video figures, lightbox fixes, layout repairs"
+git push
+

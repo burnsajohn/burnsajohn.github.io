@@ -54,15 +54,17 @@ Images from the lab, the field, and the microscope.
 
 [![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/S0460_Marrus.jpg){fig-alt="TODO: describe this image"}](images/gallery/S0460_Marrus.jpg)
 
-<video autoplay loop muted playsinline>
-  <source src="images/gallery/Stage34_algaeHighlighted.mp4" type="video/mp4">
-  TODO: describe this image
-</video>
+<div>
+<a href="images/gallery/Stage34_algaeHighlighted.mp4">
+<video src="images/gallery/Stage34_algaeHighlighted.mp4" autoplay loop muted playsinline></video>
+</a>
+</div>
 
-<video autoplay loop muted playsinline>
-  <source src="images/gallery/Stage38_algaeHighlighted.mp4" type="video/mp4">
-  TODO: describe this image
-</video>
+<div>
+<a href="images/gallery/Stage38_algaeHighlighted.mp4">
+<video src="images/gallery/Stage38_algaeHighlighted.mp4" autoplay loop muted playsinline></video>
+</a>
+</div>
 
 [![Image from the ROV SuBastian, Schmidt Ocean Institute](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg){fig-alt="TODO: describe this image"}](images/gallery/tomopterid_FK210812_20210819T054601Z_4K_SCI_S0458.jpg)
 

@@ -540,8 +540,10 @@ p > img.fig-left {
 }
 
 // Figures wrapped in a link to the full-size file. overflow: hidden
-// keeps the hover zoom below from spilling out of the column.
-.figure-row a:has(img) {
+// keeps the hover zoom below from spilling out of the column. Videos
+// are linked by hand rather than by the lightbox filter, which only
+// handles images, so the anchor is matched on either child.
+.figure-row a:has(img, video) {
   border-bottom: 0;
   display: block;
   width: 100%;
@@ -584,12 +586,15 @@ p > img.fig-left {
 // clicked. Only on linked figures: an image that does nothing should
 // not invite a click. The scale is deliberately slight, since a plot
 // that jumps is distracting rather than inviting.
-.figure-row a:has(img) img {
+.figure-row a:has(img, video) img,
+.figure-row a:has(img, video) video {
   transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.3, 1);
 }
 
-.figure-row a:has(img):hover img,
-.figure-row a:has(img):focus-visible img {
+.figure-row a:has(img, video):hover img,
+.figure-row a:has(img, video):hover video,
+.figure-row a:has(img, video):focus-visible img,
+.figure-row a:has(img, video):focus-visible video {
   transform: scale(1.04);
 }
 
@@ -689,11 +694,15 @@ p > img.fig-left {
 
 // Captions written as a paragraph under each video.
 .video-pair p {
+  display: flex;
+  gap: 1rem;
   margin: 0;
 }
 
 // Raw <video> elements, which is what you get without the shortcode.
 // The shortcode's wrapper classes are covered too, in case it is used.
+
+.video-pair a,
 .video-pair video,
 .video-pair .quarto-video,
 .video-pair .ratio {
@@ -868,13 +877,17 @@ img.topic-img.square,
 
 // Quarto wraps each image in its own <p>, which becomes the grid
 // item. Captioned images arrive in div.quarto-figure instead.
-.gallery > p,
 .gallery > .quarto-figure,
 .gallery > figure {
   margin: 0;
 }
 
-.gallery img {
+.gallery > p {
+  display: contents;
+}
+
+.gallery img,
+.gallery video {
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
@@ -1246,7 +1259,8 @@ img.sticker {
     height: 100%;
     transform: none !important;
   }
-  .figure-row a:has(img):hover img {
+  .figure-row a:has(img, video):hover img,
+  .figure-row a:has(img, video):hover video {
     transform: none;
   }
 }

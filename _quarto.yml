@@ -5,6 +5,7 @@ project:
     - CNAME
     - .nojekyll
     - files/
+    - images/**/*.mp4
 
 website:
   title: "Protist Systems Biology"

@@ -68,7 +68,7 @@
   doi: "10.1126/sciadv.adj4960"
   year: 2024
   era: current
-  image: "images/pubs/2024-situ-digital-synthesis-strategy.png"
+  image: "images/pubs/2024-situ-digital-synthesis-strategy.jpg"
   featured: true
 
 # image slug: 2024-functional-stress-responses-glaucophyta
@@ -78,6 +78,8 @@
   doi: "10.1111/jeu.13041"
   year: 2024
   era: current
+  image: "images/pubs/2024-signalingModel.jpg"
+  featured: true
 
 # image slug: 2024-transcriptome-sequencing-seven-deep
 - title: "Transcriptome sequencing of seven deep marine invertebrates"
@@ -233,6 +235,8 @@
   path: "https://doi.org/10.1038/s41559-018-0477-7"
   doi: "10.1038/s41559-018-0477-7"
   year: 2018
+  image: "images/pubs/2018-cutlass_fish3.jpg"
+  featured: true
   era: current
 
 # image slug: 2018-genetic-instability-associated-loop
@@ -277,6 +281,8 @@
   path: "https://doi.org/10.7554/elife.22054"
   doi: "10.7554/elife.22054"
   year: 2017
+  image: "images/pubs/2017_green-eggs.jpg"
+  featured: true
   era: current
 
 # image slug: 2016-investigating-mechanisms-algal-entry

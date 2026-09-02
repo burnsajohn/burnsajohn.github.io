@@ -44,7 +44,7 @@ glaucophyte uses is unknown.
 
 ## The approach
 
-[![Glaucophytes within the Archaeplastida.](../images/cellsignaling/GlaucoTREE.png){.fig-half fig-alt="Phylogeny showing glaucophytes as sister to green algae and land plants"}](../images/cellsignaling/GlaucoTREE.png)
+![Glaucophytes within the Archaeplastida.](../images/cellsignaling/GlaucoTREE.png){.fig-half fig-alt="Phylogeny showing glaucophytes as sister to green algae and land plants"}
 
 Our first look at signaling in microeukaryotes was in [Cyanophora
 paradoxa]{.taxon}, a glaucophyte, chosen for two reasons that pull in opposite
@@ -64,7 +64,7 @@ the cell to the genome.
 ## What we found
 
 ::: {.figure-row .figure-row-flip}
-[![A working model of stress signaling in [*Cyanophora paradoxa*]{.taxon}.](../images/cellsignaling/signalingModel.jpg){.figure-col fig-alt="TODO: describe the pathway shown"}](../images/cellsignaling/signalingModel.jpg)
+![A working model of stress signaling in [*Cyanophora paradoxa*]{.taxon}.](../images/cellsignaling/signalingModel.jpg){.figure-col fig-alt="TODO: describe the pathway shown"}
 
 ::: {.figure-text}
 [*Cyanophora paradoxa*]{.taxon} makes ethylene under abiotic stress. It will

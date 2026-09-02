@@ -41,7 +41,7 @@ Mediterranean, and the central Atlantic.
 ### Gulf of Maine
 
 ::: {.figure-row}
-![Top row: [*Sticholonche*]{.taxon} sp., [*Plagiacantha*]{.taxon} sp., unknown colony. Bottom row: [*Acanthometron*]{.taxon} sp., [*Lithomelissa*]{.taxon} sp. 1, [*Lithomelissa*]{.taxon} sp. 2.](../images/radiolaria/MaineRads_3yrs.png){.figure-col fig-alt="Six radiolarian morphospecies collected in the Gulf of Maine"}
+![Top row: [*Sticholonche*]{.taxon} sp., [*Plagiacantha*]{.taxon} sp., unknown colony. Bottom row: [*Acanthometron*]{.taxon} sp., [*Lithomelissa*]{.taxon} sp. 1, [*Lithomelissa*]{.taxon} sp. 2.](../images/radiolaria/MaineRads_3yrs.jpg){.figure-col fig-alt="Six radiolarian morphospecies collected in the Gulf of Maine"}
 
 ::: {.figure-text}
 In the nearshore estuaries of the Gulf of Maine we see a small number of species
@@ -82,7 +82,7 @@ animals.
 ### Puerto Rico
 
 ::: {.figure-row}
-![Morphospecies from the Caribbean, including a tropical [*Plagiacantha*]{.taxon} in the second row.](../images/radiolaria/PuretoRicoRADS1-01.png){.figure-col fig-alt="Montage of radiolarian morphospecies collected off southern Puerto Rico"}
+![Morphospecies from the Caribbean, including a tropical [*Plagiacantha*]{.taxon} in the second row.](../images/radiolaria/PuretoRicoRADS1-01.jpg){.figure-col fig-alt="Montage of radiolarian morphospecies collected off southern Puerto Rico"}
 
 ::: {.figure-text}
 We sampled south into the Caribbean from the University of Puerto Rico
@@ -103,19 +103,17 @@ Everything here runs on field-collected cells, which shapes the methods. Live
 imaging while the cells are still behaving, fixation and microscopy for
 structure, and single-cell sequencing where a genome is what the question needs.
 
-
 <div class="video-pair">
-<video controls preload="metadata">
-  <source src="../images/radiolaria/RadTrap.mp4" type="video/mp4">
-</video>
-<video controls preload="metadata">
-  <source src="../images/radiolaria/AcanthSwarm.mp4" type="video/mp4">
-</video>
+<a href="../images/radiolaria/RadTrap.mp4">
+<video src="../images/radiolaria/RadTrap.mp4" autoplay loop muted playsinline></video>
+</a>
+<a href="../images/radiolaria/AcanthSwarm.mp4">
+<video src="../images/radiolaria/AcanthSwarm.mp4" autoplay loop muted playsinline></video>
+</a>
 </div>
 
-
 ::: {style="text-align: center;"}
-[![Ultrastructure expansion microscopy of [*Plagiacantha*]{.taxon} sp., showing microtubules along the spicules and forming other organized structures in the cell.](../images/radiolaria/RAD_UEXM.png){fig-alt="Expansion microscopy image of a Plagiacantha cell with microtubules labelled" style="width: 50%;"}](../images/radiolaria/RAD_UEXM.png)
+![Ultrastructure expansion microscopy of [*Plagiacantha*]{.taxon} sp., showing microtubules along the spicules and forming other organized structures in the cell.](../images/radiolaria/RAD_UEXM.png){fig-alt="Expansion microscopy image of a Plagiacantha cell with microtubules labelled" style="width: 50%;"}
 :::
 
 Radiolaria genome sequencing has its own page: the

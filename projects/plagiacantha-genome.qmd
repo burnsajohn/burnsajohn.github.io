@@ -8,7 +8,7 @@ order: 2
 ---
 
 ::: {.page-hero .parallax .column-screen style="height: 340px;"}
-[![](../images/plagiacantha/ColorSwarm_TC-01.png){fig-alt="TODO: describe this image" style="object-position: center 80%;"}](../images/plagiacantha/ColorSwarm_TC-01.png)
+[![](../images/plagiacantha/ColorSwarm_TC-01.jpg){fig-alt="TODO: describe this image" style="object-position: center 80%;"}](../images/plagiacantha/ColorSwarm_TC-01.jpg)
 :::
 
 ::: {.lead}
@@ -23,9 +23,19 @@ species, most of what is known comes from encounters rather than experiments.
 
 ::: {.figure-row style="--fig-width: 55%;"}
 ::: {.figure-stack .figure-stack-side}
-![Feeding on a dinoflagellate.](../images/plagiacantha/eatdino.gif){fig-alt="TODO: describe what happens"}
+<figure>
+<a href="../images/plagiacantha/eatdino.mp4">
+<video src="../images/plagiacantha/eatdino.mp4" autoplay loop muted playsinline></video>
+</a>
+<figcaption>Feeding on a dinoflagellate.</figcaption>
+</figure>
 
-![Feeding on a green alga.](../images/plagiacantha/eatgreen.gif){fig-alt="TODO: describe what happens"}
+<figure>
+<a href="../images/plagiacantha/eatgreen.mp4">
+<video src="../images/plagiacantha/eatgreen.mp4" autoplay loop muted playsinline></video>
+</a>
+<figcaption>Feeding on a green alga.</figcaption>
+</figure>
 :::
 
 ::: {.figure-text}

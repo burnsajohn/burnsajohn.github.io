@@ -18,7 +18,7 @@ listing:
 
 ::: {.hero}
 ::: {.hero__media}
-![](images/Radiolaria_1_10x-0003.2.png){fig-alt="Phaeodarian from the Trinidad Head Line in California"}
+![](images/Radiolaria_1_10x-0003.2.jpg){fig-alt="Phaeodarian from the Trinidad Head Line in California"}
 :::
 ::: {.hero__scrim}
 :::
