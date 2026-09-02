@@ -10,5 +10,5 @@ git commit -m "Video figures, lightbox fixes, layout repairs"
 git push
 
 quarto render
-git add . && git commit -m "Add name to project page and fix large videos"
+git add . && git commit -m "Edited Text"
 git push
