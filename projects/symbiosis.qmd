@@ -141,22 +141,18 @@ Currently seeking support for projects in this system.
 
 ::: {.logo-block}
 ![](../images/Moore_Foundation_Logo.jpg){width=140 fig-alt="Gordon and Betty Moore Foundation"}
-
 ::: {.logo-text}
 The [Gordon and Betty Moore Foundation](https://www.moore.org/) supported much
 of our work on this system.
 :::
 :::
-
-::: {.logo-block .logo-right}
+::: {.logo-block}
 ![](../images/NSF_logo.svg.webp){width=110 fig-alt="National Science Foundation"}
-
 ::: {.logo-text}
 The National Science Foundation funded my initial involvement through
 [award 1428065](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1428065).
 :::
 :::
-
 An award from the William Procter Scientific Innovation Fund let us begin
 exploring natural products and immune interactions in the symbiosis.
 
