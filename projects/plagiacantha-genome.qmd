@@ -181,9 +181,11 @@ retarians.
 
 ## Support
 
+Coming soon.
+
 ::: {.content-hidden}
-::: {.logo-block .logo-left}
-![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 .nolightbox style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
+::: {.logo-block}
+![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
 
 ::: {.logo-text}
 This work is supported by [The Hypothesis Fund](https://hypothesisfund.org/).

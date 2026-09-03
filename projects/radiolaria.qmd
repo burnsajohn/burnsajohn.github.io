@@ -187,6 +187,8 @@ should know about it.
 
 ## Support
 
+Coming soon.
+
 ::: {.content-hidden}
 ::: {.logo-block}
 ![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
@@ -201,4 +203,15 @@ That grant covers the genome. The rest of the work here, the comparative
 sampling and the cell biology, is unfunded, and radiolarian research broadly
 remains so. We are currently seeking support for other research avenues. If you are interested in supporting it, [get in
 touch](../about.qmd#contact).
+:::
+
+### Prior support
+
+::: {.logo-block}
+![](../images/Moore_Foundation_Logo.jpg){width=140 fig-alt="Gordon and Betty Moore Foundation"}
+
+::: {.logo-text}
+The [Gordon and Betty Moore Foundation](https://www.moore.org/) supported
+collaborative work on radiolarian tools in 2020, through an award to Fabrice Not that included a subaward to my lab.
+:::
 :::
