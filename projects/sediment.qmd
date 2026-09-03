@@ -74,6 +74,7 @@ environmental single cells.
 
 ## Support
 
+### Current Support
 Currently seeking support for this work!
 
 <!-- TODO: funder, or delete this section. Follow the Ocean Shot pattern if
@@ -86,6 +87,25 @@ This work is supported by [TODO](https://example.org).
 :::
 -->
 
+### Prior Support
+
+::: {.logo-block}
+![](../images/NSF_logo.svg.webp){width=110 fig-alt="National Science Foundation"}
+
+::: {.logo-text}
+Support for this research was provided to Jeremy Wideman through awards [2119963](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2119963) and [2405455](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405455), and Ramunas Stepanauskas and Nicole Poulton through award [1826734](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826734)
+:::
+:::
+
+::: {.logo-block}
+![](../images/JGI_logo.png){width=110 fig-alt="Joint Genome Institute"}
+
+::: {.logo-text}
+Additional support was provided through proposal: 10.46936/10.25585/60001099 conducted by the U.S. Department of Energy Joint Genome Institute (https://ror.org/04xm1d337), a DOE Office of Science User Facility, which is supported by the Office of Science of the U.S. Department of Energy operated under Contract No. DE-AC02-05CH11231.
+:::
+:::
+
 ## Related publications
 
 - Cho A, **Burns JA**, Woyke T, Stepanauskas R, Poulton N, Wideman JG (2026). [Aerobic sister lineage of breviates has gene-rich mitochondrial genomes](https://doi.org/10.1016/j.cub.2026.02.024). *Current Biology*.
+

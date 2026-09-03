@@ -187,6 +187,8 @@ should know about it.
 
 ## Support
 
+### Current support
+
 Coming soon.
 
 ::: {.content-hidden}

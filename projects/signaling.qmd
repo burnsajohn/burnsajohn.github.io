@@ -110,7 +110,19 @@ touch](../about.qmd).
 
 ## Support
 
+### Current Support
+
 Currently seeking support for this work.
+
+### Prior Support
+
+::: {.logo-block}
+![](../images/NSF_logo.svg.webp){width=110 fig-alt="National Science Foundation"}
+
+::: {.logo-text}
+Support for this research was provided in part by NSF award [1826734](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1826734) which contributed startup funding to Burns
+:::
+:::
 
 ## Related publications
 

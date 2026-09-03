@@ -181,6 +181,8 @@ retarians.
 
 ## Support
 
+### Current support
+
 Coming soon.
 
 ::: {.content-hidden}
@@ -192,5 +194,7 @@ This work is supported by [The Hypothesis Fund](https://hypothesisfund.org/).
 :::
 :::
 :::
+
+### Prior support
 
 More on [radiolarian biology](radiolaria.qmd).

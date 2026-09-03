@@ -63,12 +63,24 @@ We are working on what the viral elements mean for the alga.
 
 ## Support
 
+### Current Support
+
 ::: {.logo-block}
 ![](../images/algavirus/NRFK.jpg){width=120 style="padding: 0.6rem 0.9rem;" fig-alt="National Research Foundation of Korea"}
 
 ::: {.logo-text}
 **Microscopic and genetic investigation into the endogenous viral elements in green algae**
 National Research Foundation of Korea. 2025 to 2028.
+:::
+:::
+
+### Prior Support
+
+::: {.logo-block}
+![](../images/NSF_logo.svg.webp){width=110 fig-alt="National Science Foundation"}
+
+::: {.logo-text}
+Prior suport for this project was provided to Eunsoo Kim through NSF award [IOS-1453639](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1453639) 
 :::
 :::
 

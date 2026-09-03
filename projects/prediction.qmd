@@ -85,6 +85,23 @@ now at the Institute of Molecular Biology and Biotechnology, FORTH, and
 [Eunsoo Kim](https://pure.ewha.ac.kr/en/persons/eunsoo-kim/), now at Ewha Womans
 University.
 
+## Support
+
+### Current Support
+
+We are currently seeking support for this line of research.
+
+### Prior Support
+
+::: {.logo-block}
+![](../images/Simons-Foundation-Logo_blue.png){width=140 fig-alt="Simons Foundation"}
+
+::: {.logo-text}
+The [Simons Foundation](https://www.simonsfoundation.org/) supported this work
+through award SF-382790.
+:::
+:::
+
 ## Related publications
 
 - **Burns JA**, Pittis AA, Kim E (2018). [Gene-based predictive models of trophic modes suggest Asgard archaea are not phagocytotic](https://doi.org/10.1038/s41559-018-0477-7). *Nature Ecology & Evolution*.

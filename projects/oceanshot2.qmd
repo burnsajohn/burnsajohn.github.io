@@ -72,6 +72,9 @@ Bigelow in August 2026.
 
 ## Support
 
+
+### Current Support
+
 ::: {.logo-block}
 ![](../images/oceanshotlogo2.png){width=120 .nolightbox fig-alt="Ocean Shot"}
 
@@ -89,6 +92,17 @@ Ship time aboard the R/V *Falkor (too)* was provided by the [Schmidt Ocean Insti
 :::
 
 - [Ocean Shot award propels discovery through innovation](https://www.bigelow.org/news/articles/2025-05-27.html) <span class="press-outlet">Bigelow Laboratory, 2025</span>
+
+### Prior Support
+
+::: {.logo-block}
+![](../images/SOI-logo.jpg){width=120 fig-alt="Schmidt Ocean Institute"}
+
+::: {.logo-text}
+In addition to ship time, the [Schmidt Ocean Institute](https://schmidtocean.org/)
+supported the development of this research as *Designing the Future*.
+:::
+:::
 
 ## Related publications
 
