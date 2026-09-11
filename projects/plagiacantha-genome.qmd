@@ -84,7 +84,7 @@ post the counts as they come in.
 ![This season against the average of previous years.](../images/plagiacantha/bloom-current.png){.figure-col fig-alt="Cell abundance by sampling date for the current season, plotted against the average of previous seasons"}
 
 ::: {.figure-text}
-**Last sampled August 31, 2026.**
+**Last sampled September 9, 2026.**
 
 Average counts cover the period 2022 to 2025. The current season is plotted
 against it, with last year's counts carried one sampling date further ahead, so
