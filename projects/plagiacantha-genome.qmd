@@ -109,8 +109,8 @@ the deeper water is a second route to material when the bloom is late.
 :::
 :::
 
-<div class="figure-row" style="--fig-width: 30%;">
-<img src="../images/plagiacantha/GAMONT.jpg" class="figure-col" alt="Radiolarian gamont">
+<div class="figure-row">
+<img src="../images/plagiacantha/GAMONT.jpg" alt="Radiolarian gamont" style="flex: 0 0 30%; max-width: 30%; height: auto;">
 <div class="figure-text">
 <p>A single reproductive cell, isolated from the 100 m sample. Within 24 hours it released swarmers, the haploid cells the sequencing strategy runs on.</p>
 <video controls preload="metadata" style="max-height: 380px; width: auto;">
