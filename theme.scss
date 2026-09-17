@@ -1363,3 +1363,59 @@ img.round,
   aspect-ratio: 1;
   object-fit: cover;
 }
+
+// ===============================================================
+// MEDIA ROW
+// An image and a video side by side, each with its own caption.
+// Written as raw HTML so Pandoc never has to match a ::: fence
+// against a block-level <video>, which is where the unclosed-div
+// warnings come from.
+// ===============================================================
+.media-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+  clear: both;
+}
+
+.media-row > .media-item {
+  flex: 1 1 0;
+  min-width: 0;
+  margin: 0;
+}
+
+// A portrait video beside a landscape image would otherwise tower
+// over it, so cap the height and let the width follow.
+.media-row img,
+.media-row video {
+  width: 100%;
+  height: auto;
+  max-height: 420px;
+  object-fit: contain;
+  display: block;
+  margin: 0;
+}
+
+.media-row a {
+  border-bottom: 0;
+  display: block;
+}
+
+.media-row a:hover img {
+  filter: brightness(1.06);
+}
+
+.media-row figcaption {
+  font-family: $font-family-monospace;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: $ink-soft;
+  padding-top: 0.45rem;
+}
+
+@media (max-width: 700px) {
+  .media-row {
+    flex-direction: column;
+  }
+}
