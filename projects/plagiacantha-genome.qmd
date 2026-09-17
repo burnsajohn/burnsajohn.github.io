@@ -119,7 +119,7 @@ strategy runs on.
 :::
 :::
 
-<video controls preload="metadata">
+<video controls preload="metadata" style="max-width: 600px; display: block; margin: 0 auto;">
   <source src="../images/plagiacantha/SWARMERS.mp4" type="video/mp4">
 </video>
 
