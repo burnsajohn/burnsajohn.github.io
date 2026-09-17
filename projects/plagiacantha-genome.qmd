@@ -84,7 +84,7 @@ post the counts as they come in.
 ![This season against the average of previous years.](../images/plagiacantha/bloom-current.png){.figure-col fig-alt="Cell abundance by sampling date for the current season, plotted against the average of previous seasons"}
 
 ::: {.figure-text}
-**Last sampled September 9, 2026.**
+**Last sampled September 16, 2026.**
 
 Average counts cover the period 2022 to 2025. The current season is plotted
 against it, with last year's counts carried one sampling date further ahead, so
@@ -92,6 +92,36 @@ the plot shows not only where the bloom is but what happened next the last time
 around.
 :::
 :::
+
+### Update, 16 September 2026
+
+A sample from 100 m depth in the Gulf of Maine aboard the
+[R/V *Bowditch*](https://www.bigelow.org/services/facilities-and-vessels/rv-bowditch/)
+returned radiolarians in numbers sufficient for the next steps in the project.
+The dock bloom also looks like it may finally be picking up.
+
+::: {.figure-row}
+![Life stages of [*Plagiacantha*]{.taxon} sp.](../images/plagiacantha/LIFESTAGES.jpg){.figure-col fig-alt="Four rariolarians at different life stages"}
+
+::: {.figure-text}
+Finding cells offshore matters because the dock has been slow this year, and
+the deeper water is a second route to material when the bloom is late.
+:::
+:::
+
+::: {.figure-row .figure-row-flip}
+![An isolated gamont.](../images/plagiacantha/GAMONT.jpg){.figure-col fig-alt="Radiolarian reproductive cell/Gamont"}
+
+::: {.figure-text}
+A single reproductive cell, isolated from the 100 m sample. The video below
+shows the same cell after releasing swarmers, the haploid cells the sequencing
+strategy runs on.
+:::
+:::
+
+<video controls preload="metadata">
+  <source src="../images/plagiacantha/SWARMERS.mp4" type="video/mp4">
+</video>
 
 ## How it works
 
@@ -145,11 +175,12 @@ touch](../about.qmd#contact).
 - **Anna Cho**, Arizona State University
 - **Nicole Coots**, University of British Columbia
 - **Miguel Méndez Sandín**, Institut de Biologia Evolutiva, CSIC-UPF
-
-::: {.content-hidden}
 - **Natalia Llopis Monferrer**, Monterey Bay Aquarium Research Institute
 - **Fabrice Not**, Station Biologique de Roscoff
 - **Manu Prakash**, Stanford University
+- **David Fields**, Bigelow Laboratory for Ocean Sciences
+
+::: {.content-hidden}
 - **Ian Probert**, Station Biologique de Roscoff
 :::
 
