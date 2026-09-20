@@ -125,6 +125,21 @@ released swarmers, the haploid cells the sequencing strategy runs on.
 </figure>
 </div>
 
+### Update, 20 September 2026
+
+A bloom of the harmful dinoflagellate [*Karenia mikimotoi*](https://wgme.com/news/local/algae-bloom-continues-along-the-maine-coast-experts-say-its-moving-into-new-areas-09-17-2026)
+is running in the Gulf of Maine this year, covering the area we sample. It is
+affecting shellfish in the region, and it may be connected to the low
+radiolarian counts at the Bigelow dock.
+
+The last reported bloom of this species here was in 2017, outside our sampling
+window, so it does not appear in our counts and we have no direct comparison.
+The radiolarians may have moved deeper, which would keep them from reaching the
+dock on the tides, or they may simply not be growing in the shallows while the
+dinoflagellate is there.
+
+At around 20 microns the dinoflagellate passes through our 30 micron net, so we
+cannot see the bloom in our own tows either.
 
 ## How it works
 
