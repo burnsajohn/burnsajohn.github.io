@@ -196,12 +196,13 @@ should know about it.
 The [*Plagiacantha* genome project](plagiacantha-genome.qmd) is supported by
 [The Hypothesis Fund](https://hypothesisfund.org/).
 :::
+:::
 
 That grant covers the genome. The rest of the work here, the comparative
 sampling and the cell biology, is unfunded, and radiolarian research broadly
 remains so. We are currently seeking support for other research avenues. If you are interested in supporting it, [get in
 touch](../about.qmd#contact).
-:::
+
 
 ### Prior support
 
