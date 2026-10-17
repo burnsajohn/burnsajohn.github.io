@@ -189,9 +189,6 @@ should know about it.
 
 ### Current support
 
-Coming soon.
-
-::: {.content-hidden}
 ::: {.logo-block}
 ![](../images/radiolaria/HF_Logo_Wordmark_03.webp){width=120 style="background: #16211F; padding: 0.6rem 0.9rem;" fig-alt="The Hypothesis Fund"}
 
