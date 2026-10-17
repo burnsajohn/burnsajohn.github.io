@@ -84,7 +84,7 @@ post the counts as they come in.
 ![This season against the average of previous years.](../images/plagiacantha/bloom-current.png){.figure-col fig-alt="Cell abundance by sampling date for the current season, plotted against the average of previous seasons"}
 
 ::: {.figure-text}
-**Last sampled September 18, 2026.**
+**Last sampled October 16, 2026.**
 
 Average counts cover the period 2022 to 2025. The current season is plotted
 against it, with last year's counts carried one sampling date further ahead, so
@@ -144,6 +144,9 @@ cannot see the bloom in our own tows either.
 We will continue monitoring at the dock and will increase sampling in deeper water to
 make sure we have access to cells for the genomics project.
 
+### Update, 16 October 2026
+
+Visiting scientists passed through the lab over the past month and we made progress on genome sequencing. More on that later. The bloom at the dock is finally picking up now--later than I have ever observed it before. I will continue to monitor the bloom to track the peak and when it finally vanishes until next year. 
 
 ## How it works
 
